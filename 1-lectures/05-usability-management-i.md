@@ -1,6 +1,6 @@
-## 01 Project Organisation
+## 05 Usability Management I
 
-###### 3 May - 9 May
+###### 31 May - 6 June
 
 ###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
 

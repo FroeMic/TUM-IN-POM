@@ -1,4 +1,4 @@
-## 01 Project Organisation
+## 06 Usability Management II 
 
 ###### 3 May - 9 May
 
