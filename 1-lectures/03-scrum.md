@@ -1,6 +1,5 @@
-## 01 Project Organisation
-
-###### 3 May - 9 May
+## 03 Scrum
+###### 17 May - 23 May
 
 ###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
 

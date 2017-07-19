@@ -1,8 +1,8 @@
-## 01 Project Organisation
+## 04 Software Lifecycle Models II
 
-###### 3 May - 9 May
+###### 17 May - 23 May
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=582868)
 
 ---
 
