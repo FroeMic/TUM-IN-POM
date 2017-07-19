@@ -1,8 +1,7 @@
-## 01 Project Organisation
+## 007 Software Configuration Management I
+###### 7 June - 13 June
 
-###### 3 May - 9 May
-
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=589540)
 
 ---
 
