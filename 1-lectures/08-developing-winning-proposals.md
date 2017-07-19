@@ -1,8 +1,8 @@
-## 01 Project Organisation
+## 08 Developing Winning Proposals
 
-###### 3 May - 9 May
+###### 7 June - 13 June
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=590685)
 
 ---
 
