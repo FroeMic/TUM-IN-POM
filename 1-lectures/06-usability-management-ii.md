@@ -2,8 +2,7 @@
 
 ###### 31 May - 6 June
 
-
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=588466)
 
 ---
 
