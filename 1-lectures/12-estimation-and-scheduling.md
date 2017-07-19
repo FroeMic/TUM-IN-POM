@@ -1,8 +1,8 @@
-## 01 Project Organisation
+## 12 Estimation and Scheduling
 
-###### 3 May - 9 May
+###### 28 June - 4 July
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=597843)
 
 ---
 
