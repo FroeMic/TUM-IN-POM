@@ -1,8 +1,8 @@
-## 01 Project Organisation
+## 17 Release Management
 
-###### 3 May - 9 May
+###### 12 July - 18 July
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=605263)
 
 ---
 
