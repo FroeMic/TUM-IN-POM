@@ -2,7 +2,11 @@
 
 ###### 3 May - 9 May
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Introduction](https://www.moodle.tum.de/mod/resource/view.php?id=566556)
+###### Slides: [Team Building](https://www.moodle.tum.de/mod/resource/view.php?id=569489)
+###### Slides: [Project Organization](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+
+
 
 ---
 
