@@ -1,8 +1,8 @@
-## 01 Project Organisation
+## 11 Contracting
 
-###### 3 May - 9 May
+###### 21 June - 27 June
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=597843)
 
 ---
 
