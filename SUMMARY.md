@@ -26,3 +26,5 @@
 
 ## 3. Questions
 
+* [Quiz Questions](3-questions/quiz-questions.md)
+
