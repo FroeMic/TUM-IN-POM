@@ -1,8 +1,8 @@
-## 01 Project Organisation
+## 09 Kanban
 
-###### 3 May - 9 May
+###### 14 June - 20 June
 
-###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
+###### Slides: [Moodle](https://www.moodle.tum.de/mod/resource/view.php?id=592440)
 
 ---
 
