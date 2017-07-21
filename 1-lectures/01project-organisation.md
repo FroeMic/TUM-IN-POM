@@ -54,11 +54,35 @@
     * expertise
     * training
 
-### Task
+#### Task - Activity - Unit of work
 
-* smallest amount of work monitored by the project manager
+| Task | Activity | Unit of work |
+| :--- | :--- | :--- |
+| smallest amount of work monitored by the project manager | consists of many tasks; activities are usually project milestones | higher level activity |
 
-Explain the base project management terminology: role, task, activity, ...
+![](/assets/task_activity_unitsOfWork_projectFunction.png)
+
+## Organization forms
+
+---
+
+#### Functional Organization
+
+* In a functional organization people are **grouped into departments** \(Finance, production, sales / Analysis, design, testing\)
+
+| Advantages | Disadvantages |
+| :--- | :--- |
+| Department members have a good understanding of what they are doing | high chance of overlap/duplicated work |
+|  |  |
+|  |  |
+
+#### Project-based Organization
+
+* people are assigned to a project, each of which has a problem to be solved
+
+#### 
+
+#### Explain the base project management terminology: role, task, activity, ...
 
 Compare advantages and disadvantages of organization forms  
  Explain communication concepts  
