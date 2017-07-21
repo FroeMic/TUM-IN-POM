@@ -79,8 +79,47 @@
 #### Project-based Organization
 
 * people are assigned to a project, each of which has a problem to be solved
+* When to use it: 
+* * requirements expected to change during the project
+  * project has a high degree of uncertainty
 
-#### 
+| Advantages | Disadvantages |
+| :--- | :--- |
+| New people can be hired who are familiar with the problem or have special capabilities | teams cannout be assembled rapidly |
+| responsive to new requirements | Roles/responsibilities have to be redefined for each project |
+
+#### Matrix Organization
+
+* People from different departments of a functional organization are assigned to work on one or more projects
+
+* Challenges:
+
+* * double boss problem \(department manager vs. project manager\)
+  * department vs project interests
+  * multiple work procedures/reporting systems
+
+| Advantages | Disadvantages |
+| :--- | :--- |
+| Teams for projects can be assembled rapidly from departments | Team members are not familiar with each other |
+| expertise can be applied to different projects as needed | Team members have different working styles |
+
+
+
+---
+
+**Gradual-Staffing: **hiring people as needed
+
+**Flat-Staffing**: all participants are assigned at the start of the project
+
+#### Why Non-hierarchical project structure?
+
+* Cutting down on bureaucracy
+
+* Reduces development time
+
+* Decisions are expected to be made at each level
+
+   Negative aspect: hard to manage
 
 #### Explain the base project management terminology: role, task, activity, ...
 
