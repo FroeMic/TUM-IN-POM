@@ -27,7 +27,7 @@
     b. Storming ✅  
     c. Fighting  
     d. Forming ✅  
-**Question:** Let's recap the differences between groups and teams.   
+**Question:** Let's recap the differences between groups and teams.  
     a. A \[Team\] has a common goal. ✅  
     b. Participants of a \[Group\] are loosely connected. ✅  
     c. Each \[Team\] is a \[Group\], but not each \[Group\] is also a \[Team\]. ✅  
@@ -101,9 +101,9 @@
     a. XP, Kanban, Scrum and Unified Process are agile models Incorrect  
     b. Extrem Programming is based on feedback loops ✅  
     c. V-Model and V-Model XT are both sequential models  
-    d. The Waterfall Model is the current state-of-the-art practice   
+    d. The Waterfall Model is the current state-of-the-art practice  
 **Question:** Which of the following software lifecycle models are iterative models?  
-    a. Spiral Model ✅   
+    a. Spiral Model ✅  
     b. V-Model  
     c. Waterfall  
     d. Unified Process ✅  
@@ -260,7 +260,7 @@
     b. In real life, IT proposals are mostly limited to design and implementation projects  
     c. A proposal is about a specific problem, but typically does not include a description of the solution  
     d. A proposal does not include legal statements  
-**Question:** Which are key attributes of a proposal?   
+**Question:** Which are key attributes of a proposal?  
     a. Flexible  
     b. Tailored ✅  
     c. Formal ✅  
@@ -408,48 +408,50 @@ Is this proposal acceptable?
 **Question:** Estimate how many large IT-projects \(those with initial price tags exceeding $15 million\) go so badly that they can threaten the very existence of the company?
 
 * No correct answer given. I think it was 6%.
-  **Question:** Communication is crucial. How can it be leveraged to reduce challenges specific for global projects?
-  a. Hold isolated team meetings only
-  b. Usage of appropriate communication tools ✅
-  c. Plan for both asynchronous and synchronous communication ✅
-  d. Enforce formal and trackable communication ✅
-  **Question:** Which of the following mitigations solve problems in global setups?
-  a. Improvement epics in the backlog ✅
-  b. Additional time for innovation between sprints ✅
-  c. The introduction of collaboration forums to improve the autonomy of teams in later phases of the product life cycle ✅
-  d. Teams should present their delivery for other teams to prevent isolated teams  ✅
-  **Question:** What are key success factors in global projects?
-  a. Time zone utilization ✅
-  b. Non-negotiable requirements
-  c. Static teams
-  d. Meeting notes and documentation are easy accessible ✅
-  #### Quiz 17: Agile Architecture
 
-  **Question:** How are estimations done based on story mapping?
-  a. The first estimate of the potential development team will be tracked against reality and every deviation will be managed individually
-  b. After the first few sprints, the backlog is re-estimated and the assumed velocity is checked against the real velocity ✅
-  c. The potential development team quickly estimates all known epics/tasks relatively, and then has a closer look at 2-5 user stories ✅
-  d. The most senior developer is doing the first estimate and discusses everything with the project manager
-  **Question:** What is correct about user story mapping?
-  a. Tasks on the right side have to be done before tasks on the left side
-  b. Tasks on top are more important than tasks on the bottom ✅
-  c. To define tasks for releases, the tasks are split horizontally into groups ✅
-  d. We do not focus on users, but only on tasks and activities they perform
-  **Question:** What are typical guidelines about architectural decisions?
-  a. In an agile project, software architecture should not be documented, because changes occur too often
-  b. Political and organizational constraints influence the software architecture ✅
-  c. Decisions should be delayed until the last responsible moment \(and that might be the start of the project/product development\) ✅
-  d. Software architecture must always be done in detail upfront
-  **Question:** What can be said in general about software architecture?
-  a. Arc42 is a standard for architecture documentation that focuses on different views on the system ✅
-  b. A good architecture is something that only software architects and software developers understand
-  c. Technical layering is more important than domain layering in the long run
-  d. Software architecture is something that evolves over time and has to be managed carefully ✅
-  **Question:** Why are quality attributes so important?
-  a. Quality attributes are usually distributed over the system, so they have to be taken into account on most changes of the system ✅
-  b. Quality attributes, also known as quality goals or non-functional requirements, often conflict with each other and therefore have to be balanced with knowledge of the domain of the system ✅
-  c. All quality goals are equally important and therefore are the same for all systems
-  d. Quality attributes define the detailed functional aspects of a system and therefore define the business logic
+**Question:** Communication is crucial. How can it be leveraged to reduce challenges specific for global projects?  
+    a. Hold isolated team meetings only  
+    b. Usage of appropriate communication tools ✅  
+    c. Plan for both asynchronous and synchronous communication ✅  
+    d. Enforce formal and trackable communication ✅  
+**Question:** Which of the following mitigations solve problems in global setups?  
+    a. Improvement epics in the backlog ✅  
+    b. Additional time for innovation between sprints ✅  
+    c. The introduction of collaboration forums to improve the autonomy of teams in later phases of the product life cycle ✅  
+    d. Teams should present their delivery for other teams to prevent isolated teams  ✅  
+**Question:** What are key success factors in global projects?  
+    a. Time zone utilization ✅  
+    b. Non-negotiable requirements  
+    c. Static teams  
+    d. Meeting notes and documentation are easy accessible ✅
+
+#### Quiz 17: Agile Architecture
+
+**Question:** How are estimations done based on story mapping?  
+    a. The first estimate of the potential development team will be tracked against reality and every deviation will be managed individually  
+    b. After the first few sprints, the backlog is re-estimated and the assumed velocity is checked against the real velocity ✅  
+    c. The potential development team quickly estimates all known epics/tasks relatively, and then has a closer look at 2-5 user stories ✅  
+    d. The most senior developer is doing the first estimate and discusses everything with the project manager  
+**Question:** What is correct about user story mapping?  
+    a. Tasks on the right side have to be done before tasks on the left side  
+    b. Tasks on top are more important than tasks on the bottom ✅  
+    c. To define tasks for releases, the tasks are split horizontally into groups ✅  
+    d. We do not focus on users, but only on tasks and activities they perform  
+**Question:** What are typical guidelines about architectural decisions?  
+    a. In an agile project, software architecture should not be documented, because changes occur too often  
+    b. Political and organizational constraints influence the software architecture ✅  
+    c. Decisions should be delayed until the last responsible moment \(and that might be the start of the project/product development\) ✅  
+    d. Software architecture must always be done in detail upfront  
+**Question:** What can be said in general about software architecture?  
+    a. Arc42 is a standard for architecture documentation that focuses on different views on the system ✅  
+    b. A good architecture is something that only software architects and software developers understand  
+    c. Technical layering is more important than domain layering in the long run  
+    d. Software architecture is something that evolves over time and has to be managed carefully ✅  
+**Question:** Why are quality attributes so important?  
+    a. Quality attributes are usually distributed over the system, so they have to be taken into account on most changes of the system ✅  
+    b. Quality attributes, also known as quality goals or non-functional requirements, often conflict with each other and therefore have to be balanced with knowledge of the domain of the system ✅  
+    c. All quality goals are equally important and therefore are the same for all systems  
+    d. Quality attributes define the detailed functional aspects of a system and therefore define the business logic
 
 #### Quiz 18: Release Management
 
