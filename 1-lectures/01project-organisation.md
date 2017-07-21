@@ -126,7 +126,7 @@
 * **Management**\(manage the team meetings\)
 * **Technical writing**\(write project documentation\)
 
-![](/assets/Screen Shot 2017-07-21 at 17.31.23.png)
+![](/assets/01comm-event_vs_comm-mech.png)
 
 #### Explain the base project management terminology: role, task, activity, ...
 
