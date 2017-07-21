@@ -103,8 +103,6 @@
 | Teams for projects can be assembled rapidly from departments | Team members are not familiar with each other |
 | expertise can be applied to different projects as needed | Team members have different working styles |
 
-
-
 ---
 
 **Gradual-Staffing: **hiring people as needed
@@ -119,7 +117,16 @@
 
 * Decisions are expected to be made at each level
 
-   Negative aspect: hard to manage
+  Negative aspect: hard to manage
+
+#### Communication skills
+
+* **Collaboration**\(negotiate requirements with the client and with team members\) 
+* **Presentation**\(present parts of the system during reviews\)
+* **Management**\(manage the team meetings\)
+* **Technical writing**\(write project documentation\)
+
+![](/assets/Screen Shot 2017-07-21 at 17.31.23.png)
 
 #### Explain the base project management terminology: role, task, activity, ...
 
