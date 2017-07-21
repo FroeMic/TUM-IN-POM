@@ -3,12 +3,70 @@
 ###### 3 May - 9 May
 
 ###### Slides: [Introduction](https://www.moodle.tum.de/mod/resource/view.php?id=566556)
+
 ###### Slides: [Team Building](https://www.moodle.tum.de/mod/resource/view.php?id=569489)
+
 ###### Slides: [Project Organization](https://www.moodle.tum.de/mod/resource/view.php?id=571882)
-
-
 
 ---
 
+### Project:
 
+* is an undertaking, limited in time, with a clear goal and a specific budget, requiring a concerted effort
+
+* consists of:
+
+* * start date and duration
+  * deliverables
+  * schedule
+  * activities
+  * resources
+
+### Role
+
+* defines a set of responsabilites
+
+###### Project manager
+
+* Administer resources
+
+* Make sure the project goals are met
+
+###### Analyst
+
+* Analyse application domain
+* Create a taxonomy of the domain abstractions
+
+###### System architect
+
+* Decompose the system into subsystems
+
+* Choose a software architectural style
+
+### Key Concepts for Mapping Roles to People
+
+* authority
+* responsibility
+* accountability
+* delegation
+* * reasons for delegation:
+  * * time management
+    * expertise
+    * training
+
+### Task
+
+* smallest amount of work monitored by the project manager
+
+Explain the base project management terminology: role, task, activity, ...
+
+Compare advantages and disadvantages of organization forms  
+ Explain communication concepts  
+ Communicate asynchronously over Slack in your team
+
+Apply general meeting management guidelines
+
+Explain meeting management roles  
+ Write a project plan  
+ Assign roles in your team
 
