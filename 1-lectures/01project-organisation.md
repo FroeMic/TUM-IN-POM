@@ -43,6 +43,12 @@
 
 * Choose a software architectural style
 
+###### Meeting Management Roles
+
+* **Primary facilitator**: organize the meeting, guide the execution, set up agenda
+* **Minute taker**: record the meeting, identify action items and issues, distributes the minutes
+* **Time keeper: **make sure time limits are kept
+
 ### Key Concepts for Mapping Roles to People
 
 * authority
@@ -60,7 +66,11 @@
 | :--- | :--- | :--- |
 | smallest amount of work monitored by the project manager | consists of many tasks; activities are usually project milestones | higher level activity |
 
-![](/assets/task_activity_unitsOfWork_projectFunction.png)
+#### ![](/assets/01task_activity_unitsOfWork_projectFunction.png)Project Organization Structures
+
+* #### **Decision structure**: It models the control flow: Who decides what?
+* **Reporting structure**: Who reports their status to whom?
+* **Communication structure**: It models the information flow: Who facilitates communication with whom?
 
 ## Organization forms
 
@@ -119,14 +129,38 @@
 
   Negative aspect: hard to manage
 
-#### Communication skills
+#### Communication
+
+* In large system developments you will spend more time communicating than coding
+
+Soft skills:
 
 * **Collaboration**\(negotiate requirements with the client and with team members\) 
 * **Presentation**\(present parts of the system during reviews\)
 * **Management**\(manage the team meetings\)
 * **Technical writing**\(write project documentation\)
 
-![](/assets/01comm-event_vs_comm-mech.png)
+![](/assets/01comm-event_vs_comm-mech.png)**Communication Anti-pattern:** 
+
+* E-mail
+* refactored solution: Slack
+
+#### Software Project Management Plan \(SPMP\)  
+
+* The controlling planning document for a software project 
+* Specifies the technical and managerial approaches to develop the software product  
+* Companion document to the requirements analysis and system design documents  
+* May be part of the project agreement
+* Very useful at the beginning of the project 
+
+#### Project Agreement \(contract, statement of work, business plan\)  
+
+= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery dates, delivery location
+
+* Client:  individual  or  organization  that  specifies  the  requirements  and  accepts  the  project  deliverables 
+* Deliverables: work product to be defined by client – documents, demonstration of requirement;   
+
+#### 
 
 #### Explain the base project management terminology: role, task, activity, ...
 
