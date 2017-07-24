@@ -16,7 +16,7 @@
 
 * consists of:
 
-* * start date and duration
+  * start date and duration
   * deliverables
   * schedule
   * activities
@@ -145,7 +145,8 @@ Soft skills:
 * E-mail
 * refactored solution: Slack
 
-#### Software Project Management Plan \(SPMP\)  
+#### Software Project Management Plan \(SPMP\) 
+ 
 
 * The controlling planning document for a software project 
 * Specifies the technical and managerial approaches to develop the software product  
@@ -153,9 +154,11 @@ Soft skills:
 * May be part of the project agreement
 * Very useful at the beginning of the project 
 
-#### Project Agreement \(contract, statement of work, business plan\)  
+#### 
+Project Agreement \(contract, statement of work, business plan\)  
 
-= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery dates, delivery location
+= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery 
+dates, delivery location
 
 * Client:  individual  or  organization  that  specifies  the  requirements  and  accepts  the  project  deliverables 
 * Deliverables: work product to be defined by client – documents, demonstration of requirement;   
