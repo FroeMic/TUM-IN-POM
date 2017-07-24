@@ -24,12 +24,11 @@
 
 ### Role
 
-* defines a set of responsabilites
+* defines a set of responsibilites
 
 ###### Project manager
 
 * Administer resources
-
 * Make sure the project goals are met
 
 ###### Analyst
@@ -40,7 +39,6 @@
 ###### System architect
 
 * Decompose the system into subsystems
-
 * Choose a software architectural style
 
 ###### Meeting Management Roles
