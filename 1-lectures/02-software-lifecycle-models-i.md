@@ -100,13 +100,25 @@ An abstraction that represents a software lifecycle for the purpose of understan
 
 There is no “one size fits all” software lifecycle model that works for all possible software engineering projects
 
-**Tailoring**: Adjusting a lifecycle model to fit a project 
+**Tailoring**: Adjusting a lifecycle model to fit a project
 
 * **Naming**: Adjusting the naming of activities \(e.g. Detailed Design -&gt; Object Design\)
 * **Cutting**: Removing activities not need in the project \(e.g. Maintenance not needed\)
 * **Ordering**: Defining the order the activities take place in \(e.g. Testing before Implementation\)
 
 #### 2.2 Modeling a Software Lifecycle
+
+* **Functional Model of a Software Lifecycle**
+  * Scenarios
+  * User Stories
+  * Use Cases
+* **Structural model of a software lifecycle**
+  * Object Identification
+  * Class Diagrams
+* **Dynamic model of a software lifecycle**
+  * Sequence diagrams
+  * State chart
+  * Activity diagrams
 
 
 
