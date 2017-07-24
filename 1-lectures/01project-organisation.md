@@ -64,7 +64,9 @@
 | :--- | :--- | :--- |
 | smallest amount of work monitored by the project manager | consists of many tasks; activities are usually project milestones | higher level activity \(bigger activity that can consist many smaller activities\) |
 
-![](/assets/01task_activity_unitsOfWork_projectFunction.png)**Project Function**: an activity that spans the entire duration of a software project
+#### Project Organization Structures
+![](/assets/01task_activity_unitsOfWork_projectFunction.png)
+**Project Function**: an activity that spans the entire duration of a software project
 
 **Work Package**:
 
