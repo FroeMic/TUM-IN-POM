@@ -139,7 +139,51 @@ There is no “one size fits all” software lifecycle model that works for all 
 
 ### 3. Overview of Software Lifecycle Models
 
-### 
+##### Types of software lifecycle models
+
+**Sequential**: Waterfall Model, V-Model  
+**Iterative**: Spiral Model, V-Model XT, Unified Process  
+**Agile**: Extreme Programming, Kanban, Scrum
+
+###### The Waterfall Model 
+
+* Activity oriented
+* Only once an activity is finished the next can start. \(sequential\)
+* Assumption: software development can be scheduled as a step-by-step process that transforms user needs into code
+* Activities:
+  * Concept Exploration
+  * System Allocation
+  * Requirements Elicitation
+  * Design
+  * Implementation
+  * Verification & Validation
+  * Installation
+  * Operation & Support
+
+###### V-Model
+
+* activity oriented
+* sequential
+* separation between development and testing
+* mapping between development and testing activities
+* Activities:
+  * Requirements Engineering - - - - - - - - - Acceptance Testing
+  * - - - - -Requirements Analysis - - - - - - -System Testing
+  * - - - - - - - - - - - - -System Design - - - - Integration Testing
+  * - - - - - - - - - - - - - -  Object Design - - Unit Testing 
+  * - - - - - - - - - - - - - - - - - - - - - - Implementation
+
+###### Spiral Model
+
+###### V-Model XT
+
+###### Unified Process
+
+###### Extreme Programming \(XP\)
+
+###### Kanban
+
+###### Scrum
 
 ### 4. Summary
 
