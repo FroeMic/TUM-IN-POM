@@ -6,7 +6,9 @@
 
 ---
 
-### 1. Software development as application domain
+### 1. Software development as Application Domain
+
+**Methodologies:** provide general principles and strategies for selecting **methods** and **tools** in a given **project environment** when errors occur.
 
 #### 1.1 Introduction
 
@@ -120,9 +122,20 @@ There is no “one size fits all” software lifecycle model that works for all 
   * State chart
   * Activity diagrams
 
+![](/assets/typical_software_development_activities_and_artifacts.png)
 
+#### 2.3 Major Views of Software Lifecycles
 
-### 3. Overview of software lifecycle models
+**1\) Activity Centered**: Software development consists of a set of development activities.  
+**2\) Entity Centered:** Software development consists of a set of deliverables
+
+#### ![](/assets/views_on_software_lifecycles.png)2.4 IEEE Std 1074: Standard for Software Lifecycle Activities 
+
+**Process Group: ** consists of a set of processes \(e.g. _Development\)_  
+**Process:** consists of activities \(e.g. _System Design_\)  
+**Activity:** consists of sub-activities and tasks \(e.g. _Persistent Data Managment_\)
+
+### 3. Overview of Software Lifecycle Models
 
 
 
