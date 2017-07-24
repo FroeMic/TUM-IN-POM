@@ -183,12 +183,12 @@ identified stakeholders \(often involves acceptance and suitability with **exter
 
 * iterative 
 * 6 invariants of the spiral model
-  * 1) Define artifacts concurrently
-  * 2) Perform four basic activities in every cycle
-  * 3) Risk determines level of effort
-  * 4) Risk determines degree of details
-  * 5) Use anchor point milestones
-  * 6) Focus on the system and its lifecycle
+  * 1\) Define artifacts concurrently
+  * 2\) Perform four basic activities in every cycle
+  * 3\) Risk determines level of effort
+  * 4\) Risk determines degree of details
+  * 5\) Use anchor point milestones
+  * 6\) Focus on the system and its lifecycle
 
 ###### V-Model XT
 
@@ -211,13 +211,14 @@ identified stakeholders \(often involves acceptance and suitability with **exter
   * Objectives
   * Activities
   * Evaluation Criteria
-```
-   [1] - - - - [2]  [1] Inception
-    |           |   [2] Inception
-    |           |   [3] Transition 
-   [3] - - - - [4]  [4] Construction
-```
-###### Extreme Programming \(XP\)
+    ```
+    [1] - - - - [2]  [1] Inception
+     |           |   [2] Inception
+     |           |   [3] Transition 
+    [3] - - - - [4]  [4] Construction
+    ```
+
+    ###### Extreme Programming \(XP\)
 
 ###### Kanban
 
