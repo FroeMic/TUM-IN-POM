@@ -141,15 +141,16 @@ There is no “one size fits all” software lifecycle model that works for all 
 
 ##### Types of software lifecycle models
 
-**Sequential**: Waterfall Model, V-Model  
-**Iterative**: Spiral Model, V-Model XT, Unified Process  
-**Agile**: Extreme Programming, Kanban, Scrum
+**Sequential**: Waterfall Model, V-Model \(if changes are not to be expected\)  
+**Iterative**: Spiral Model, V-Model XT, Unified Process \(if changes are infrequent\)  
+**Agile**: Extreme Programming, Kanban, Scrum \(if changes are frequent\)
 
 ###### The Waterfall Model
 
 * Activity oriented
 * Only once an activity is finished the next can start. \(sequential\)
 * Assumption: software development can be scheduled as a step-by-step process that transforms user needs into code
+* Once you are done with an activity, all issues covered in that activity are closed and cannot be reopened
 * Activities:
   * Concept Exploration
   * System Allocation
@@ -220,7 +221,6 @@ identified stakeholders \(often involves acceptance and suitability with **exter
     [3] - - - - [4]  [4] Construction
     ```
 
-
 ###### \Extreme Programming \(XP\)
 
 * initially released in 1987
@@ -230,10 +230,10 @@ identified stakeholders \(often involves acceptance and suitability with **exter
 ###### Kanban
 
 * 4 Basic Principles
-  * 1) Start with the existing process
-  * 2) Agree to pursue incremental, evolutionary change
-  * 3) Respect the current process,roles, responsibilities and titles
-  * 4) Leadership at all levels
+  * 1\) Start with the existing process
+  * 2\) Agree to pursue incremental, evolutionary change
+  * 3\) Respect the current process,roles, responsibilities and titles
+  * 4\) Leadership at all levels
 
 ###### Scrum
 
@@ -241,7 +241,6 @@ identified stakeholders \(often involves acceptance and suitability with **exter
 * Focus on early risk management 
 * Deliver working software, incrementally and empirically
 * Simple framework for effective team collaboration
-
 
 ### 4. Summary
 
