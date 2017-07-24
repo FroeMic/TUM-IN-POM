@@ -66,7 +66,7 @@
 
 ![](/assets/01task_activity_unitsOfWork_projectFunction.png)**Project Function**: an activity that spans the entire duration of a software project
 
-**Work Package**: 
+**Work Package**:
 
 * describes a task/activity
 * the work product to be produced by that task/activity
@@ -76,8 +76,10 @@
 
 #### Project Organization Structures
 
-* #### **Decision structure**: It models the control flow: Who decides what?
+* **Decision structure**: It models the control flow: Who decides what?
+
 * **Reporting structure**: Who reports their status to whom?
+
 * **Communication structure**: It models the information flow: Who facilitates communication with whom?
 
 ## Organization forms
@@ -91,8 +93,6 @@
 | Advantages | Disadvantages |
 | :--- | :--- |
 | Department members have a good understanding of what they are doing | high chance of overlap/duplicated work |
-|  |  |
-|  |  |
 
 #### Project-based Organization
 
@@ -165,7 +165,7 @@ Soft skills:
 
 Project Agreement \(contract, statement of work, business plan\)
 
-= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery   
+= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery  
 dates, delivery location
 
 * Client:  individual  or  organization  that  specifies  the  requirements  and  accepts  the  project  deliverables 
