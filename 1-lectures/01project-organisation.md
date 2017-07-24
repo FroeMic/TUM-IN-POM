@@ -45,7 +45,7 @@
 
 * **Primary facilitator**: organize the meeting, guide the execution, set up agenda
 * **Minute taker**: record the meeting, identify action items and issues, distributes the minutes
-* **Time keeper: **make sure time limits are kept
+* **Time keeper**: make sure time limits are kept
 
 ### Key Concepts for Mapping Roles to People
 
@@ -53,8 +53,8 @@
 * responsibility
 * accountability
 * delegation
-* * reasons for delegation:
-  * * time management
+  * reasons for delegation:
+    * time management
     * expertise
     * training
 
