@@ -100,7 +100,7 @@
 
 * people are assigned to a project, each of which has a problem to be solved
 * When to use it: 
-* * requirements expected to change during the project
+  * requirements expected to change during the project
   * project has a high degree of uncertainty
 
 | Advantages | Disadvantages |
@@ -113,8 +113,7 @@
 * People from different departments of a functional organization are assigned to work on one or more projects
 
 * Challenges:
-
-* * double boss problem \(department manager vs. project manager\)
+  * double boss problem \(department manager vs. project manager\)
   * department vs project interests
   * multiple work procedures/reporting systems
 
@@ -132,11 +131,8 @@
 #### Why Non-hierarchical project structure?
 
 * Cutting down on bureaucracy
-
 * Reduces development time
-
 * Decisions are expected to be made at each level
-
   Negative aspect: hard to manage
 
 #### Communication
