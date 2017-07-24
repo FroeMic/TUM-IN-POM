@@ -146,7 +146,7 @@ Soft skills:
 * **Management**\(manage the team meetings\)
 * **Technical writing**\(write project documentation\)
 
-#### Communication Event vs Communication Mechanism
+#### Communication Event vs. Communication Mechanism
 ![](/assets/01comm-event_vs_comm-mech.png)
 
 **Communication Anti-pattern:**
@@ -161,17 +161,13 @@ Soft skills:
 * May be part of the project agreement
 * Very useful at the beginning of the project 
 
-#### 
-
-Project Agreement \(contract, statement of work, business plan\)
+#### Project Agreement \(contract, statement of work, business plan\)
 
 = a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery  
 dates, delivery location
 
 * Client:  individual  or  organization  that  specifies  the  requirements  and  accepts  the  project  deliverables 
 * Deliverables: work product to be defined by client – documents, demonstration of requirement;   
-
-#### 
 
 #### Explain the base project management terminology: role, task, activity, ...
 
