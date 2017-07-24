@@ -139,5 +139,18 @@ There is no “one size fits all” software lifecycle model that works for all 
 
 ### 3. Overview of Software Lifecycle Models
 
+### 
+
+### 4. Summary
+
+* A software lifecycle model \(also software process model\) represents a software lifecycle \(concrete instance of a project\)
+* A software lifecycle model has the purpose to **understand**, **monitor**, or **control** the development of a software system
+* A software lifecycle model consists of **activities and their relationship**
+* We use **UML activity diagrams **to model software lifecycles
+* Different types of software lifecycle models:
+  * **Sequential**: Waterfall Model, V-Model
+  * **Iterative**: Spiral Model, V-Model XT, Unified Process
+  * **Agile**: Extreme Programming, Kanban, Scrum
+
 
 
