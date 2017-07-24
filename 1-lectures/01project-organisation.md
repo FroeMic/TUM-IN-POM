@@ -146,8 +146,9 @@ Soft skills:
 * **Management**\(manage the team meetings\)
 * **Technical writing**\(write project documentation\)
 
-![](/assets/01comm-event_vs_comm-mech.png)**Communication Anti-pattern:**
+![](/assets/01comm-event_vs_comm-mech.png)
 
+**Communication Anti-pattern:**
 * E-mail
 * refactored solution: Slack
 
