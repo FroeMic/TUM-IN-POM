@@ -62,9 +62,19 @@
 
 | Task | Activity | Unit of work |
 | :--- | :--- | :--- |
-| smallest amount of work monitored by the project manager | consists of many tasks; activities are usually project milestones | higher level activity |
+| smallest amount of work monitored by the project manager | consists of many tasks; activities are usually project milestones | higher level activity \(bigger activity that can consist many smaller activities\) |
 
-#### ![](/assets/01task_activity_unitsOfWork_projectFunction.png)Project Organization Structures
+![](/assets/01task_activity_unitsOfWork_projectFunction.png)**Project Function**: an activity that spans the entire duration of a software project
+
+**Work Package**: 
+
+* describes a task/activity
+* the work product to be produced by that task/activity
+* acceptance criteria for it
+
+**Work Product**: the visible outcome of a unit of work
+
+#### Project Organization Structures
 
 * #### **Decision structure**: It models the control flow: Who decides what?
 * **Reporting structure**: Who reports their status to whom?
@@ -138,13 +148,12 @@ Soft skills:
 * **Management**\(manage the team meetings\)
 * **Technical writing**\(write project documentation\)
 
-![](/assets/01comm-event_vs_comm-mech.png)**Communication Anti-pattern:** 
+![](/assets/01comm-event_vs_comm-mech.png)**Communication Anti-pattern:**
 
 * E-mail
 * refactored solution: Slack
 
-#### Software Project Management Plan \(SPMP\) 
- 
+#### Software Project Management Plan \(SPMP\)
 
 * The controlling planning document for a software project 
 * Specifies the technical and managerial approaches to develop the software product  
@@ -153,9 +162,10 @@ Soft skills:
 * Very useful at the beginning of the project 
 
 #### 
-Project Agreement \(contract, statement of work, business plan\)  
 
-= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery 
+Project Agreement \(contract, statement of work, business plan\)
+
+= a document written for a client that defines the scope, duration, cost, deliverables, quantities, delivery   
 dates, delivery location
 
 * Client:  individual  or  organization  that  specifies  the  requirements  and  accepts  the  project  deliverables 
