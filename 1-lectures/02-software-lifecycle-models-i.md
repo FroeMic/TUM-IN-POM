@@ -60,10 +60,11 @@ An abstraction that represents a software lifecycle for the purpose of understan
 * used to communicate an idea to a **tool**
 * needs to be consistent and complete
 * needs to have correct notation, so it can be entered into CASE tool
+* UML is the preferred notation for specification models
 
 ### 
 
-### 2. Modeling the software lifecycle 
+### 2. Modeling the software lifecycle
 
 ### 3. Overview of software lifecycle models
 
