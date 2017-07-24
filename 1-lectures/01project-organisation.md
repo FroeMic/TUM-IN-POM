@@ -112,7 +112,6 @@
 #### Matrix Organization
 
 * People from different departments of a functional organization are assigned to work on one or more projects
-
 * Challenges:
   * double boss problem \(department manager vs. project manager\)
   * department vs project interests
