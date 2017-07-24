@@ -65,7 +65,8 @@
 | smallest amount of work monitored by the project manager | consists of many tasks; activities are usually project milestones | higher level activity \(bigger activity that can consist many smaller activities\) |
 
 #### Project Organization Structures
-![](/assets/01task_activity_unitsOfWork_projectFunction.png)
+
+![](/assets/01task_activity_unitsOfWork_projectFunction.png)  
 **Project Function**: an activity that spans the entire duration of a software project
 
 **Work Package**:
@@ -113,6 +114,7 @@
 * People from different departments of a functional organization are assigned to work on one or more projects
 
 * Challenges:
+
   * double boss problem \(department manager vs. project manager\)
   * department vs project interests
   * multiple work procedures/reporting systems
@@ -147,9 +149,11 @@ Soft skills:
 * **Technical writing**\(write project documentation\)
 
 #### Communication Event vs. Communication Mechanism
+
 ![](/assets/01comm-event_vs_comm-mech.png)
 
 **Communication Anti-pattern:**
+
 * E-mail
 * refactored solution: Slack
 
@@ -167,17 +171,7 @@ Soft skills:
 dates, delivery location
 
 * Client:  individual  or  organization  that  specifies  the  requirements  and  accepts  the  project  deliverables 
-* Deliverables: work product to be defined by client – documents, demonstration of requirement;   
+* Deliverables: work product to be delivered to the client – documents, demonstration of requirement
 
-#### Explain the base project management terminology: role, task, activity, ...
 
-Compare advantages and disadvantages of organization forms  
- Explain communication concepts  
- Communicate asynchronously over Slack in your team
-
-Apply general meeting management guidelines
-
-Explain meeting management roles  
- Write a project plan  
- Assign roles in your team
 
