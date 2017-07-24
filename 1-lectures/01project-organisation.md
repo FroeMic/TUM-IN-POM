@@ -146,6 +146,7 @@ Soft skills:
 * **Management**\(manage the team meetings\)
 * **Technical writing**\(write project documentation\)
 
+#### Communication Event vs Communication Mechanism
 ![](/assets/01comm-event_vs_comm-mech.png)
 
 **Communication Anti-pattern:**
