@@ -150,9 +150,7 @@ Soft skills:
 
 #### Communication Event vs. Communication Mechanism
 
-![](/assets/01comm-event_vs_comm-mech.png)
-
-**Communication Anti-pattern:**
+![](/assets/01comm-event_vs_comm-mech.png)**Communication Anti-pattern:**
 
 * E-mail
 * refactored solution: Slack
