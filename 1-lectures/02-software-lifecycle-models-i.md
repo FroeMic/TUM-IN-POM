@@ -208,9 +208,11 @@ identified stakeholders \(often involves acceptance and suitability with **exter
 
 * Transition from engineering stage to production stages
 * Each of the following stages defines
+
   * Objectives
   * Activities
   * Evaluation Criteria
+
     ```
     [1] - - - - [2]  [1] Inception
      |           |   [2] Inception
@@ -218,11 +220,28 @@ identified stakeholders \(often involves acceptance and suitability with **exter
     [3] - - - - [4]  [4] Construction
     ```
 
-    ###### Extreme Programming \(XP\)
+
+###### \Extreme Programming \(XP\)
+
+* initially released in 1987
+* initial excitement, followed by lots of problems
+* mostly performance problems
 
 ###### Kanban
 
+* 4 Basic Principles
+  * 1) Start with the existing process
+  * 2) Agree to pursue incremental, evolutionary change
+  * 3) Respect the current process,roles, responsibilities and titles
+  * 4) Leadership at all levels
+
 ###### Scrum
+
+* Management and control process
+* Focus on early risk management 
+* Deliver working software, incrementally and empirically
+* Simple framework for effective team collaboration
+
 
 ### 4. Summary
 
