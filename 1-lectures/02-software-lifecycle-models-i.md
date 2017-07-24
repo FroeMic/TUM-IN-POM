@@ -30,14 +30,6 @@ An abstraction that represents a software lifecycle for the purpose of understan
 
 #### 1.2 Modeling
 
-##### Where do we need Models?
-
-* **\[A\] Communication:** Models provide a common vocabulary. Informal models can be used to communicate an idea.
-* **\[B\] Analysis / Design:** Models enable developers to reason about a future system.
-* **\[C\] Archival:** Compact representation of the design and rational of a system \(documentation\).
-
-##### How much modeling?
-
 * **Advantages**
   * enable developers to deal with complexity
   * make implicit knowledge about the system explicit
@@ -45,7 +37,13 @@ An abstraction that represents a software lifecycle for the purpose of understan
 * **Disadvantages**
   * models can themselves become very complex
 
-##### \[A\] Models that support Communication
+##### Where do we need Models?
+
+* **\[A\] Communication:** Models provide a common vocabulary. Informal models can be used to communicate an idea.
+* **\[B\] Analysis / Design:** Models enable developers to reason about a future system.
+* **\[C\] Archival:** Compact representation of the design and rational of a system \(documentation\).
+
+###### \[A\] Models that support Communication
 
 * called _Communication Models_
 * purpose: communicate and idea to another **person** \(support communication!\)
@@ -53,7 +51,7 @@ An abstraction that represents a software lifecycle for the purpose of understan
 * does NOT need to be consistent, complete or have correct notation
 * e.g. napkin model, whiteboard, mockup
 
-##### \[B\] Models that support Analysis / Design
+###### \[B\] Models that support Analysis / Design
 
 * called Specification_ Models_
 * purpose: provide a representation to reason about the system
@@ -62,7 +60,39 @@ An abstraction that represents a software lifecycle for the purpose of understan
 * needs to have correct notation, so it can be entered into CASE tool
 * UML is the preferred notation for specification models
 
-### 
+#### 1.3 Managerial Challenges of Modeling
+
+###### Formalizing Knowledge is expensive
+
+* takes time and efforts from developers
+* **Antipattern:** Analysis Paralysis
+* requires validation and consensus
+
+###### Models introduce redundancy
+
+* If the system is changed, the model needs to be changed
+* If several models \(different aspects\) exist, several models need to be changed
+* If a model is out of sync, it looses it's value
+
+###### Models become complex
+
+* With growing complexity, models use their value. If the model is similarly complex as the system, why use it?
+
+##### Typical Software Lifecycle Questions
+
+* Which **activities** should we select for the software project?
+* What are the **dependencies between activities**?
+* How should we **schedule the activities**?
+
+###### Software Development Activities \(Examples\)
+
+* **Requirement Anlysis:** What is the problem?
+* **System Design:** What is the solution?
+* **Detailed Design:** What are the best mechanisms to implement the solution?
+* **Program Implementation:** How is the solution constructed?
+* **Testing:** Is the problem solved?
+* **Delivery:** Can the customer use the solution?
+* **Maintenance:** Are enhancements needed? 
 
 ### 2. Modeling the software lifecycle
 
