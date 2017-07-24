@@ -145,7 +145,7 @@ There is no “one size fits all” software lifecycle model that works for all 
 **Iterative**: Spiral Model, V-Model XT, Unified Process  
 **Agile**: Extreme Programming, Kanban, Scrum
 
-###### The Waterfall Model 
+###### The Waterfall Model
 
 * Activity oriented
 * Only once an activity is finished the next can start. \(sequential\)
@@ -167,18 +167,56 @@ There is no “one size fits all” software lifecycle model that works for all 
 * separation between development and testing
 * mapping between development and testing activities
 * Activities:
+  ```
   * Requirements Engineering - - - - - - - - - Acceptance Testing
-  * - - - - -Requirements Analysis - - - - - - -System Testing
-  * - - - - - - - - - - - - -System Design - - - - Integration Testing
-  * - - - - - - - - - - - - - -  Object Design - - Unit Testing 
-  * - - - - - - - - - - - - - - - - - - - - - - Implementation
+  * - - - Requirements Analysis - - - - - - -System Testing
+  * - - - - - - - - System Design - - - - Integration Testing
+  * - - - - - - - - - Object Design - - Unit Testing 
+  * - - - - - - - - - - - - - - Implementation
+  ```
+
+**Validation:** Assurance that a product, service, or system meets the needs of the customer and other  
+identified stakeholders \(often involves acceptance and suitability with **external** customers\)  
+**Verification:** Evaluation whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition \(often an **internal** process\)
 
 ###### Spiral Model
 
+* iterative 
+* 6 invariants of the spiral model
+  * 1) Define artifacts concurrently
+  * 2) Perform four basic activities in every cycle
+  * 3) Risk determines level of effort
+  * 4) Risk determines degree of details
+  * 5) Use anchor point milestones
+  * 6) Focus on the system and its lifecycle
+
 ###### V-Model XT
+
+* successor of V-Model
+* standard for German government contracts
+* allows **tailoring** and **iterations**
+* incorporates duties of the client
+* Goals:
+  * Minimization of project risk
+  * Improvement and guarantee of quality
+  * Reduction of cost
+  * Improvement of communication
+* Focus on products instead of activities
+  * No defined chronology of activities
 
 ###### Unified Process
 
+* Transition from engineering stage to production stages
+* Each of the following stages defines
+  * Objectives
+  * Activities
+  * Evaluation Criteria
+```
+   [1] - - - - [2]  [1] Inception
+    |           |   [2] Inception
+    |           |   [3] Transition 
+   [3] - - - - [4]  [4] Construction
+```
 ###### Extreme Programming \(XP\)
 
 ###### Kanban
