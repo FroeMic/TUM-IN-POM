@@ -289,7 +289,7 @@ _Prototyping is **externalizing** and** making concrete a design** idea for the 
 **\[2\] Vertical** \(agile\)  
 **\[3\] UI-Centric** \(?? from both sides\)
 
-####  4.2 Evaluating Prototypes
+#### 4.2 Evaluating Prototypes
 
 * Heuristics Evaluation can already be used for the evaluation of prototypes
 * Heuristics evaluation works on
@@ -307,6 +307,26 @@ _Prototyping is **externalizing** and** making concrete a design** idea for the 
 * Involve as many people as possible
 
 ### 5. Usability and Serious Games
+
+* Serious Games are Games that involve additional goals - not only Fun.
+
+* Serious Games increase motivation
+
+##### Serious Game Categories
+
+1. Gamification
+2. Advergames
+3. Learning-Games
+4. Healthcare Games
+5. Simulations
+
+##### How to focus on serious games in your project
+
+* Follow these heuristics
+  * Gamification \(ranking, badges\)
+  * Game development
+  * 100 Qualities of Games 
+    * from  The Art of Game Design: A Book of Lenses by Jesse Schell, 2012
 
 ### 6. Summary
 
