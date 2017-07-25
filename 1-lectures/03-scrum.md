@@ -134,7 +134,46 @@
 
 ##### Level of Difficulty
 
-* T-Shirt sizes represent r
+###### T-Shirt Sizes
+
+* T-Shirt sizes represent the rough difficulty of an issue \(how much effort / time the team needs to resolve the issue\)
+  * **Small \(S\), Medium \(M\), Large \(L\), Extra Large \(XL\)**
+  * XL issues should be split up into smaller issues
+
+###### Story Points
+
+* The difficulty of backlog items is estimated in Story Points \(1/2, 1, 2, 3,5 ...\) \(Fibonacci\) using
+  * Poker Planning
+  * Team Estimation Game
+  * other agile estimation techniques
+
+#### 4.1 User Stories
+
+* often written on a card
+* users \(**roles**\) are the actual users of the system
+* includes a sententce that describes **what the user does or needs**
+
+###### User Story Template
+
+> **As a** \[ROLE\]  
+> **I can** \[FEATURE\]  
+> **so that** \[REASON\]
+
+Advantages of the template
+
+* 'I'-phrasing makes it easy to identify with the role
+* defines a structure and simplifies the prioritization process
+* facilitates categorization into user roles
+
+###### Properties of a good User Story (INVEST)
+
+1. **Independent** - Avoid overlapping user stories
+2. **Negotiable** - A user story is not a contract, but a basis for a discussion between Development Team and Product Owner
+3. **Valuable** - for the user and the business. (Also **Vertical** - we plan and develop features not layers)
+4. **Estimable** - the stories on the product backlog are the basis of our project plan
+5. **Small** - too large user stories should be partitioned into smaller ones (complexity otherwise increases over-proportionally)
+6. **Testable** - if a user story is not testable, it might not be of real value for the product (also, this implies realizability)
+
 
 ### 5. Exercise Apply Scrum
 
