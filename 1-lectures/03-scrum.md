@@ -204,6 +204,19 @@ Advantages of the template
 > Invariants:  
 > Quality Requirements:** \(also called non-functional requirements\)
 
+###### Relation between User Stories, Use Cases and Scenarios
+
+* Scenarios are typically created during Anlysis
+* Use Cases and Scenarios typically cover a larger scope and are more formal than User Stories
+  * Scenarios and Use Cases have 
+    * Participating Actors
+    * Preconditions
+    * Event flow
+    * Post Conditions
+    * Special Quality requirements
+  * Scenarios are instantiated use cases
+* User Stories are usually created during requirements elicitation
+
 ### 5. Exercise Apply Scrum
 
 
