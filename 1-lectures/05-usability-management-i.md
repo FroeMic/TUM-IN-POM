@@ -65,6 +65,32 @@ Usability is multidimensional
 
 ### 2. Usability Heuristics \(Nielsen\)
 
+#### 2.1 Methods to reach good usability
+
+#### 2.2 Nielsen's 10 heuristics
+
+###### Meet the Expectations
+
+1\) Match the real world  
+2\) Consistency and standards  
+3\) Help and documentation
+
+###### The user is the boss
+
+4\) User control and freedom  
+5\) Visibility of system status  
+6\) Flexibility and efficiency
+
+###### Handle Errors
+
+7\) Error prevention  
+8\) Recognition, not recall  
+9\) Error reporting, diagnosis and recovery
+
+###### Keep it simple
+
+10\) Aesthetic and minimalist design
+
 ### 3. Usability Testing
 
 ### 4. Prototyping
