@@ -135,13 +135,14 @@ The focused pursuit of recurring relationships benefits both parties because it 
 ### 4. What makes a Winning Proposal
 
 ###### 1. Understand your client's intention and have him/her understand you.
- 
- * People do not buy companies or ideas. They buy people.
- 
- ###### 2. Understand your client's needs and boundaries
- 
- * Assess decision parameters of the client thoroughly.
- * A perfect 'full sized' solution will not be pursued, if it is way off the client's budget or the client wants to fix only part of the problem 
+
+* People do not buy companies or ideas. They buy people.
+
+  ###### 2. Understand your client's needs and boundaries
+
+* Assess decision parameters of the client thoroughly.
+
+* A perfect 'full sized' solution will not be pursued, if it is way off the client's budget or the client wants to fix only part of the problem 
 
 ###### 3. Build the 'right' relationships
 
@@ -170,3 +171,6 @@ The focused pursuit of recurring relationships benefits both parties because it 
 * Promise only what you can deliver
 * If you don't, you will not get another project with that client.
 * It is harder to win trust than to lose it.
+
+
+
