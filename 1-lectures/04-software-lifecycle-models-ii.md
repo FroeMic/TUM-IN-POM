@@ -69,6 +69,18 @@
 * a **product iteration** can result from **incremental addition** of functionality that had not been anticipated in previous iterations
 * a **product iteration** can also result from **restructuring**
 
+##### Limitations of Linear and Iterative Models
+
+* Linear and iterative models do not deal well with frequent change
+  * the Waterfall model assumes that once done with an activity, all issues are covered and will stay so
+  * the Spiral model can deal with changes between activities, but not within and activity
+* For more frequent changes use
+  * Unified Process
+  * V-Model XT
+  * Agile Methods
+
+##### Types of Prototypes
+
 #### 2.1 Spiral Model
 
 #### 2.2 V-Model XT
