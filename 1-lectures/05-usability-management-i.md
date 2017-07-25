@@ -309,7 +309,6 @@ _Prototyping is **externalizing** and** making concrete a design** idea for the 
 ### 5. Usability and Serious Games
 
 * Serious Games are Games that involve additional goals - not only Fun.
-
 * Serious Games increase motivation
 
 ##### Serious Game Categories
