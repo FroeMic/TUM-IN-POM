@@ -138,11 +138,42 @@
 
 #### 3.1 Version Control \(Promotion Management\)
 
+###### History of SCM Tools
+
+* **RCS:** The first on the block \(1975\)
+* **CVS** \(Concurrent Version Control\)
+  * based on RCS
+  * allowed working concurrently without locking
+* **Perforce**
+  * Repository server
+  * allows to keep track of developers' activities
+* **ClearCase**
+  * Multiple servers, process modeling, policy check mechanisms
+* **Subversion**
+* **Git**
+
+###### Version Control Systems \(VCS\)
+
+* allow many software developers to collaboratively work on the configuration item of a project
+* store different versions of configuration items in a commit history \(and allow restoring those\)
+* allows developers to review how configuration items changed over time \(commit history\)
+* stores revisions in a repository, where developers can check them out into their working copy
+* Distributed Version Control Systems \(DCVS\) provide more flexibility and features
+
 ##### Version Control Architectures
 
 ###### Monolithic Architecture
 
+* Developers have a simple local database that keeps all changes to files under revision control
+* Example: RCS 
+* Still distributed with many computers today
+
 ###### Repository Architecture
+
+* A single \(central\) server contains all versioned files
+* Developers can check out files from the server on their computer \(programmer's directory\), change them and check them back into the central server \(master directory\)
+* Administrators have fine-grained control over who can do what
+* **Problem:** Single point of failure at the central VCS server. Possibility of loosing all the versions and their history, if the server crashes.
 
 ###### Peer-to-Peer Architecture
 
@@ -160,10 +191,10 @@
 4. Test before you commit
 5. Write meaningful and understandable commit messages
 6. Do not use version control as a backup system
-7. Keep your working copy of the repository up to date (regularly pull and push)
+7. Keep your working copy of the repository up to date \(regularly pull and push\)
 8. Use branches
 9. Agree on a workflow
-10. Do not change published (promoted) history
+10. Do not change published \(promoted\) history
 
 ###### 1. Commit related changes
 
@@ -185,25 +216,25 @@
 
 ###### 4. Test before you commit
 
-* Test thoroughly to make sure no side effects arise, before commiting (at least build the project)
+* Test thoroughly to make sure no side effects arise, before commiting \(at least build the project\)
 * Even more important when pushing to the remote repository!
 
 ###### 5. Write meaningful and understandable commit messages
 
-* Begin message with a short summary of changes (~ 50 chars, reference to JIRA issue)
+* Begin message with a short summary of changes \(~ 50 chars, reference to JIRA issue\)
 * Separate summary from body with newline
 * The body of you message should provide answer to
   * What was the motivation for the change?
   * How does it differ from the previous implementation?
-* Use imperative: ("Add XXX" instead of "Added XXX")
+* Use imperative: \("Add XXX" instead of "Added XXX"\)
 
 ###### 6. Do not use version control as a backup system
 
-* Commits should be **semantical** (related changes)
+* Commits should be **semantical** \(related changes\)
 * Don't just cram in files to back them up
 * Do not commit binary files
 * Resolve dependencies to other libraries automatically when building the source code
-* Keep size of repository small (for performance reasons)
+* Keep size of repository small \(for performance reasons\)
 
 #### 3.2 Change Management
 
