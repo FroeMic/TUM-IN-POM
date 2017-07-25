@@ -109,6 +109,25 @@ Important: Don't use the term **rapid prototyping**
 
 #### 2.1 Spiral Model
 
+* Proposed by Boehm in 1987
+* Consists of** 9 iterations** \(cycles\)
+  * \[1\] Concept of Operations
+  * \[2\] Software Requirements
+  * \[3\] Software Product Design
+  * \[4\] Detailed Design
+  * \[5\] Code
+  * \[6\] Unit Test
+  * \[7\] Integration Test
+  * \[8\] Acceptance Test
+  * \[9\] Implementation
+* In each iteration **4 basic activities** must be applied
+  * \[1\] Determine objectives, alternatives and constraints
+  * \[2\] Identify and evaluate alternatives
+  * \[3\] Identify and resolve risks
+    * If resolved: Results are evaluated and the next iteration is planned
+    * If not: immediate termination of project 
+  * \[4\] Develop a prototype and obtain approval for the next iteration
+
 #### 2.2 V-Model XT
 
 #### 2.3 Unified Process
