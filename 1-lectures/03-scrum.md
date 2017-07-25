@@ -149,6 +149,7 @@
 
 #### 4.1 User Stories
 
+* a promise for conversations
 * often written on a card
 * users \(**roles**\) are the actual users of the system
 * includes a sententce that describes **what the user does or needs**
@@ -182,6 +183,26 @@ Advantages of the template
   * Functional
   * Non-Functional
 * These requirements represent **conditions of satisfaction.** There is NO partial acceptance. Either a criterion is met or not.
+
+#### 4.2 Scenarios
+
+* instance of a use case
+* represents a concrete sequence of interactions between one or more actors and the system
+
+###### Scenario Template
+
+> **Scenario Name:  
+> Participating Actors:  
+> Flow of events:**    \[1\] Actor Step Description  
+>                                     \[2\] System Step Description  
+>                                ...  
+>                               \[n-1\] Actor Step Description  
+>                                     \[n\] System Step Description
+>
+> **Entry Conditions:  
+> Exist Conditions:  
+> Invariants:  
+> Quality Requirements:** \(also called non-functional requirements\)
 
 ### 5. Exercise Apply Scrum
 
