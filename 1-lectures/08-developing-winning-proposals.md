@@ -79,9 +79,56 @@
 
 ### 2. Proposal Process
 
+##### Do you homework first!
 
+* a structured approach is necessary even before biding on a project
+* some clients/markets dictate the proposal process \(public tenders\)
+* developing proposal is expensive =&gt; focus on the important ones
+
+##### Step 1: Do you want to work for this client?
+
+* Selected / Preferred Client \(new / existing client\)
+* History of client towards working with external contractors
+* Own history with the client
+* Win-Win Situation?
+
+##### Step 2: Do you want to bid for this project
+
+* What is the competition?
+* What are your strengths and weaknesses regarding the project?
+* What is the estimated effort for developing the proposal?
+* Does the project fit into your goals and strategy? \(move to new area, reference project\)
+* Evaluate cost/risk proposition
 
 ### 3. Key Elements for a Successful Proposal
+
+While all proposals are different five key elements influence a proposal's chance for success:
+
+1. **Interaction**
+   1. Enables understanding of issues
+   2. Quantity and quality of contacts between Client and proposal team as proposal is being developed
+   3. Client access and company knowledge
+2. **Issue**
+   1. Scope and context of what should be addressed
+   2. Making issues and setting direction
+3. **Team**
+   1. Those who prepare the proposals and meet with the clients
+   2. Collaboration, leadership, “on the ground capability”
+4. **Message**
+   1. Response on how to address the issue
+5. **Relationship**
+   1. Professional trust and empathy
+   2. Measurable strength of relationship
+
+###### Recurring Relationships pay off
+
+The focused pursuit of recurring relationships benefits both parties because it enables to understand client issues better and to ultimately add more value.
+
+* Keep client’s needs in the forefront
+* Build peripheral vision of client issues while executing current engagement
+* Reduce proposal efforts through better understanding of client issues
+* Strengthen the five elements 
+* These factors all lead to more value added to the client 
 
 ### 4. What makes a Winning Proposal
 
