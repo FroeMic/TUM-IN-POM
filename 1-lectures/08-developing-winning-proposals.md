@@ -104,6 +104,8 @@
 
 While all proposals are different five key elements influence a proposal's chance for success:
 
+![](/assets/proposal_key_elements.png)
+
 1. **Interaction**
    1. Enables understanding of issues
    2. Quantity and quality of contacts between Client and proposal team as proposal is being developed
