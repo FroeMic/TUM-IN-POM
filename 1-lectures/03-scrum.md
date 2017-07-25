@@ -91,7 +91,57 @@
 
 ### 3. Exercise: Modeling Scrum
 
+// TODO: Model Scrum as activity diagram
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### 4. Requirement Specification
+
+##### Product Backlog
+
+* Collection of items \(user stories, scenarios\) prioritized by the Product Owner
+* Can be changed or reprioritized during projects
+* Create on the basis of  problem statement before the actual project starts \(e.g. at Project Kickoff Meeting\)
+
+##### Priority
+
+* describes the importance of a requirements for the software to be developed
+* if a requirement has high value \(e.g. core functionality\), it has a high priority
+  * **Critical:** \(Prio 1\) - candidates for the first development sprints / must be part of the first product increment
+  * **Major:** \(Prio 2\)  - must be realized within the project
+  * **Minor:** \(Prio 3\) - desirable, if there is enough time
+  * **Not Important:** \(Prio 4\) - might not be realized at all
+* priorities can change during the project in Scrum
+* Important: Prioritization is done by the Product Owner
+
+##### Level of Difficulty
+
+* T-Shirt sizes represent r
 
 ### 5. Exercise Apply Scrum
 
