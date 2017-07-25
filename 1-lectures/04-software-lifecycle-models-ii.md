@@ -128,9 +128,52 @@ Important: Don't use the term **rapid prototyping**
     * If not: immediate termination of project 
   * \[4\] Develop a prototype and obtain approval for the next iteration
 
-#### 2.2 V-Model XT
+#### 2.2 Unified Process
 
-#### 2.3 Unified Process
+* An **iterative** and **incremental** lifecycle model built on the idea of **cycles** in the lifetime of a software
+* Each cycle consists of **4 phases**
+  * \[1\] Inception
+  * \[2\] Elaboration
+  * \[3\] Construction
+  * \[4\] Transition
+* Each phase can be iterated. During an iteration several **workflows** are performed in parallel
+  * **Core Workflows:**
+    * Business Modeling
+    * Requirements
+    * Analysis and Design
+    * Implementation 
+    * Test
+    * Deployment
+  * **Supporting Workflows:**
+    * Configuration & Change Management
+    * Project Management
+    * Environment
+
+###### Phases of the Unified Process
+
+The **2 phases **of the Unified Process are decomposed into 4 distinct phases
+
+![](/assets/unified_process.png)
+
+* **Engineering Stage:** \(Inception and Elaboration\)
+  * less predictable and smaller teams
+  * focusing on design and synthesis activities
+* **Production Stage:** \(Construction and Transition\)
+  * more predictable and larger teams
+  * focusing on construction, testing and deployment activities
+
+
+
+###### Phase vs. Iteration
+
+* A **phase** creates a formal stake-holder approved version of artifacts
+  * leads to "a major milestone"
+  * phase-to-phase transitions are triggered by significant business decisions \(not the completion of software development activities\)
+* An **iteration** creates an informal, internally controlled version of artifacts
+  * leads to "a minor milestone"
+  * iteration-to-iteration transitions are triggered by specific software development activities
+
+#### 2.3 V-Model XT
 
 ### 3. Agile Software Lifecycle Models
 
