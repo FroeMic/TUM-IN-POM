@@ -185,6 +185,17 @@
 * If the server dies, the "master directory" can be fully restored from a mirror in the "programmer's directory"
 * Example: Git
 
+![](/assets/dvcs.png)
+
+##### Comparison of DVCS and VCS
+
+| **Advantages** | **Disadvantages** |
+| :--- | :--- |
+| - Ability to work offline | - High learning curve |
+| - Ability to work incrementally \(small commits\) | - scaling issues |
+| - Ability for efficient context switches \(lightweight branching\) | - less administrative control |
+| - Ability to do exploratory coding \(lightweight branching\) |  |
+
 ##### Git
 
 ###### Git Commands
