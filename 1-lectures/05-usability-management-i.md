@@ -289,7 +289,22 @@ _Prototyping is **externalizing** and** making concrete a design** idea for the 
 **\[2\] Vertical** \(agile\)  
 **\[3\] UI-Centric** \(?? from both sides\)
 
-### 
+####  4.2 Evaluating Prototypes
+
+* Heuristics Evaluation can already be used for the evaluation of prototypes
+* Heuristics evaluation works on
+  * sketches
+  * paper prototypes
+  * unstable prototypes
+* "Missing element" problems are hard to find on sketches \(=&gt; look harder for them\)
+
+##### Tips for creating paper prototypes
+
+* create as many as possible
+* invest as little time as possible in the first iterations
+* use test persons, which are in the target group of that software
+* Don't limit yourself by thinking 'Is this even possible'
+* Involve as many people as possible
 
 ### 5. Usability and Serious Games
 
