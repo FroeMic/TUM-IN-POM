@@ -64,6 +64,74 @@
 
 ### 2. Terminology
 
+##### Configuration Item
+
+* An aggregation of software, hardware \(or both\) designated for configuration management and treated as a single entity in the configuration management process
+* Software Configuration Items
+  * Source Files
+  * Models
+  * Tests
+  * Binaries
+  * Documents
+  * Configurations
+* Hardware Configuration Items
+  * CPUs
+  * Bus Speed Frequencies
+  * Sensors
+  * Actuators
+
+##### Configuration Item Identification
+
+* Not every entity need to be under configuration management control
+* 2 Issues:
+  * \[1\] **What**: Selection of configuration items
+    * What should be under configuration control?
+  * \[2\] **When**: When do you start to place entities under configuration control?
+    * In early days, it was an activity
+    * Today it should be a **project function** \(from the beginning to the end of the project\)
+
+##### SCM Directories
+
+* **Programmer's Directory** \(IEEE 1042: Dynamic Library\)
+  * also called _working copy_
+  * library for holding newly created or modified software entities
+* **Master Directory** \(IEEE 1042: Controlled Library\)
+  * manages the current baseline\(s\) and is for controlling changes made to them
+  * changes must be authorized
+* **Software Repository** \(IEEE 1042: Static Library\)
+  * Archive for the various baselines released for general use
+  * Copies of these baseline may be made available to requesting organizations
+
+##### Version
+
+* **Version:** An initial release or re-release of a configuration item associated with a complete compilation or recompilation of the item. Different versions have different functionality.
+* **Release:** The formal \(external\) distribution of an approved version; e.g. a potentially shippable product increment in Scrum.
+* **Promotion:** A version that is made available **internally** to other developers; e.g.  new commit in the version control system.
+* **Revision:** Change to a version that correct only errors in the design / code, but does not affect the documented functionality.
+
+##### Baseline
+
+* A specification or product that has been formally reviewed and agreed to by the responsible management
+* Thereafter is serves a the basis for further development and can be change **only** through change control procedures
+* Example:
+  * Baseline A: The API was completely defined. The bodies of the methods are empty
+  * Baseline B: All data access methods are implemented and tested
+  * Baseline C: The GUI is implemented
+
+###### Types of Baselines
+
+* As systems are developed, a series of baselines are developed \(usually\) after a review \(analysis review, design review, code review, system testing, ...\)
+  * **Developmental Baseline**
+  * **Functional Baseline**
+  * **Product Baseline**
+* Branch Management allows to transition between these baselines
+
+###### Naming Scheme of Baselines \(Tagging\)
+
+* Many naming schemes exist
+* Example: **A3 Digit Scheme**
+  * \[Major Release\].\[Minor Release\].\[Small Revision\]
+
 ### 3. SCM Activities
 
 #### 3.1 Version Control \(Promotion Management\)
