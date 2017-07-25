@@ -198,9 +198,31 @@
 
 ##### Git
 
+* Open Source Project
+* Supports lightweight local branching
+* Differences to subversion
+  * Multiple branches in each SCM directory
+  * Branches are lightweight \(file + history are not copied, but only referenced\)
+  
+![](/assets/git_uml.png)
+
 ###### Git Commands
 
+* **git add:** Add changed files to the staging area
+* **git commit:** Commit selected changed files of the staging area to your local repository
+* **git push:** Upload local commits to a remote repository
+* **git pull:**  \(fetch & merge\) Download and merge remote commits into your working copy
+* **git clone:** \(fetch & initial checkout\) Clone a complete repository into a new working directory
+
+![](/assets/git_commands.png)
+
 ###### Merge Conflicts
+
+* Merge conflicts happen, if two persons work on the **same lines** in the **same files** at the **same time**
+* 3 ways to resolve a merge conflict
+  * \[1\] Take mine
+  * \[2\] Take theirs
+  * \[3\] Merge the overlapping changes manually
 
 ##### Best Practices: Distributed Version Control
 
