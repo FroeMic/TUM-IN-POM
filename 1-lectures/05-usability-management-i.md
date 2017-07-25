@@ -10,7 +10,27 @@
 
 #### 1.1 Usability Disasters
 
+Many Software Failures are due to Faults in the User Interface. Examples:
+
+* German / Munich MVV ticket machines
+* Questionably labeled elevator buttons
+* Control rooms in nuclear power plants
+
 #### 1.2 Terminology
+
+##### Usability
+
+* measures how well a user can use the system functionality
+* is measured in 5 categories
+  * **\[1\] Learnability:** faster to learn =&gt; higher usability
+  * **\[2\] Efficiency:** less steps to accomplish =&gt; higher usability
+  * **\[3\] Memorability:** how quickly can a user reestablish proficiency
+  * **\[4\] Errors:** amount of errors by the user, severity, recoverability
+  * **\[5\] Satisfaction:** users come back more often, if the design / experience is pleasant
+
+**"The system is easy to use"** - frequently misused term, often such systems are rather unusable  
+**Unusability** - the user has extreme difficulties to learn or use the system  
+**User Experience** - A person's perceptions and responses that result from the use and/or anticipated use of a product, system or service. \(= all effectsof a product /service on the user, **before, during** and **after** the interaction\)
 
 ### 2. Usability Heuristics \(Nielsen\)
 
