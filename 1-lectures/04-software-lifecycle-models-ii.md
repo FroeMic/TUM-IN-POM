@@ -162,8 +162,6 @@ The **2 phases **of the Unified Process are decomposed into 4 distinct phases
   * more predictable and larger teams
   * focusing on construction, testing and deployment activities
 
-
-
 ###### Phase vs. Iteration
 
 * A **phase** creates a formal stake-holder approved version of artifacts
@@ -174,6 +172,54 @@ The **2 phases **of the Unified Process are decomposed into 4 distinct phases
   * iteration-to-iteration transitions are triggered by specific software development activities
 
 #### 2.3 V-Model XT
+
+* successor of V-Model 
+* XT = extreme tailoring
+* standard for German Government contracts
+* incorporates duties of client
+* Goals:
+  * Minimize project risk
+  * Improve and guarantee quality
+  * Reduce costs
+  * Improve communication
+* Focus on products instead of activities \(no defined chronology of activities\)
+
+##### General
+
+* V-Model XT describes **WHO** has to do **WHAT** **WHEN** in a project
+* Discriminates between different **Project Types** by
+  * Role \(customer, contractor\_
+  * Project topic \(HW, SW, complex, embedded, integration\)
+* Each type has a **project execution strategy**
+  * each stragey is a process model with milestones and decision points
+  * V-Model XT = collection of different process models
+* Task areas are described by **process components**
+  * which define products, activities, roles and their relationships
+  * some are mandatory \(V-Model kernel\), other subject to **tailoring**
+
+##### Tailoring
+
+* Select the applicable process components and a project execution strategy to create a project specific process.
+* **Static Tailoring** occurs at project definition time \(before the project starts\)
+  * project type and characteristics together suggest a set of process components
+  * some choices are open \(e.g. optional process components\)
+  * project specific adaptations may include
+    * using different strategies for prototypes vs final development, etc
+* **Dynamic Tailoring** may occur during the project execution
+  * e.g. when HW functionality is to be realized, the component 'HW Development' will be dynamically included
+
+##### Execution of a V-Model XT Project
+
+1. Determine the project type and project characteristics
+2. Choose a corresponding project execution strategy
+3. Tailor the V-Model XT to your project
+4. Repeat \(Iterate\)
+   1. Identify all decision points to be reached in the next step
+   2. For each decision point:
+      1. Identify all products to be generated for that decision point \(direct or dependency\)
+      2. Identify all activities needed for producing these products
+      3. Perform the activities and generate the products.
+   3. Evaluate the decision points until the project is finished
 
 ### 3. Agile Software Lifecycle Models
 
