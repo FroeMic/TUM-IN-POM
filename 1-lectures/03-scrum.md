@@ -79,7 +79,7 @@
 ##### Scrum Roles
 
 1. **Development Team:** self-organizing and cross-functional team, which realizes the product increment
-2. **Scrum Master:** resolves impediments and is responsible for the process
+2. **Scrum Master:** resolves impediments and is responsible for the process \(e.g. visualization of progress with burndown chart\)
 3. **Product Owner:** defines the product and is responsible for the results
 
 ##### Sprint
