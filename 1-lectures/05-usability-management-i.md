@@ -245,6 +245,52 @@ Usability is multidimensional
 
 ### 4. Prototyping
 
+_Prototyping is **externalizing** and** making concrete a design** idea for the purpose of evaluation._
+
+##### Why Prototyping?
+
+* Instant gratification
+* Tangibility \(helps to understand a system early on\)
+* Improves poort communication
+* Allows early decision making
+* Mistakes can be found early 
+
+###### Failures are helpful
+
+* Success in Engineering is defined by its failures \(paradoxical approach to design\)
+  * better information comes from failing designs
+  * failures draw more scrutiny and result in better solutions
+
+###### Knowledge must be falsifiable
+
+* There is no absolute truth; One can only build theories that are 'true' until someone falsifies it
+* Falsification = the act of disproving a theory or hypothesis
+* In software engineering any system \(e.g. UI\) is a model, thus a theory
+  * models are often built to find counter examples
+  * Testing = act of disproving a model
+* Prototypes can be used to test 
+
+#### 4.1 Types of Prototyping
+
+![](/assets/protoyping_types.png)
+
+##### Horizontal vs Vertical Prototypes
+
+| **Horizontal Prototype** | **Vertical Protoype** |
+| :--- | :--- |
+| Show wide range of features | Show small range of features \(scenario / user story\) |
+| Horizontal Integration \(bottom-up or top-down\) | Full implementation of those features |
+| Used in linear processes \(no full implementation till the end\) | Vertical Integration |
+|  | Used in agile processes |
+
+##### Integration Approaches during Prototyping
+
+**\[1\] Horizontal** \(traditional\)  
+**\[2\] Vertical** \(agile\)  
+**\[3\] UI-Centric** \(?? from both sides\)
+
+### 
+
 ### 5. Usability and Serious Games
 
 ### 6. Summary
