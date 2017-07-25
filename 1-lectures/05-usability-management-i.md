@@ -190,6 +190,40 @@ Usability is multidimensional
   * align controls
 * Use concise language
 
+#### 2.3 Heuristics Evaluation
+
+* application of Nielsen's 10 heuristics
+* is an **inspection method**
+  * different from user testing
+* Performed by a usability expert
+* Basic steps:
+  * 1\) Evaluator inspects the interface thoroughly
+  * 2\) Evaluator compare the user interface against Nielsen's 10 heuristics
+  * 3\) Evaluator provides a list of usability problems
+
+##### Good Heuristic Evaluation
+
+* Justify every problem with a heuristic
+* List every problem
+* Go through the interface at least twice
+* Don't limit yourself to the 10 heuristics
+
+##### Formal Evaluation Process
+
+1. Training
+   1. Meeting for Design Team and Evaluators
+   2. Introduce application, target users, domain, scenarios
+2. Evaluation
+   1. Evaluators works separately
+   2. Each of the generates written reports or oral comments
+   3. Focus on generating problems, NOT ranking them
+   4. 1-2h per evaluation
+3. Severity rating
+   1. Prioritize all found problems
+   2. Take the mean of all evaluators ranking
+4. Debriefing
+   1. Evaluators and UI designers discuss the results and brainstorm solutions
+
 ### 3. Usability Testing
 
 ### 4. Prototyping
