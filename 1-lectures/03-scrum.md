@@ -49,9 +49,45 @@
   * Manages and controls software and product development with rapidly changing requirements
   * Improves risk management by improved communication and cooperation and the delivery of product increments
 
-###### 
+### 2. Scrum: An Example of Empirical Process Control
 
-### 2. Scrum: an example of empirical process control
+##### Scrum Artifacts
+
+1. **Product Backlog:** List of requirements of the whole product
+2. **Spring Backlog:** List of requirements for one iteration \("Sprint"\)
+3. **Potentially Shippable Product Increment:** Release to the Product Owner that contains all results for the current sprint
+
+##### Scrum Meetings
+
+1. **Project Kickoff Meeting:** \(at the start of a project\)
+   1. Create and prioritize Product Backlog
+2. **Spring Planning Meeting:** \(at the start of each spring\)
+   1. Create Sprint Backlog
+   2. Important: Development Team and Product Owner select items together
+3. **Daily Scrum Meeting:** \(everyday, about 15 minutes\)
+   1. Standup Meeting to share **status**, **impediments** and **promises**
+4. **Sprint Review Meeting:** \(at the end of each sprint\)
+   1. Demonstration of realized backlog items to the Product Owner \(and other stakeholders\)
+   2. Release and deliver the application \(product increment\)
+   3. Important: Product Owner gives feedback
+   4. Can be combines with the Sprint Planning Meeting for the next sprint.
+5. **Sprint Retrospective:** \(after each sprint\)
+   1. Opportunity to inspect the previous sprint and create a plan for improvements to be enacted during the next sprint
+
+##### ![](/assets/scrum.png)
+
+##### Scrum Roles
+
+1. **Development Team:** self-organizing and cross-functional team, which realizes the product increment
+2. **Scrum Master:** resolves impediments and is responsible for the process
+3. **Product Owner:** defines the product and is responsible for the results
+
+##### Sprint
+
+* Time box during which the team creates a potentially shippable product increment.
+* Typically 2-4 weeks long.
+* Sprints have consistent duration throughout a project.
+* A new sprint starts immedidately after the conclusion of a previous one.
 
 ### 3. Exercise: Modeling Scrum
 
