@@ -219,5 +219,88 @@ Advantages of the template
 
 ### 5. Exercise Apply Scrum
 
+##### Sprint Planning Meeting
 
+* The Development Team estimates the difficulty for the most important items in the Product Backlog
+* Development Team and Product Owner select Product Backlog items that can be realized in the Sprint
+* The Development Team negotiates with the Product Owner how many items it can realize in the Sprint
+* The Product Owner defines when an item is accepted \(e.g. using acceptance criteria\)
+* Important: The Sprint Backlog cannot be changed by the Product Owner within the Sprint to protect the team from too many changes
 
+##### Refinement of the Sprint Backlog
+
+* The Development Team needs to discuss the concrete implementation to work on a backlog item
+* The Development Team creates tasks to realize the backlog items \(e.g. to match the acceptance criteria defined by the product owner\)
+
+##### Daily Scrum Meeting
+
+* Main purpose: Risk reduction by early information sharing and discussion
+* 15 min standup meeting every day
+* Every developer answers the following 3 questions:
+  * **Status**: What did you do since the last meeting?
+  * **Impediments**: Are there any impediments in your
+way? (also called blockers)
+  * **Promises**: What do you promise to resolve until
+the next meeting?
+
+##### Sprint Review Meeting
+
+* The Development Team delivers a Product Increment including the realized items from the
+Sprint Backlog (Before the Review Meeting to the Product Owner)
+* The Development Team demonstrates the Product Increment to the Product Owner
+* The Product Owner (or other stakeholders) gives feedback and decides whether the items
+are realized completely
+  * Realized items are ticked off in the Sprint Backlog
+  * Unrealized items move back to the Product Backlog (= candidates for the next Sprint)
+* The Product Owner can add new requirements to the Product Backlog or change existing ones
+* The Review Meeting can include a Sprint Retrospective (can also be a separate meeting)
+
+###### Potentially Shippable Product Increment
+
+* Each sprint focuses on the incremental creation of
+a working system
+* The Product Increment can be thrown away
+(“falsified”) or delivered (Product Owner decides)
+
+##### Sprint Retrospective Meeting
+
+* Scrum Master and Development Team meet to discuss how the previous Sprint worked out (Product Owner may participate)
+* Different retrospective techniques exist (e.g. brainstorming what did (not) work out)
+* Each team member is asked to identify specific things that the team should:
+  * Start doing
+  * Stop doing
+  * Continue doing
+
+### 6. Summary
+
+##### Scrum as Methodology
+
+* **Involvement of the customer:** Onsite customer (“co-located”, product owner)
+* **Planning:** Checklists and incremental daily plans (“Daily Scrum”)
+* **Reuse:** Checklists from previous projects
+* **Modeling:** Models may or may not be used
+* **Process:** Iterative, incremental and adaptive process
+* **Control and Monitoring:** Risk management distributed across daily meetings
+
+##### Process Control
+
+* **Defined process control** is entirely planned, follows strict rules and treats
+deviations as problems
+* **Empirical process control** is not entirely planned and promotes frequent
+inspection and adaption
+* Scrum is a popular agile method based on empirical process control that is
+used by many teams
+* JIRA supports Scrum artifacts and activities
+
+##### Scrum
+* 3 Artifacts: Product Backlog, Sprint Backlog, Potentially Shippable Product Increment
+* 4 Meetings: Project Kickoff, Sprint Planning, Daily Scrum, Sprint Review
+* 3 Roles: Scrum Master, Product Owner, Developer
+
+##### JIRA
+* Create and manage the Product Backlog and its backlog items (e.g. User Stories / Scenarios)
+* Plan the Sprint by choosing backlog items and by adding Sub-Tasks
+* Track the status of a Sprint using a Taskboard and the progress of a Sprint with a Burn Down
+Chart
+* Prioritize and estimate backlog items —> more about estimation in a later exercise
+* Review the Sprint using acceptance criteria
