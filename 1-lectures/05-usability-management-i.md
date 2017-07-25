@@ -104,6 +104,92 @@ Usability is multidimensional
 
 10\) Aesthetic and minimalist design
 
+##### 1. Match the real world
+
+* Speak the user's language
+* Don't limit user defined names
+* Allow aliases in command language
+* Use metaphores
+* Natural Mapping
+
+##### 2. Consistency and standards
+
+* Principle of least surprise
+  * similar things should look and act similar
+  * different things should look different
+* Other properties
+  * consistent size, location, color, wording, ...
+* Command / Argument Order
+  * Noun-Verb-Order vs Verb-Noun-Order
+* Follow platform standards
+
+##### 3. Help and documentation
+
+* Users don't read manuals
+* BUT manuals and online help are vital \(if user is frustrated\)
+* Help should be:
+  * searchable
+  * context sensitive
+  * task oriented
+  * concrete
+  * short
+
+##### 4. User control and freedom
+
+* Clearly mark exits
+* Users should be able to explore interface \(cancel / undo option\)
+* Users should not feel trapped by the interface
+* All dialogs should have a cancel button
+
+##### 5. Visibility of system status
+
+* Keep user informed about system state
+* Response times
+  * &lt; 100 ms \(instantaneous\)
+  * &lt; 1s \(user notices, but no feedback needed\)
+  * &lt; 5s \(display busy cursor\)
+  * &gt; 5s \(display progress bar\)
+
+##### 6. Flexibility and efficiency
+
+* Provide shortcuts for frequent operations
+  * keyboard accelorators
+  * command abbreviations
+  * styles
+  * bookmarks
+  * history
+  * ...
+
+##### 7. Error prevention
+
+* Selection is less error prone than typing
+* Disable illegal commands
+
+##### 8. Recognition, not recall
+
+* Use menus, not command languages
+* Use combo boxes, not text boxes
+* Use generic \(polymorphic\) commands where possible \(Open, Save, Copy, Paste\)
+* All needed information should be visible
+
+##### 9. Error reporting, diagnosis and recovery
+
+* Be precise \(restate user's input\)
+* Give constructive help
+* Be polite and do not blame
+* No 'fatal errors' or 'illegal commands'
+* Hide technical details \(stack trace\) until requested
+
+##### 10. Aesthetic and minimalist design
+
+* Good design is about simplicity
+  * less is more \(KISS\)
+* Good graphic design
+  * few colors / fonts
+  * follow color guidelines
+  * align controls
+* Use concise language
+
 ### 3. Usability Testing
 
 ### 4. Prototyping
