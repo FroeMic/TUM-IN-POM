@@ -140,6 +140,73 @@
 
 #### 3.2 Change Management
 
+* Change Management is the handling of **change requests**
+* The general change management **process:**
+  * \[1\] A change is requested
+  * \[2\] The change request is evaluated against requirements and project constraints and reviewed by the **configuration control board** 
+  * \[3\] The change request is **approved** or **rejected**
+  * \[4\] If it is approved, it is assigned to a developer, designed, implemented and tested
+  * \[5\] The implemented change is audited to create another baseline
+
+![](/assets/change_process.png)
+
+##### Change Request
+
+* Specifies the procedures for requesting a change to a baselined configuration item and the information to be documented
+  * Name\(s\) and version\(s\) of the configuration item\(s\) where a problem appears
+  * Originator's name and address
+  * Date of request
+  * Indication of urgency
+  * The need for the change
+  * Description of the requested change
+
+##### Change Policies
+
+* The purpose of the change policy is to guarantee that each promotion or release conforms to commonly accepted criteria
+* Examples for Change Policies
+  * _No developer is allowed to promote source code that was compiled with warnings or errors._
+  * _No baseline can be released without having been beta-tested by at least 500 external testers._
+
+##### Change Management Activities and Responsibilities
+
+1. **Software Configuration Control** \(Managing a Change Request\)
+2. **Software Configuration Status Accounting**
+3. **Software Configuration Auditing**
+
+###### 1. Software Configuration Control \(Managing a Change Request\)
+
+* Define a change request form
+* Define management procedure for
+  * Identification of the need for a change request
+  * Analysis and evaluation of a change request
+  * Approval or disapproval of a change request
+  * Implementation, Verification and Release of the change
+
+###### 2. Software Configuration Status Accounting
+
+* Answers the following questions
+  * What elements are to be tracked and reported for baselines and changes?
+  * What types of status account reports are to be generated? What is their frequency?
+  * How is information collected, stored and reported?
+  * How is access to the configuration management status data controlled?
+
+###### 3. Software Configuration Auditing
+
+* Identifies audits for the project.
+* An **audit** determines for each configuration item, if it meets the required physical and functional characteristics.
+  * Independent examination of a work product or a set of work products to assess compliance with specifications, standards, contractual agreements or other criteria
+  * Audits are conducted according to a well-defined process consisting of various auditor roles and responsibilities
+* The successful completion of an audit can be prerequisite for the establishment of the product baseline
+* For each audit, the auditor has to define:
+  * Objectives
+  * Configuration Items under review
+  * Schedule for the review
+  * Procedures for conducting the review
+  * Participants by job title
+  * Required documentation
+  * Procedure for recording deficiencies and how to correct them
+  * Approval criteria
+
 ### 4. Summary
 
 ##### Software Configuration Management
