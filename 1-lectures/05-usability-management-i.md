@@ -67,6 +67,19 @@ Usability is multidimensional
 
 #### 2.1 Methods to reach good usability
 
+##### Heuristics Evaluation
+
+* a usability engineering method to find usability problems in user interface design
+
+##### Usability Testing
+
+* watching a user interact with the user interface of the system
+* uses scenario-based testing
+* involves creation of a test scenario
+* the user performs a list of tasks, while the observer watches and takes notes and compares the observed with the specified behavior 
+
+**Difference:** Usability Testing vs Heuristics Evaluation is similar to Walkthrough vs Inspection
+
 #### 2.2 Nielsen's 10 heuristics
 
 ###### Meet the Expectations
