@@ -33,9 +33,41 @@
 
 #### 1.1 Waterfall Model
 
+![](/assets/waterfall_model.png)
+
+* An activity centered lifecycle model tat prescribes a sequential execution of activities
+  * Assumption: Software Development can be scheduled as a linear, step-by-step process, transforming user needs to code
+  * Goal: Never turn back, once an activity was completed
+* Key Feature: **Verification Step** at the end of each activity
+  * ensure that the activity does not introduce unwanted requirements or deletes mandatory ones
+* Provides a simplistic view on Software development that measures progress by the number of tasks completed
+
 #### 1.2 V-Model
 
+![](/assets/v_model.png)
+
+* The horizontal object flow denotes the information flow between activities on the same **abstraction level**
+* **Higher Levels** of abstraction deal with the requirements in terms of elicitation and operation. 
+  * The Client Acceptance Activity validates the understanding of the user against the requirements
+* The **middle part** of focuses on mapping the understanding of the problem into a software architecture
+  * Component Integration and Test verifies functional components against the preliminary design
+* **Lower Levels** focus on details such as the assembly and coding of software components
+  * Unit Test Activity verifies units against their description in the detailed design
+
 ### 2. Iterative Software Lifecycle Models
+
+##### Iterative vs Incremental
+
+| **Iterative** | Incremental |
+| :--- | :--- |
+| - means to 're-do' or 're-work' | - means to 'add onto something' |
+| - helps to improve product | - helps to improve process |
+| **Iterative Development:** A strategy in which time is set aside to revise and improve parts of the system. | **Incremental Development:** A strategy where various parts of the system are developed at different times or rates and integrated as they are completed. |
+
+###### Increments can cause iterations
+
+* a **product iteration** can result from **incremental addition** of functionality that had not been anticipated in previous iterations
+* a **product iteration** can also result from **restructuring**
 
 #### 2.1 Spiral Model
 
