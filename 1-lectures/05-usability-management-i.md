@@ -226,6 +226,23 @@ Usability is multidimensional
 
 ### 3. Usability Testing
 
+##### Usability Testing Methods
+
+* AB Testing
+* Expert Interview
+* Task \(Scenario\) based usability testing
+* Think aloud protocol
+* First use experience
+* Eye / Mouse tracking
+* User Questionnaires
+
+##### How much testing?
+
+* Testing is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing. 
+* Nielsen showed that 
+  * already **5 users** revealed **85%** of usability problems
+  * **15 users** reveal almost all problems
+
 ### 4. Prototyping
 
 ### 5. Usability and Serious Games
