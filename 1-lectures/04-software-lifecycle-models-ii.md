@@ -243,6 +243,96 @@ The **2 phases **of the Unified Process are decomposed into 4 distinct phases
 
 #### 3.1 Extreme Programming \(XP\)
 
+* **Main Goals**
+  * Avoid over-planning
+  * Improve software quality
+  * Improve responsiveness to changing customer requirements
+* **Terminology:** Iteration, Deliverable, Release
+* **5 Principles:** 
+  * rapid feedback
+  * assume simplicity
+  * incremental change
+  * embrace change
+  * quality work
+* **4 Roles:**
+  * Developer
+  * Customer
+  * Manager
+  * Coach
+* **12 Practices** how to approach the development process
+
+##### Terminology
+
+###### Iteration
+
+* implements one or more user stories
+  * time-boxed
+  * finished on a fixed date
+  * typical duration of 2-4 weeks
+* variable number of features implemented
+
+###### Deliverable
+
+* the result of an iteration
+  * coded, tested, potentially shippable
+* Small addition of functionality
+
+###### Release
+
+* consists of several iteration that add related functionality
+  * usually every 2-6 moths
+* When should you release?
+  * When the customer sees a big improvement over the last release
+
+##### 12 Practices grouped in 4 Areas
+
+###### 1. Rapid, Fine Feedback
+
+* **\[1\] Test Driven Development**
+* \[2\] On-site customer
+* **\[3\] Pair Programming**
+
+###### 2. Continuous Process
+
+* \[4\] Continuous Integration
+* **\[5\] Refactoring**
+* Short releases
+
+###### 3. Shared Understanding
+
+* \[7\] The planning game
+* \[8\] Simple Design
+* \[9\] Metaphor
+* \[10\] Collective Ownership
+* \[11\] Coding standards
+
+###### 1. Developer Welfare
+
+* \[12\] 40 hour week
+
+##### Test Driven Development
+
+* develop tests before you start coding
+* write tests for
+  * functional requirements
+  * non-functional requirements
+  * adherence to standards
+* write only tests that could possibly fail
+
+##### Refactoring
+
+* = a change that ;eaves the system behavior unchanged, but enhances simplicity, flexibility, understandability and/or performance
+* refactor only when the system requires you to do so
+* run all tests after refactoring
+
+##### Pair Programming
+
+* All production code is written with 2 people looking at 1 machines
+* 2 roles in each pair
+  * **Driver:** Thinks tactically, worries about the implementation, writes tests and productions code
+  * **Navigator:** Observer, thinks strategically, is the approach working? will a testcase fail?
+* Pair Programming spreads knowledge
+
 #### 3.2 Kanban \(covered in separate class\)
 
 #### 3.3 Scrum \(covered in separate class\)
