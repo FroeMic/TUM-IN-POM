@@ -79,7 +79,33 @@
   * V-Model XT
   * Agile Methods
 
-##### Types of Prototypes
+##### Prototypes
+
+Important: Don't use the term **rapid prototyping**
+
+* confuses prototyping with rapid development
+  * prototyping = technical issue
+  * rapid development = management issue
+* prototyping can go forever, if not restricted \(time-boxed prototyping\)
+
+###### Types
+
+1. **Illustrative Prototype**
+   1. develop the UI with a storyboard
+   2. can be as simple as on a napkin or with dedicated tools
+   3. Good for first dialog with the client
+2. **Functional Prototype**
+   1. implement and deliver an operational system with minimal functionality
+   2. then add more functionality
+   3. good for incremental development
+3. **Exploratory Prototype** \("Hack"\)
+   1. implement parts of the system to learn more about the requirements
+   2. good for paradigm breaks
+
+###### Vertical vs. Horizontal Prototype
+
+* **Vertical Prototype:** Prototypes one feature \(over several layers\)
+* **Horizontal Prototype:** Prototypes one layer \(e.g. presentation layer\)
 
 #### 2.1 Spiral Model
 
