@@ -223,6 +223,24 @@ The **2 phases **of the Unified Process are decomposed into 4 distinct phases
 
 ### 3. Agile Software Lifecycle Models
 
+##### Change influences choice of process model
+
+**PT:** Project Time  
+**TBC:** Time Between Change  
+**MTBC:** Mean Time Between Change
+
+###### Frequency of Change
+
+* **Change rarely occurs:** \(MTBC &gt;&gt; PT\)
+  * Sequential Model \(Waterfall, V-Model\)
+  * Open issues are closed before moving to next phase
+* **Change occurs sometimes:** \(MTBC ≃ PT\)
+  * Iterative Model \(Spiral Model, Unified Process, V-Model XT\)
+  * Change occuring during a phase may lead to the iteration of a previous phase or cancelation of the project
+* **Change occurs frequently:** \(MTBC &lt;&lt; PT\)
+  * Agile Model \(Scrum, Kanban, Extreme Programming\)
+  * Change during a phase can lead to reengineering of the requirements or design
+
 #### 3.1 Extreme Programming \(XP\)
 
 #### 3.2 Kanban \(covered in separate class\)
