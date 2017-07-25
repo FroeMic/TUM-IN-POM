@@ -138,6 +138,73 @@
 
 #### 3.1 Version Control \(Promotion Management\)
 
+##### Version Control Architectures
+
+###### Monolithic Architecture
+
+###### Repository Architecture
+
+###### Peer-to-Peer Architecture
+
+##### Git
+
+###### Git Commands
+
+###### Merge Conflicts
+
+##### Best Practices: Distributed Version Control
+
+1. Commit related changes
+2. Commit and push often
+3. Do not commit half done work
+4. Test before you commit
+5. Write meaningful and understandable commit messages
+6. Do not use version control as a backup system
+7. Keep your working copy of the repository up to date (regularly pull and push)
+8. Use branches
+9. Agree on a workflow
+10. Do not change published (promoted) history
+
+###### 1. Commit related changes
+
+* A commit should be a wrapper for related changes
+* Two different bugs should be fixed in two different commits
+* Small commits make it easier for team members to understand the changes
+
+###### 2. Commit and push often
+
+* Keep commits small and concise
+* Allows you to share code with other more often
+* Easier for everyone to integrate their changes
+* Having large commits probably leads to merge conflicts
+
+###### 3. Do not commit half done work
+
+* Commit only if the code is completed
+* Split feature's implementation into logical chunks and commit those early and often
+
+###### 4. Test before you commit
+
+* Test thoroughly to make sure no side effects arise, before commiting (at least build the project)
+* Even more important when pushing to the remote repository!
+
+###### 5. Write meaningful and understandable commit messages
+
+* Begin message with a short summary of changes (~ 50 chars, reference to JIRA issue)
+* Separate summary from body with newline
+* The body of you message should provide answer to
+  * What was the motivation for the change?
+  * How does it differ from the previous implementation?
+* Use imperative: ("Add XXX" instead of "Added XXX")
+
+###### 6. Do not use version control as a backup system
+
+* Commits should be **semantical** (related changes)
+* Don't just cram in files to back them up
+* Do not commit binary files
+* Resolve dependencies to other libraries automatically when building the source code
+* Keep size of repository small (for performance reasons)
+
 #### 3.2 Change Management
 
 * Change Management is the handling of **change requests**
