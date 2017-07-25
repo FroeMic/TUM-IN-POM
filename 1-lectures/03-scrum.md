@@ -165,15 +165,23 @@ Advantages of the template
 * defines a structure and simplifies the prioritization process
 * facilitates categorization into user roles
 
-###### Properties of a good User Story (INVEST)
+###### Properties of a good User Story \(INVEST\)
 
 1. **Independent** - Avoid overlapping user stories
 2. **Negotiable** - A user story is not a contract, but a basis for a discussion between Development Team and Product Owner
-3. **Valuable** - for the user and the business. (Also **Vertical** - we plan and develop features not layers)
+3. **Valuable** - for the user and the business. \(Also **Vertical** - we plan and develop features not layers\)
 4. **Estimable** - the stories on the product backlog are the basis of our project plan
-5. **Small** - too large user stories should be partitioned into smaller ones (complexity otherwise increases over-proportionally)
-6. **Testable** - if a user story is not testable, it might not be of real value for the product (also, this implies realizability)
+5. **Small** - too large user stories should be partitioned into smaller ones \(complexity otherwise increases over-proportionally\)
+6. **Testable** - if a user story is not testable, it might not be of real value for the product \(also, this implies realizability\)
 
+###### Acceptance Criteria
+
+* conditions a software product must satisfy to be accepted by a user, customer or other stakeholder
+* pre-established standards / requirements a product or project must meet
+* set of statements, each with a clear pass/fail result that specify requirements applicable to the current stages of project integration
+  * Functional
+  * Non-Functional
+* These requirements represent **conditions of satisfaction.** There is NO partial acceptance. Either a criterion is met or not.
 
 ### 5. Exercise Apply Scrum
 
