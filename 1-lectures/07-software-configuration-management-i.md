@@ -174,8 +174,16 @@
 * Developers can check out files from the server on their computer \(programmer's directory\), change them and check them back into the central server \(master directory\)
 * Administrators have fine-grained control over who can do what
 * **Problem:** Single point of failure at the central VCS server. Possibility of loosing all the versions and their history, if the server crashes.
+* Example: Subversion
 
 ###### Peer-to-Peer Architecture
+
+* Addresses the single point of failure problem
+* Each "programmer's directory" fully mirrors the "master directory"
+* Programmers can work offline and create versions \(commits and branches\)
+* Not all versions are promoted to the "master directory" \(they actively need to be pushed\)
+* If the server dies, the "master directory" can be fully restored from a mirror in the "programmer's directory"
+* Example: Git
 
 ##### Git
 
