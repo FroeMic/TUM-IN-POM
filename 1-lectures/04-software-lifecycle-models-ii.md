@@ -8,7 +8,30 @@
 
 ### 1. Sequential Software Lifecycle Models
 
-#### 1.1 Waterfall Models
+##### Properties of sequential models
+
+###### Managers love sequential models
+
+* nice milestones
+* no need to look back \(linear model\)
+* always one activity at one time
+* easy to check progress during development \(e.g. 90% coded, 20% tested\)
+
+###### However, Software Development is non-linear
+
+* **During Design:** problems with requirements are identified
+* **During Implementation:** design and requirement problems are found
+* **During Testing:** coding errors, design errors and requirement errors are found
+
+##### Validation vs Verification
+
+| **Validation** | Verification |
+| :--- | :--- |
+| - Assurance that a product, service or system meets the need of the customer and other identified stakeholders | - Evaluation whether or not a product, service or system complies with a regulation, requirement or imposed condition |
+| - Often involves acceptance and suitability with **external** customers | - Often an **internal** process |
+| **Informally:** _Are you building the right thing?_ | **Informally:** _Are you building it right?_ |
+
+#### 1.1 Waterfall Model
 
 #### 1.2 V-Model
 
@@ -42,8 +65,4 @@
 ##### Agile Manifesto: Dealing with Uncertainty, Complexity and Change
 
 ![](/assets/agile_manifesto.png)
-
-
-
-
 
