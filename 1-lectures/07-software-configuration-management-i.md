@@ -1,4 +1,4 @@
-## 007 Software Configuration Management I
+## 07 Software Configuration Management I
 
 ###### 7 June - 13 June
 
@@ -63,6 +63,8 @@
 6. **Variant Management** \(Management of coexisting version\) **\(Not Covered\)**
 
 ### 2. Terminology
+
+##### ![](/assets/scm.png)
 
 ##### Configuration Item
 
