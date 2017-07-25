@@ -32,6 +32,37 @@ Many Software Failures are due to Faults in the User Interface. Examples:
 **Unusability** - the user has extreme difficulties to learn or use the system  
 **User Experience** - A person's perceptions and responses that result from the use and/or anticipated use of a product, system or service. \(= all effectsof a product /service on the user, **before, during** and **after** the interaction\)
 
+##### \(Good\) User Interfaces are hard to design
+
+###### Developer is not equal to the user
+
+* Developers mostly communicate with other developers
+* UI development is about communicating with users
+
+###### The User is always right
+
+* consistent problems are the system's fault
+
+###### ... but the User is not always right
+
+* users are not designers
+
+###### UI development takes effort
+
+* 50% of design, implementation and maintenance
+
+###### Managers must be involved \(usability management\)
+
+##### Usability Management
+
+Usability is multidimensional
+
+1. Learnability: Is the UI easy to learn?
+2. Efficiency: Once learned, is it fast to use?
+3. Memorability: Is it easy to remember what the user has learned?
+4. Error Handling / Robustness: Are errors recoverable?
+5. Satisfaction: Is the UI enjoyable to use?
+
 ### 2. Usability Heuristics \(Nielsen\)
 
 ### 3. Usability Testing
