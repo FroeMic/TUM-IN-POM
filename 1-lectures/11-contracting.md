@@ -12,7 +12,7 @@
 
 ##### Questions need to be answered
 
-*  What are expected deliverables?
+* What are expected deliverables?
 * What is the schedule?
 * What about the money?
 * What are the responsibilities of the contractor and the client?
@@ -37,7 +37,7 @@
   * e.g. rigorous evaluation and selection processes in the public sector
 * Don't underestimate the effort
 
-###### Critical 
+###### Critical
 
 * Price-Performance Ratio
 * Good Estimations
@@ -61,6 +61,20 @@
 * Build a system
 * Flexible approach
 
+###### =&gt; The formal contracting flow
+
+| **Client** |  | Contractor |
+| :--- | :---: | :--- |
+| 1. Request for Proposals | =&gt;  |  |
+|  | &lt;= \(Offer\) | 2. Submit Offer |
+| 3. Contract Awarded | &lt;= \(Contract\) =&gt; | 3. Contract Awarded |
+| 4. Iteration scheduled |  | 4. Iteration scheduled |
+| 5. Acceptance Completed | &lt;= \(Software\) =&gt; | 5. Acceptance completed |
+|  | &lt;= \(Final Project Report\) | 6. Project Completed |
+| 7. Project Completed |  |  |
+
+
+
 ##### Contracting: Roles
 
 Procurement, acquisition and bidding require 'project roles' \(Client, Contractor\). A contract defines responsibilities, deliverables, schedules, procedure for BOTH of them
@@ -73,6 +87,14 @@ Procurement, acquisition and bidding require 'project roles' \(Client, Contracto
 * **Contractor** \(also Supplier\)
   * Submits offers \(bidding\)
   * Ships results \(software, concrete deliverable, services, ...\)
+
+It gets more tricky, if it is an internal project **without** a contract
+
+* Who is the client? Who is the contractor?
+* How to define the agreement?
+  * Informal Agreement
+  * Formal Agreement
+  * Cross-Unit-Collaboration
 
 ### 2. Influence Factors
 
