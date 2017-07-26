@@ -150,9 +150,76 @@ A project usually starts with a dialog and need preparation \(regardless of acqu
 
 #### 3.2 Prepare the Offer
 
+**Experience and Observation** are important for the offer preparation. Particular procedure may vary from company to company.
+
+**Input:** Project Idea  
+**Output:** Project Proposal (Draft)
+
+###### Steps
+
+1. Collect and complete information
+regarding the client
+2. Evaluate business value
+3. Conduct feasibility study
+4. Develop offer and sales strategy
+5. Estimate cost and effort
+6. Check resource availability
+7. Initial project planning
+    1. Cost Plan
+    2. Resource Plan
+    3. Risk Analysis
+    4. Scheduling (initial)
+8. Create proposal
+
+
 #### 3.3 Develop the Offer
 
+**Input:** Project Proposal (Draft)
+**Output:** Project Proposal
+
+###### Steps
+
+1. Build proposal development team
+2. Develop proposal development strategy
+3. Develop and continuously improve proposal parts
+    1. Sales Parts
+    2. Economic Parts
+    3. Solution Parts
+    4. Contract Parts
+4. Develop initial project plan
+    1. Project Plan
+    2. Effort and Cost
+    3. Resources
+
 #### 3.3 Prepare Acceptance
+
+The acceptance procedure should define
+
+* **Contractor:** Shipping, including preparation
+* **Client:** Acceptance Test, including
+  * Who is authorized to accept?
+  * Formal or silent acceptance?
+  * Partial Delivery
+  * Reporting
+  
+**Important:** Already in the contract the procedure for the system's acceptance have to be defined. Acceptance means always a **reversal of the burden of proof**.
+  * delivery dates
+  * acceptance procedures
+
+##### Acceptance Tasks
+
+* Check for **completeness**: “Was everything shipped as expected?”
+    * Basis: the contract
+    * Further artifacts: additional agreements, change requests, management decisions
+* **Verification** of the project results: “Was the software developed right?”
+* **Validation** of the project results: “Was the right software developed?”
+
+##### Problems in the acceptance phase
+
+* Errors and bugs
+* Acceptance delays
+* Acceptance refusal
+* Acceptance with conditions
 
 ### 4. Legal Aspects
 
