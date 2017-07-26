@@ -342,7 +342,33 @@ Several practices exist to make contract more flexible to adopt agile methods.
 * Define exit points (under which conditions to stop the project)
 * Define payments to compensate, or award early termination
 
+Example (Money for Nothing): For each saved month contractor gets another 10k.
+Example (Exit Point): After 2 sprints, client can decide whether he wants to do the entire project or terminate it.
+
 ##### 4. Combined Practices
+
+**Idea:** Combine **fixed price** and **time & material** into a flexible contract.
+
+Example:
+* Basic Instrument: fixed price contract (with maximum price)
+* Work is done according to time & material
+* Exit points are defined (cash flow related, exit conditions)
+* Money for Nothing is implemented for good performance
+
+**Note:**
+  * Focus on **awards and achievements**
+  * Can also contain **penalties**
+  
+_The agile fixed price contract is considered a good way to balance legal requirements an agile methods_
+
+**However**
+* Agility says: be open to change
+* Change is critical, but may influence quality / functionality of system
+* May require a formal change request if contract relevant.
+* Generally, this will work as long as everything is fine. But prepare for problem by
+  * ensuring **mature change management** is in place
+  * having an cooperative project atmosphere (trust and respect)
+  * defining the contract with (minimal) **stable requirements** and **exchangeable requirements**
 
 ##### How to handle failure?
 
