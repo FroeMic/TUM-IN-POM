@@ -8,9 +8,71 @@
 
 ### 1. Motivation
 
-##### Why is Contracting important?
+#### 1.1 Why is Contracting important?
 
-##### Contracting in the Project Lifecycle
+##### Questions need to be answered
+
+*  What are expected deliverables?
+* What is the schedule?
+* What about the money?
+* What are the responsibilities of the contractor and the client?
+* What about change management?
+
+##### Important!
+
+* A contract defines the **basic requirements** of a project \(deliverables, time, money\)
+* A contract defines the **basic rules of collaboration**
+* However: It does not dictate how to deal with uncertainties \(requirements, innovation, change\)
+
+#### 1.2 Contracting in the Project Lifecycle
+
+##### How does contracting work?
+
+* Part of the project preparation \(pre-development\)
+* Procurement, Acquisition and Bidding Procedures
+
+###### Acquisition and Bidding
+
+* Can be very formal
+  * e.g. rigorous evaluation and selection processes in the public sector
+* Don't underestimate the effort
+
+###### Critical 
+
+* Price-Performance Ratio
+* Good Estimations
+* Good Calculations
+
+##### Contracting: Interaction
+
+###### Decision Gate
+
+* Milestones and Quality Gate
+* Requires completed work products to determine project progress
+* A project plan is a sequence of decision gates
+
+###### Client Project
+
+* Get a system 
+* Often Waterfall like
+
+###### Contractor Project
+
+* Build a system
+* Flexible approach
+
+##### Contracting: Roles
+
+Procurement, acquisition and bidding require 'project roles' \(Client, Contractor\). A contract defines responsibilities, deliverables, schedules, procedure for BOTH of them
+
+* **Client** \(also Customer, Purchaser, Contracting Enitity\)
+  * Define initial requirements
+  * Request proposal\(s\)
+  * Monitor \(proposal\) projects
+  * Acceptance testing
+* **Contractor** \(also Supplier\)
+  * Submits offers \(bidding\)
+  * Ships results \(software, concrete deliverable, services, ...\)
 
 ### 2. Influence Factors
 
@@ -45,10 +107,12 @@ Several** additional practices** exist to adopt flexibility and to reflect actua
 * Contracts **need to be fair** =&gt; all participating parties have rights and duties
 
 * It is good to have a contract, but in projects ...
+
   * talk about the system, not paragraphs
   * an open atmosphere is better than a legal skirmish
   * you should name escalation authorities that are NOT lawyers
-* **Remember:** A court case may give you justice, but no working software...
+
+* **Remember:** A court case may give you justice, but no working software ...
 
 
 
