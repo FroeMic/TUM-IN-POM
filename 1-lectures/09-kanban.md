@@ -141,5 +141,65 @@ The **Development Process** in software development projects can be seen as the 
 
 ### 4. Summary
 
+#### 4.1 Properties of Kanaban
+
+##### Kanban \(method\) stands for
+
+* Transparency
+* Optimization
+* Personal responsibility
+
+##### Kanban does not solve problems, but it makes them visible
+
+##### Kanban begins with the current state and process of a system
+
+* Current system development
+* job titles and process is respected
+
+##### Kanban is evolution NOT revolution
+
+* Kaizen
+* Kanban always considers the overall picture
+
+##### Kanban requires to rethink traditional management
+
+* Multitasking: =&gt; Stop Starting and Start Finishing
+* Push without limits: =&gt; Pull with limits
+* 100% capacity utilization: =&gt; 'Slack Time' is wanted
+
+##### Kanban focuses on people, not mechanics
+
+* Kanban is team sport
+
+##### Kanban does not favor a specific management approach
+
+##### Kanban can be combined with different approaches
+
+* **Traditional:** Waterfall Model, V-Model XT, Spiral Model, Unified Process, ...
+* **Agile:** Scrum =&gt; Scrum-ban
+
+##### Kanban enables
+
+* Incremental Process Tailoring \(at runtime throughout the process\)
+* Process Change / Improvement Management
+
+#### 4.2 Principles and Core Practices of Kanban
+
+##### 4 Basic Principles
+
+1. Start with an existing process 
+2. Agree to pursue incremental, evolutionary change
+3. Respect the current process, roles, responsibilities and titles
+4. Leadership at all levels
+
+##### 6 Core Practices
+
+1. Visualize the current workflow
+2. Limit the work in progress \(WIP\)
+3. Measure and optimize the flow
+4. Make process policies explicit
+5. Implement feedback mechanisms
+6. Improve Collaboratively, Evolve Experimentally \(Kaizen\)
+
 
 
