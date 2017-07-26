@@ -65,15 +65,13 @@
 
 | **Client** |  | Contractor |
 | :--- | :---: | :--- |
-| 1. Request for Proposals | =&gt;  |  |
+| 1. Request for Proposals | =&gt; |  |
 |  | &lt;= \(Offer\) | 2. Submit Offer |
 | 3. Contract Awarded | &lt;= \(Contract\) =&gt; | 3. Contract Awarded |
 | 4. Iteration scheduled |  | 4. Iteration scheduled |
 | 5. Acceptance Completed | &lt;= \(Software\) =&gt; | 5. Acceptance completed |
 |  | &lt;= \(Final Project Report\) | 6. Project Completed |
 | 7. Project Completed |  |  |
-
-
 
 ##### Contracting: Roles
 
@@ -97,6 +95,35 @@ It gets more tricky, if it is an internal project **without** a contract
   * Cross-Unit-Collaboration
 
 ### 2. Influence Factors
+
+Projects have different influence factors. These are also relevant for the contracting procedures.
+
+###### Main Influence Facors
+
+* Goals
+* Business Case
+* Initial esitimations
+* Legal restrictions
+
+###### Context Variables
+
+* Every project has a variety of context variables, which
+  * need to be considered in the contract
+  * and have to be addressed properly, while leaving some flexibility
+* Context variables and formal legal requirements need to be balanced in order to create a suitable environment for the project
+
+##### Contract Content
+
+* **Services and Responsibilities**
+  * Functional Requirements
+  * Deadlines \(procedures for delays\)
+  * Quality Requirements \(non-functional requirements\)
+  * Price and Payment Schedule
+  * Acceptance
+* **Warranty and Liability**
+* **Provisions**
+* **Copyrights**
+* **Regulations, Standards, Compliance**
 
 ### 3. Basic Procedures
 
