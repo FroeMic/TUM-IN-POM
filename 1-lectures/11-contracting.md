@@ -127,6 +127,32 @@ Projects have different influence factors. These are also relevant for the contr
 
 ### 3. Basic Procedures
 
+#### 3.1 Overview
+
+A project usually starts with a dialog and need preparation \(regardless of acquisition strategy\)
+
+##### Project Acquisition Strategies
+
+1. Pro-Active
+2. Re-Active
+3. Client request for an offer
+4. Call for bids/submissions
+
+##### Preparation in Practice
+
+* Plan the offer's development as a project
+  * \[1\] Prepare the Offer
+  * \[2\] Develop / Submit the Offer
+  * ... \(System is developed\)
+  * \[3\] Acceptance of the System under Development
+* A contract is **always** concluded based on the accepted offer.
+
+#### 3.2 Prepare the Offer
+
+#### 3.3 Develop the Offer
+
+#### 3.3 Prepare Acceptance
+
 ### 4. Legal Aspects
 
 ### 5. Practices
