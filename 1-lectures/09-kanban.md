@@ -139,6 +139,72 @@ The **Development Process** in software development projects can be seen as the 
 5. Implement feedback mechanisms
 6. Improve Collaboratively, Evolve Experimentally \(Kaizen\)
 
+##### 1. Visualize the current workflow
+
+* A Kanban board should reflect what the team actually does
+  * Backlog
+  * Do
+  * Develop \(Ongoing / Done\)
+  * Deploy
+  * Live
+
+##### 2. Limit the work in progress \(WIP\)
+
+* Each column has a WIP limit
+* The WIP Limit defines the allowed parallel work in progress in a specific process step
+  * Development is ONE process step
+  * It does not matter, whether a card is _done_, or _ongoing_, as long as it is in the process step, it counts towards the WIP limit.
+* Only if the WIP limit is not yet reached new cards can be pulled in
+
+###### Project Management is Process Controlling and Optimization
+
+* **Flow Theory**
+  * Cycle Time: Time needed for entire production process 
+* **Little's Law**
+  * Throughput = WIP / Cycle Time
+  * To increase the Throughput
+    * **Reduce **WIP while **improving cycle time**
+    * Traditional management would do it the other way around, which creates a downward spiral
+* **Lean:** Problems MUST be solved
+  * Implicit escalation enforces communication
+  * **Slack Time** \(= being blocked?\) is wanted and used to solve problems, so they do not reoccur
+
+##### 3. Measure and optimize the flow
+
+* **Lead Time:** Time from Request being made to Delivery
+* **Cycle Time:** Time from Work Begins to Delivery
+
+=&gt; Kanban leads to predictability
+
+##### 4. Make process policies explicit
+
+* **DOD**: Definition of Done
+  * defines criteria, when a work item is ready for the next process step
+  * agreed among team, customer and stakeholders
+* DOD enables **Pull-Principle**
+
+##### 5. Implement feedback mechanisms
+
+* Kanban Cadences \(regular meetings for example\)
+  * \[1\] Standup Meeting
+  * \[2\] Retrospective Meeting
+  * \[3\] Replenishment Meeting
+  * \[4\] Operations Reviews
+
+##### 6. Improve Collaboratively, Evolve Experimentally \(Kaizen\)
+
+* e.g. Process Tailoring: Change the process steps under 'Development' to adhere to test-driven development
+
+#### 3.3 Kanban vs Scrum
+
+##### Scrum is REVOLUTIONARY
+
+##### Kanban is EVOLUTIONARY
+
+* Small optimizations minimize the J-Curve effect
+
+![](/assets/scrum_vs_kanban.png)
+
 ### 4. Summary
 
 #### 4.1 Properties of Kanaban
