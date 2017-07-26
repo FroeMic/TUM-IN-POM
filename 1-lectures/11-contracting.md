@@ -153,28 +153,27 @@ A project usually starts with a dialog and need preparation \(regardless of acqu
 **Experience and Observation** are important for the offer preparation. Particular procedure may vary from company to company.
 
 **Input:** Project Idea  
-**Output:** Project Proposal (Draft)
+**Output:** Project Proposal \(Draft\)
 
 ###### Steps
 
 1. Collect and complete information
-regarding the client
+   regarding the client
 2. Evaluate business value
 3. Conduct feasibility study
 4. Develop offer and sales strategy
 5. Estimate cost and effort
 6. Check resource availability
 7. Initial project planning
-    1. Cost Plan
-    2. Resource Plan
-    3. Risk Analysis
-    4. Scheduling (initial)
+   1. Cost Plan
+   2. Resource Plan
+   3. Risk Analysis
+   4. Scheduling \(initial\)
 8. Create proposal
-
 
 #### 3.3 Develop the Offer
 
-**Input:** Project Proposal (Draft)
+**Input:** Project Proposal \(Draft\)  
 **Output:** Project Proposal
 
 ###### Steps
@@ -182,14 +181,14 @@ regarding the client
 1. Build proposal development team
 2. Develop proposal development strategy
 3. Develop and continuously improve proposal parts
-    1. Sales Parts
-    2. Economic Parts
-    3. Solution Parts
-    4. Contract Parts
+   1. Sales Parts
+   2. Economic Parts
+   3. Solution Parts
+   4. Contract Parts
 4. Develop initial project plan
-    1. Project Plan
-    2. Effort and Cost
-    3. Resources
+   1. Project Plan
+   2. Effort and Cost
+   3. Resources
 
 #### 3.3 Prepare Acceptance
 
@@ -201,16 +200,17 @@ The acceptance procedure should define
   * Formal or silent acceptance?
   * Partial Delivery
   * Reporting
-  
+
 **Important:** Already in the contract the procedure for the system's acceptance have to be defined. Acceptance means always a **reversal of the burden of proof**.
-  * delivery dates
-  * acceptance procedures
+
+* delivery dates
+* acceptance procedures
 
 ##### Acceptance Tasks
 
 * Check for **completeness**: “Was everything shipped as expected?”
-    * Basis: the contract
-    * Further artifacts: additional agreements, change requests, management decisions
+  * Basis: the contract
+  * Further artifacts: additional agreements, change requests, management decisions
 * **Verification** of the project results: “Was the software developed right?”
 * **Validation** of the project results: “Was the right software developed?”
 
@@ -222,6 +222,83 @@ The acceptance procedure should define
 * Acceptance with conditions
 
 ### 4. Legal Aspects
+
+_"A contract is really just a set of written playing rules"_
+
+##### Content, responsibility, trust, and risk
+
+* How is a contract **structured**?
+* What are the **basic rules** for delivering scope and invoicing revenue?
+* How is **risk** and **reward** shared between customer and contractor?
+* How are **changing requirements** handled?
+* What **relationship model** between contractor and client is implemented? 
+
+##### Contract Types
+
+| **Fixed Price** | Time & Material |
+| :--- | :--- |
+| **Subject:** A system | **Subject:** Resources and time |
+| **Price:** fixed | **Price:** based on effort |
+| **Progress Definition:** Milestone based, payment schedule | **Progress Definition:** Feature based, not necessarily congruent with payment schedule |
+| **Disadvantage:** Low flexibility regarding changes \(changes request, changes are expensive\) | **Advantage:** Open for change requests, as long as the client pays |
+| **Project Risk:** Transferred to the contractor | **Project Risk:** Transferred to the client |
+| **Prerequisites:** Fully specified system | **Prerequisite:** Requirements can be under-specified |
+
+
+
+###### Relationship Model: Fixed Price
+
+**Client**
+
+* negotiation and contracting procedures are well known
+* client sticks to waterfall process
+* client provides extra description of product \(fully specified system\)
+* contract ensures that client gets product as specified \(but not necessarily what they want\)
+* low budget reliability
+* high cost risk
+* **Risk:** max\(system\) for min\(price\)
+
+**Contractor**
+
+* realized project exactly as stated in the requirements specification
+* has better perspective on project than customer
+* scope and status can be determined based on requirements
+* fixed price project are not meant for change
+  * changes have impact on archtitecture / functionality
+  * many contractors have adopted this as business model \(risk compensation\)
+* **Risk:** min\(System\) for max\(Price\)
+
+###### Relationship Model: Time & Material
+
+**Client**
+
+* Goal: maximise value and get a meaningful solutions
+* Allocate resources as needed
+* Responsible for project success by
+  * providing feedback
+  * taking part in the project
+* The idea: one can exchange the contractor during the project \(prevent vendor dependencies\)
+* **Risk:** Contractor might increase effort \(and cost\) unnecessarily
+* **Risk:** Contractor has no duty to ship a product
+
+**Contractor**
+
+* Yield supplies as stated in contract \(only requested resources are delivered\)
+* Invoice as many person-days as possible \(to make the project more expensive\)
+* Make yourself irreplaceable
+* **Risk:** Client might refuse the price increase
+
+##### Relationship Model Behavior
+
+* In projects parties have **interests**
+* Interests are reflected in the behavior and interaction strategy
+  * **competitive** \(my win is your loss\)
+  * **cooperative** \(win-win\)
+  * **indifferent** \(I don't care - you lose\)
+  * **dependent** \(heads: I win - tails: you lose\)
+* Contract should be signed with a **win-win** interaction strategy
+  * fair contract 
+  * allows open atmosphere during project
 
 ### 5. Practices
 
