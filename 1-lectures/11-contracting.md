@@ -146,6 +146,7 @@ A project usually starts with a dialog and need preparation \(regardless of acqu
   * ... \(System is developed\)
   * \[3\] Acceptance of the System under Development
 * A contract is **always** concluded based on the accepted offer.
+* Sum of this makes contracting very demanding.
 
 #### 3.2 Prepare the Offer
 
