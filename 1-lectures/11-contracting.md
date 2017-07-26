@@ -244,8 +244,6 @@ _"A contract is really just a set of written playing rules"_
 | **Project Risk:** Transferred to the contractor | **Project Risk:** Transferred to the client |
 | **Prerequisites:** Fully specified system | **Prerequisite:** Requirements can be under-specified |
 
-
-
 ###### Relationship Model: Fixed Price
 
 **Client**
@@ -301,6 +299,61 @@ _"A contract is really just a set of written playing rules"_
   * allows open atmosphere during project
 
 ### 5. Practices
+
+##### Why do we need different process models \(alternatives\)?
+
+* Significant increase of agile methods \(absolute and relative\)
+* Relative growth of rich processes \(e.g. V-Model XT\)
+* **Consequence:** The classic approaches have to evolve
+
+#### Contracting Practices
+
+##### Overview
+
+Several practices exist to make contract more flexible to adopt agile methods.
+
+1. Maximum Price
+2. Change for Free
+3. Exit Point / Money for Nothing
+
+**Note:** All these practices have currently no clear legal basis. They are based on agreements that clients and contractors make. There are no legal definitions of how to apply them.
+
+##### Overview
+##### 1. Maximum Price
+
+**Idea:** Work according to **Time & Material** but set a limit.
+
+* Define and estimate the system
+* Define the max price for the system
+* Define the cost per unit (e.g. cost per story point)
+
+##### 2. Change for Free
+
+**Idea:** Client is participating in the project (on-site client), give continuously feedback and has a learning curve
+
+* Allow the client to add features
+* Identify other features that can be removed / stalled
+* Update the contract accordingly
+
+##### 3. Exit Points / Money for Nothing
+
+**Idea:** Define an approach where a project can be stopped, but good performance is awarded.
+
+* Define exit points (under which conditions to stop the project)
+* Define payments to compensate, or award early termination
+
+##### 4. Combined Practices
+
+##### How to handle failure?
+
+_ As soon as lawyers start talking, the project is a failure._
+
+* Contract-relevant **failure** in a project can occur for many reasons
+* It is important to be prepared, for this:
+    * Define **Warranty**: when do liability and damage compensation start?
+    * Define **Ownership**: who owns the project results?
+    * Define **Copyright**: who is authorized to publish and use project results?
+    * Define **Escalation**: don’t go to court immediately; give mediation a chance
 
 ### 6. Summary
 
