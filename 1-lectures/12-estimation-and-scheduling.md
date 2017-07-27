@@ -8,13 +8,49 @@
 
 ### 1. Motivation
 
+* Nearly 2/3 of all projects significantly overrun their cost estimates
+* 64% of features included in products are rarely or never used
+
 ##### Challenges for Estimation
+
+* **Incomplete** knowledge about
+  * Project scope and changes
+  * Prospective resources and staffing
+  * Technical and organizational environment
+  * Infrastructure
+  * Feasibility of functional requirements
+* Comparability of projects in case of new or changing technologies, staff, methodologies
+* Learning curve problem
 
 ##### Components of an Estimation
 
+* **Costs**
+  * Personnel
+  * Material
+  * Extra costs
+* **Scope**
+  * Number of requirements
+  * Complexity of requirements
+* **Time**
+  * Development time
+  * Project duration
+  * Dependencies
+* **Infrastructure** \(often forgotten\)
+  * Rooms, technical infrastructure, ...
+
 ##### Estimation Personnel Cost
 
+* **Personnel Type:** team leader, applicant domain expert, analyst, designer, programmer, tester, ...
+* **Cost Rate:** cost per person per day
+  * \[1\] Single cost rate for all types \(no differentiation necessary\)
+  * \[2\] Assign different cost rates to different personnel types based on experience, qualification, skills
+* **Personnel Costs = Person Days \* Cost Rate**
+
 ##### Estimating Development Time
+
+* Development time is often estimated by the formula: **Duration = Effort / People**
+  * **Problem:** Larger teams increase the communication complexity and decrease productivity
+* Product Duration cannot be reduced arbitrarily by adding more people \(Brooks Law\)
 
 ### 2. Estimation Modeling
 
