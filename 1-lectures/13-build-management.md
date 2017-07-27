@@ -113,11 +113,28 @@ Executing these steps manually is time consuming and the chance of introducing f
 
 _A software development technique where team members integrate their work frequently. Usually each person integrates at least daily, leading to multiple integrations each day._
 
-=&gt; Each interaction is verified by an automated build, which includes the execution of tests \(regression tests\) to detect errors as quickly as possible.
+*  Each interaction is verified by an automated build, which includes the execution of tests \(regression tests\) to detect errors as quickly as possible.
+* **Advantages:**
+  * There is always an executable version of the system
+  * Developers and managers have a goof overview of the project status
+  * Automatic **regression testing**
+* **Workflow:**
 
-###### Advantages
+![](/assets/ci_workflow.png)
 
-##### Regression Testing 
+##### Regression Testing
+
+* **Goal:** verify that software previously developed and tested still performs correctly even after it was changed or interfaced with other software.
+  * **Benefit:** errors in the source code are found immediately after a change is introduced
+  * **Drawback:** can be very costly to execute a large test suite after each change
+* Techniques:
+  * \[1\] re-test all
+  * \[2\] regression test selection \(e.g. dependency analysis\)
+  * \[3\] test case priorization
+* When to execute test cases:
+  * after each change
+  * nightly
+  * weekly
 
 ### 3. Summary
 
