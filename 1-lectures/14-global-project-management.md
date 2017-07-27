@@ -115,19 +115,59 @@ Context become more and more international. We are citizens of the world.
 ###### Projects
 
 * possible to create interimistic teams optimized for short term delivery
-    * high investment – high energy
-    * can more easily free themselves from patterns and habits and focus on the project goal
+  * high investment – high energy
+  * can more easily free themselves from patterns and habits and focus on the project goal
 
 ##### Architecture and Infrastructure for Global Context
 
 * Think smart when “Slicing the Elephant”
-    * split the responsibility for parts of the product in a way that minimizes dependencies
+  * split the responsibility for parts of the product in a way that minimizes dependencies
 * If possible, choose an architecture that enables distributed teams
-    * Continuous integration to avoid planning dependencies
-    * Keep product dependencies to a minimum
-* Data center location -> performance and data protection aspects
+  * Continuous integration to avoid planning dependencies
+  * Keep product dependencies to a minimum
+* Data center location -&gt; performance and data protection aspects
 
 ### 4. How does Agile Software Development Work in a Global Setup?
+
+| **Agile Cornerstone** | Challenge in Global Setup | **Mitigation** |
+| :--- | :--- | :--- |
+| Enable People | Dependencies and teams on other locations, feeling distance and being just one in the crows | Focus on visualization of teams and their responsibility, competence exchange |
+| Close Collaboration | Teams become isolated, hard to see the full picture | Demos where teams share what they delivered each sprint |
+| Team Autonomy | The later in the product lifecycle the more dependencies, hard to slice the elephant | Optimize teams based on autonomy, add collaboration forums to enable autonomy |
+| Continuous Improvement | Dependencies and forced timeline leaves little room for improvements | Continuous improvement epic in the backlog |
+| Innovation | Hard to find time for innovation | Schedule time for innovation between sprints |
+
+##### Spotify's way of scaling
+
+###### Tribe
+
+* A tech sub department containing a number of Chapters and Squads
+* Has a tribe lead
+* Every engineer belongs to one tribe
+
+###### Chapter
+
+* Group with similar engineering skills that share knowledge, tools and code
+* Has a chapter lead, which is the closest manager to everyone in the chapter
+
+###### Squad
+
+* Work is done in a Squad
+* Cross functional, autonomous teams, sit together and build something end-to-end
+* Work is prioritized by the PO
+* Connected to a specific project or long term mission in a product area
+
+###### Guild
+
+* A community of interest consisting of all associated chapters and everyone else who wants to join in \(e.g. a QA guild\)
+
+##### Practical tips to enable agile methodologies in a global setup
+
+* Add extra collaboration forums
+* Keep teams in the same location
+* Make sure the teams know about each other and share knowledge between teams
+* Make sure to plan for close daily cooperation business people/developers
+* Slice the elephant in a way that avoids dependencies to enable team autonomy
 
 ### 5. Exercises to Practically Experience Global Setup Challenges
 
