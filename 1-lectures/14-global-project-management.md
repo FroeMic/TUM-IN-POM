@@ -23,9 +23,9 @@
 ### 2. Communication
 
 * Crucial for successful project deliveries and product development
-    * Impossible to deliver value without communication
-    * Impossible to utilize team capacity without communication
-    * **Active communication will make any project successful**
+  * Impossible to deliver value without communication
+  * Impossible to utilize team capacity without communication
+  * **Active communication will make any project successful**
 * Miscommunication is a major reason for failed projects, cost overruns, quality problems, project delays
 * Lack of communication is one of the biggest reasons for people performing bad and not enjoying work
 
@@ -39,7 +39,7 @@
 
 ##### Communication Challenges in Global Context and Mitigation
 
-* **Who to contact** - roster (dt. Namensliste)
+* **Who to contact** - roster \(dt. Namensliste\)
 * **Difficulty of initiating contact** - documentation communication structure
 * **Language** - explain back to each other
 * **Ineffective communication** - be aware in communication strategy
@@ -49,7 +49,7 @@
 
 * Awareness and respect to culture and workload
 * Adapting messages to recipient
-* Identifying where communication needs to be improved (find out why people are not communicating)
+* Identifying where communication needs to be improved \(find out why people are not communicating\)
 * Communication needs to add value for the recipient
 
 ###### Find the right tool to communicate
@@ -61,9 +61,10 @@
 * Hangouts
 
 ###### Travel
- * Invest in meeting face to face
-* Have a satellite in the other location channel things
-* When budgeting the project always negotiate for travel budget
+
+* Invest in meeting face to face
+  * Have a satellite in the other location channel things
+  * When budgeting the project always negotiate for travel budget
 
 ##### Practical Tips
 
@@ -72,7 +73,7 @@
 * Easily accessible meeting notes
 * Invest in tools/facilities to enable informal communication
 * Create a mindset of awareness and respect of time
-difference
+  difference
 * Invest in travel
 
 ###### Lessons Learned in different roles
@@ -80,23 +81,51 @@ difference
 Context become more and more international. We are citizens of the world.
 
 * **Requirement Lead**
-    * Communicate clearly to developers
-    * Ask them to explain back
-    * Follow progress
+
+  * Communicate clearly to developers
+  * Ask them to explain back
+  * Follow progress
 
 * **Team Lead**
-    * Encourage team to find communication hubs
-    * Motivation of teams crucial
+
+  * Encourage team to find communication hubs
+  * Motivation of teams crucial
 
 * **Solution Architect**
-    * Initiate and fuel collaboration between teams for solution design &
+
+  * Initiate and fuel collaboration between teams for solution design &
     code structure
 
 * **Project Manager**
-    * Ask for honest input about possibility and feasibility of decisions/asks
 
+  * Ask for honest input about possibility and feasibility of decisions/asks
 
 ### 3. Product Development in a Global Context
+
+##### Differences in Product Development vs Projects
+
+###### Product Development
+
+* done with long term organization and with no decided end date
+* important to invest in long term productivity and satisfaction
+* adds dependencies by size and product lifecycle
+* IT architecture is important
+* more mechanisms to handle dependencies needed
+
+###### Projects
+
+* possible to create interimistic teams optimized for short term delivery
+    * high investment – high energy
+    * can more easily free themselves from patterns and habits and focus on the project goal
+
+##### Architecture and Infrastructure for Global Context
+
+* Think smart when “Slicing the Elephant”
+    * split the responsibility for parts of the product in a way that minimizes dependencies
+* If possible, choose an architecture that enables distributed teams
+    * Continuous integration to avoid planning dependencies
+    * Keep product dependencies to a minimum
+* Data center location -> performance and data protection aspects
 
 ### 4. How does Agile Software Development Work in a Global Setup?
 
