@@ -264,9 +264,12 @@ All methods require **knowledge about the subject.**
 
 ##### Analyzing Dependency Graphs
 
-
-
 ###### Definitions: Start and Finish Dates
+
+* **Earliest start date \(ES\):** The earliest date you can start an activity
+* **Earliest finish date \(EF\):** The earliest date you can finish an activity
+* **Latest start date \(LS\):** The latest date you can start an activity and still finish the project in the shortest time
+* **Latest finish date \(LF\):** The latest date you can finish an activity and still finish the project in the shortest time
 
 ###### Forward Pass Analysis in PERT Chart
 
@@ -275,16 +278,26 @@ All methods require **knowledge about the subject.**
   * Start at the beginning of the project
   * Determine how fast you can complete the activities along each path until you reach the final project milestone
 
-
 ###### Backward Pass Analysis in PERT Chart
 
 * Determination of **Slack Times**
   * Start at the end of your project
   * Figure out for each activity, how late it can start so that you still finish the project the earliest date possible
 
-###### Slack Time Calculation in PERT Chart
+![](/assets/forward_pass_analysis.png)
 
-###### Critical Path Analysis in PERT Chart
+###### Procdure
+
+1. Enter the **TE** \(expected time\) values for all activities
+2. Starting from the first Event: For Each Event
+   1. **ES** = max\(**EF**\) of previous node
+   2. **EF** = **ES + TE**
+   3. Continue for each subsequent event
+   4. Stop when
+      1. encountering a node with missing dependencies
+      2. reaching the final event
+3. 
+###### 
 
 ##### Path Types in Dependency Graphs
 
