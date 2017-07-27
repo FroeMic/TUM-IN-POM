@@ -56,7 +56,32 @@
 
 ##### Basic Estimation Model
 
+* **Input:** Parametric Data
+  * Size & Project  Data
+  * Software Process
+  * Insight / Experience
+  * Historic Data
+  * Meta Model of Software Process
+* **Output:** Estimate
+  * Effort
+  * Schedule
+  * Cost
+
 ##### Top Down and Bottom Up Estimation
+
+2 common approaches for estimations:
+
+###### 1. Top-Down Approach
+
+* Estimate the whole project
+* Breakdown to different project phases and work products
+* **Problem:** You did not break down the work before.
+
+###### 2. Bottom-Up Approach
+
+* Start with effort estimates for tasks at the lowest possible level.
+* Aggregate the estimates until top activities are reached
+* Preferred if you have activities and tasks and knowledgable developers
 
 ### 3. Traditional Estimation Techniques
 
