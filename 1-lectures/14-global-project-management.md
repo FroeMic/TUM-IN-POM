@@ -22,6 +22,80 @@
 
 ### 2. Communication
 
+* Crucial for successful project deliveries and product development
+    * Impossible to deliver value without communication
+    * Impossible to utilize team capacity without communication
+    * **Active communication will make any project successful**
+* Miscommunication is a major reason for failed projects, cost overruns, quality problems, project delays
+* Lack of communication is one of the biggest reasons for people performing bad and not enjoying work
+
+##### Communication Patterns
+
+* Planned vs unplanned
+* Synchronous vs asynchronous
+* Vertical vs horizontal
+* Formal vs informal
+* Internal vs external stakeholders
+
+##### Communication Challenges in Global Context and Mitigation
+
+* **Who to contact** - roster (dt. Namensliste)
+* **Difficulty of initiating contact** - documentation communication structure
+* **Language** - explain back to each other
+* **Ineffective communication** - be aware in communication strategy
+* **Lack of informal communication** - build relationships
+
+##### What makes good communication?
+
+* Awareness and respect to culture and workload
+* Adapting messages to recipient
+* Identifying where communication needs to be improved (find out why people are not communicating)
+* Communication needs to add value for the recipient
+
+###### Find the right tool to communicate
+
+* Slack
+* Trello
+* Skype
+* Jira
+* Hangouts
+
+###### Travel
+ * Invest in meeting face to face
+* Have a satellite in the other location channel things
+* When budgeting the project always negotiate for travel budget
+
+##### Practical Tips
+
+* Focus on more planned communication
+* Make sure to schedule time for synchronous communication
+* Easily accessible meeting notes
+* Invest in tools/facilities to enable informal communication
+* Create a mindset of awareness and respect of time
+difference
+* Invest in travel
+
+###### Lessons Learned in different roles
+
+Context become more and more international. We are citizens of the world.
+
+* **Requirement Lead**
+    * Communicate clearly to developers
+    * Ask them to explain back
+    * Follow progress
+
+* **Team Lead**
+    * Encourage team to find communication hubs
+    * Motivation of teams crucial
+
+* **Solution Architect**
+    * Initiate and fuel collaboration between teams for solution design &
+    code structure
+
+* **Project Manager**
+    * Ask for honest input about possibility and feasibility of decisions/asks
+
+
 ### 3. Product Development in a Global Context
 
 ### 4. How does Agile Software Development Work in a Global Setup?
