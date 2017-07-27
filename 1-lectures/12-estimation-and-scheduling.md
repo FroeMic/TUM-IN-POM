@@ -114,13 +114,36 @@
 
 ##### 3. Activities are not independent
 
+* Activities are independent when the duration of one activity does not influence the duration of another activity
+* In Software Development most activities are **inter-dependent** 
+* When activities are dependent, ** variations in completion time do not balance out**
+
 ##### 4. Multitasking causes more delays
+
+2 Tasks: If you are block on Task A, work on Task B
+
+* &gt; 2 Tasks: 
+  * **Time spent switching between tasks become costly**
+  * Tasks remain in progress longer
+  * **Developer Overload:** loading every developer to 100% will congest the system
 
 ##### 5. Features are not developed by priority
 
+* Traditional planning assumes that all activities will be completed
+  * If all work is completed the order does not matter
+  * In reality the project team is often **scrambling to meet the schedule** and drops features
+  * Features with high value might be dropped
+
 ##### 6. Uncertainty is ignored
 
+* Traditional planning approaches ignore uncertainty
+* Better approach: Allow for short iterations
+  * reduces uncertainty
+
 ##### 7. Estimates become commitments
+
+* Every estimate indicates a probability that the work will be completed in time
+* Estimates are no commitment. There is a risk that they will not be met.
 
 ### 8. Schedule Heuristics
 
