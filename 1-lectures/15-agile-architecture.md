@@ -166,7 +166,22 @@ design of the system
 ###### Current Trends
 
 * Clean Code
+* Design Patterns
 
+##### Architectural Decision
+
+###### Make good decisions:
+– Create options, test them
+– Delay decisions as long as possible (until last responsible moment)
+– Try to make reversible decisions (if not too expensive)
+– Communicate them well!
+
+###### Strategic Decisions
+
+* Decisions spanning several subsystems or components
+* Decisions involving compromises or tradeoffs
+* Decisions involving intense stakeholder discussions
+* Decisions founded in organizational or political constraints 
 
 ### 5. Current trends: DDD and Microservices
 
