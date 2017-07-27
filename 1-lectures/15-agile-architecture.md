@@ -185,6 +185,30 @@ design of the system
 
 ### 5. Current trends: DDD and Microservices
 
+##### Domain Driven Design
+
+_The critical complexity of most software projects is in understanding the domain itself._
+
+* creates a common vocabulary
+* bounded context: decoupling!
+
+###### Architecture driven by DDD
+
+* Clean Architecture
+* (really good read, 10/10 can recommend)
+* [Article 8thlight](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+##### Microservices
+
+* Monoliths put all functionality in on process and scales by replicating the monolith on several servers
+* A microservice architecture puts each functionality into a separate service and scales by replicating those as needed
+* Microservices are more complex to manage for **small projects**
+* As complexity increases, productivity of monolithic architectures falls rapidly
+* The decreased coupling of microservices reduces the loss of productivity for complex and large systems
+
+
+
+
 ### 6. Summary
 
 ##### Without Good Software Architecture
