@@ -36,6 +36,48 @@ _In reality most IT projects are products. Work accordingly!_
 
 ### 3. Agile Release Planning
 
+##### Personas
+
+* Construct a profile containing information about the type of user relevant to the software being created
+*  choose specific characteristics and compiling those into a archetypal description
+* based on assumptions
+* most of the time you will have 3 - 5 personas
+
+##### User Story Mapping
+
+* Horizontal Axis: Time
+* The Backbone
+  * at top
+  * Main Activities of Personas
+* The Walking Skeleton
+  * under activities
+  * Tasks for each Activity / Persona
+  * ordered by neccessity
+* Create releases from coherent experiences
+
+![](/assets/user_story_mapping.png)
+
+###### From Estimation Points to Time
+
+* Have a closer look at 2 - 5 user stories
+* Break them down as far as possible
+* Guess the minimal / maximal person days for each task
+* Assume that some uncertainty will be resolved by statistics: [min + 20% , max - 20%]
+* **After 2-3 sprint reestimate the backlog based on experience**
+
+##### Team velocity
+
+* To get a better understanding of the team velocity check the velocity after 3-4 sprints, then
+  * check your backlog for completeness
+  * reestimate the backlog
+  
+##### Key Messages: Agile Release Planning
+
+* Think in products, not projects
+* User Story Mapping is a proven, fast & useful method to create a common understanding of a system
+* All stake holders have after such a workshop a common vision for the product development start
+* Together with the first few sprints this gives a solid base for planning
+
 ### 4. Agile Software Architecture
 
 ### 5. Current trends: DDD and Microservices
