@@ -102,7 +102,15 @@
 
 ##### 1. Activities don't finish early
 
+* Tendency that **one expands the scope** of the task to fill the estimated time
+* Parkinson's Law: _Work expands so as to fill the time available for its completion._
+
 ##### 2. Lateness is passed down in the schedule
+
+* Because traditional plans are activity based, they focus on the dependencies between activities
+* Things start early only if EVERYTHING goes right. But the start late if anything goes wrong.
+  * An **early** start of an activity does **require a combination of dependencies** to go well.
+  * A **late** start of an activity does only **require one dependency** to be late.
 
 ##### 3. Activities are not independent
 
@@ -164,7 +172,7 @@
 
 ##### 4. How to become a good software project manager
 
-###### 1.Don't assume anything 
+###### 1.Don't assume anything
 
 * Find out the facts
 * use assumptions only as a last resort
