@@ -121,6 +121,52 @@ A good architecture balances these (often conflicting) goals:
   * iteratively design & decide
   * ARC42: Architecture documentation
 
+##### 6 Principles of Continuous Architecture
+
+1. Architect products, not just solutions for projects
+2. Focus on Quality Attributes, not on functional requirements
+3. Delay design decisions until they are absolutely necessary
+4. Architect for change – „leverage the power of small“
+5. Architect for build, test and deploy
+6. Model the organization after the 
+design of the system
+
+##### What is good Architecture?
+
+* Suits constraints that enable the long-term evolution of the software
+* Solves business problems
+* System remains easy to understand, change, extend
+* Valuable
+
+##### How to deal with large systems
+
+###### Cognitive Mechanisms
+
+  * allow comprehension of larger system
+  * Chunking (Modularity)
+    * responsibility, coupling, size, interfaces
+  * Hierarchies (Hierarchical Layering)
+    * No cycles - neither on architectural nor on class level
+  * Schemata (Pattern Consistency)
+    * Consistent and integrated pattern
+    * Use a pattern language
+    
+###### Layering
+
+  * **Domain Layering:** Contracting, Offer/Ordering, etc.
+  * **Technical Layering:** Presentation, Business Logic, Database
+  * In the long run, domain layering is more important than technical layering
+  
+###### Timing of Software Architecture
+
+  * One Team: Continuously
+  * More Teams: Before start of development
+    * Planned Design instead of Emergent Design  
+  
+###### Current Trends
+
+* Clean Code
+
 
 ### 5. Current trends: DDD and Microservices
 
