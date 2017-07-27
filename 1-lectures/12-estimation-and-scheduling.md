@@ -116,13 +116,77 @@
 
 ### 8. Schedule Heuristics
 
-##### 1. How to develop an initial project schedule 
+##### 1. How to develop an initial project schedule
 
-##### 2. How to shorten the project duration 
+* Identify all your **activities**
+* Identify intermediate and **final** dates that must be met
+* Assign milestones to these dates
+* Identify all activities and milestone** outside of your project** that may affect your projects schedule
+* Identify "depend on" **relationships** between the activities
+* Draw a dependency diagram for the activities and relationships
+* Determine critical paths and slack times of non-critical paths
 
-##### 3. Mistakes when preparing schedules 
+##### 2. How to shorten the project duration
+
+* Re-check the original span time estimates
+  * Ask other experts to check the estimates
+  * Has the **development environment** changed? \(e.g. desktop vs mobile\)
+* Consider different strategies to perform these activities
+  * Consider buying a work product \(Buy vs Build\)
+  * Consider hiring an external contractor
+* Hire more experienced personnel
+  * **Brook's Law:** Adding manpower to a late software project makes it later.
+  * Trade-Off: Experts work faster, but cost more
+* Try to find **parallelizable** activities on the critical path
+  * Continue coding while waiting for the results of a review
+  * Risk activity, since portions of the work may have to be redone
+* Develop an **entirely new strategy** to solve the problem
+
+##### 3. Mistakes when preparing schedules
+
+###### Using Fudge Factors
+
+* **Fudge Factor:**
+  * the extra amount of time added to your best estimate to be "just safe"
+* Don't use fudge factors!
+  * If an activity takes 2 weeks and you add 50% fudge factor, chances are almost 0 that it will be done in less then 3 week \(reason: Parkinson's Law\)
+
+###### The "Backing In" Mistake
+
+* **Backing In:**
+  * You start at the last milestone of the project and work your way back toward the starting milestone, while estimation durations will add up to the available time.
+* Problems with Backing In:
+  * You probably **miss activities** because your **focus is on meeting the time constraints** rather than identifying the required work.
+  * Span times are based on what you "allow them to take", not on the time needed
+  * The order of the activities may not be the most effective one.
+* **Better:**
+* Start estimating the required times and then try to shorten the project duration.
 
 ##### 4. How to become a good software project manager
+
+###### 1.Don't assume anything 
+
+* Find out the facts
+* use assumptions only as a last resort
+* With every assumption risk is introduced
+
+###### 2. Communicate clearly with your people
+
+* Being vague just increases the chances for misunderstanding
+
+###### 3. Acknowledge performance
+
+* Tell you team members and peers when they are doing well
+
+###### 4. View your people as allies not as adversaries
+
+* Focus on common goals not individual agendas
+* Make people comfortable by encouraging brainstorming and creative thinking
+
+###### 5. Be a manager and technical leader
+
+* Deal with people as well as with deliverables, processes, models and systems
+* Create a sense of vision and excitement
 
 ### 9. Summary
 
