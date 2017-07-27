@@ -296,22 +296,70 @@ All methods require **knowledge about the subject.**
    4. Stop when
       1. encountering a node with missing dependencies
       2. reaching the final event
-3. 
-###### 
+3. Starting from the final Event \(LF= EF\): For each event
+   1. **LF = **min\(**LS**\)** **of previous events
+   2. **LS = LF - TE**
+4. Calculate Slack Time for each event
+   1. **LS - ES**or **LF - EF**
+5. Mark critical path\(s\)
+   1. All nodes with Slack Time = 0 are on a critical path
 
 ##### Path Types in Dependency Graphs
 
+**Critical Path:** Any path in a dependency diagram, in which all activities have 0 slack time  
+**Non-critical Path:** Any path with at least one activity with nonzero slack time  
+**Overcritical Path:** A path with at least one activity that has negative slack time. \(such paths should be considered serious warnings for unreal estimates\)
+
+* Any dependecy graph with no fixed intermediate milestones has at least one critical path
+* A project schedule with fixed intermediate milestone might not have a critical path
+
 ##### Types of Dependencies
+
+* **Finish-to-Start:** Task B cannot be started before Task A finishes
+* **Start-to-Start:** Task B cannot be started until Task A starts
+* **Finish-to-Finish:** Task B cannot finish until Task A finishes
+* **Start-to-Finish:** Task B cannot finish until Task A starts
+
+![](/assets/path_types.png)
 
 ##### Frequently used formats for schedules
 
 ###### Milestone View
 
+* a table that lists milestones and the dates on which you plan to reach them
+* good for introduction of project and high executive briefings
+
 ###### Activities View
+
+* a table that lists activities and the dates on which you plan to start and end them
+* good for documentation and during developer meetings
 
 ###### Gantt Chart View
 
+* a graphical illustration on a timeline when each activity will start, be performed and end
+* easy to read and understand
+* **Person-Centered View:** 
+  * rows represent persons
+  * determine people's workload
+  * good for managing experienced teams
+* **Activity-Centered View:**
+  * rows represent activities
+  * identify teams working together on the same task
+  * good for managing beginners
+
+###### Gantt Chart View with Milestones
+
+* a Gantt Chart which contains milestones in addition to activities
+* good for reviews
+
 ###### PERT
+
+* PERT: _Program Evaluation and Review Technique_
+* a graphical representation of task dependencies and times
+* good for clear illustration of task dependencies
+* Algorithm:
+  * assign optimistic \(O\), pessimistic \(P\) and most likely \(M\) estimates for the span times of each activity
+  * TE \(Time Expected\): **TE = \(O + 4M + P\) / 6**
 
 ### 7. Reasons for Schedule Overruns
 
