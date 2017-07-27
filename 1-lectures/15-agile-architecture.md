@@ -8,6 +8,20 @@
 
 ### 1. Motivation
 
+* Product development and project management are different
+* User Story Mapping is a good technique for providing initial rough estimations of a system
+* Software architecture is importany
+* Quality attributes should drive the architecture
+* Software architecture can be managed continuously
+* Duties of the _Software Architect_ role
+
+##### The world is changing fast ... 
+
+* Requirements may only be _hypotheses_ and change quickly
+* Current market trend is that _products_ change to _services_  \(first mover often win\)
+* High uncertainty requires a different mindset than traditional environments \(Lean Startup, Design Thinking\)
+* Agile software development and good software architecture enable the necessary flexibility
+
 ### 2. Product vs Project
 
 ### 3. Agile Release Planning
@@ -35,9 +49,10 @@
 5. Architect for build, test and deploy
 6. Model the organization after the design of the system
 
-* Think in products
-* Agile estimation and planning of products is possible, e.g. with User Story Mapping
-* Software Architecture is important to create and maintain the foundation of products and have options for the future
+7. Think in products
+
+8. Agile estimation and planning of products is possible, e.g. with User Story Mapping
+9. Software Architecture is important to create and maintain the foundation of products and have options for the future
 
 
 
