@@ -113,7 +113,7 @@ Executing these steps manually is time consuming and the chance of introducing f
 
 _A software development technique where team members integrate their work frequently. Usually each person integrates at least daily, leading to multiple integrations each day._
 
-*  Each interaction is verified by an automated build, which includes the execution of tests \(regression tests\) to detect errors as quickly as possible.
+* Each interaction is verified by an automated build, which includes the execution of tests \(regression tests\) to detect errors as quickly as possible.
 * **Advantages:**
   * There is always an executable version of the system
   * Developers and managers have a goof overview of the project status
@@ -136,7 +136,28 @@ _A software development technique where team members integrate their work freque
   * nightly
   * weekly
 
+##### Management Issues: Continuous Integration
+
+A project manager needs to answer the following questions:
+
+* How long does the integration and execution of test cases take?
+* Can you only execute the test cases related to the change?
+* How often should you do it? \(each commit, nightly, weekly\)
+* Do you operate you own server or build in the Cloud?
+* How many build agents do you operate?
+
 ### 3. Summary
+
+* Fault avoidance and detection are important techniques to maintain the quality of your source code and to prevent bugs.
+* Make sure to write test cases
+* ... and to set up continuous integration
+* Advantages of continuous integration
+  * you always have an integrated build of your software
+  * you can find failing test cases immediately
+* Bamboo
+  * Lets you setup CI easily
+  * Nicely integrates with JIRA and Bitbucket
+  * The are also other tools ... 
 
 
 
