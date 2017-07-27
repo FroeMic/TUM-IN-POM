@@ -251,15 +251,36 @@ All methods require **knowledge about the subject.**
 
 ##### Critical Path
 
+* A sequence of activities that take the longest time to complete
+* The length of the critical path defines how long a project will take to complete
+
 ##### Non-Critical Path
+
+* A sequence of activities that can be delayed and the project can still finish in the shortest time possible
 
 ##### Slack Time
 
+* The maximum amount of tie that you can delay an activity and still finish your project in the shortest time possible
+
 ##### Analyzing Dependency Graphs
+
+
+
+###### Definitions: Start and Finish Dates
 
 ###### Forward Pass Analysis in PERT Chart
 
+* Determination of **Critical Paths**
+  * Compute the earliest start and finish dates for each activity
+  * Start at the beginning of the project
+  * Determine how fast you can complete the activities along each path until you reach the final project milestone
+
+
 ###### Backward Pass Analysis in PERT Chart
+
+* Determination of **Slack Times**
+  * Start at the end of your project
+  * Figure out for each activity, how late it can start so that you still finish the project the earliest date possible
 
 ###### Slack Time Calculation in PERT Chart
 
