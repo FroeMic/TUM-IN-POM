@@ -39,7 +39,7 @@ _In reality most IT projects are products. Work accordingly!_
 ##### Personas
 
 * Construct a profile containing information about the type of user relevant to the software being created
-*  choose specific characteristics and compiling those into a archetypal description
+* choose specific characteristics and compiling those into a archetypal description
 * based on assumptions
 * most of the time you will have 3 - 5 personas
 
@@ -62,7 +62,7 @@ _In reality most IT projects are products. Work accordingly!_
 * Have a closer look at 2 - 5 user stories
 * Break them down as far as possible
 * Guess the minimal / maximal person days for each task
-* Assume that some uncertainty will be resolved by statistics: [min + 20% , max - 20%]
+* Assume that some uncertainty will be resolved by statistics: \[min + 20% , max - 20%\]
 * **After 2-3 sprint reestimate the backlog based on experience**
 
 ##### Team velocity
@@ -70,7 +70,7 @@ _In reality most IT projects are products. Work accordingly!_
 * To get a better understanding of the team velocity check the velocity after 3-4 sprints, then
   * check your backlog for completeness
   * reestimate the backlog
-  
+
 ##### Key Messages: Agile Release Planning
 
 * Think in products, not projects
@@ -79,6 +79,48 @@ _In reality most IT projects are products. Work accordingly!_
 * Together with the first few sprints this gives a solid base for planning
 
 ### 4. Agile Software Architecture
+
+_Architecture is defined by the recommended practice as the fundamental organization of a system, embodied in its components, their relationships to each other and the environment, and the principles governing its design and evolution._
+
+= those parts, which are they hardest to change
+
+##### How Software Architecture can help
+
+1. turns a big problem into smaller more manageable problems.
+2. shows people how to work together effectively.
+3. provides a vocabulary for talking about complex ideas.
+4. looks beyond features and functionality.
+5. connects business goals with the practical realities of implementation.
+6. helps us avoid costly mistakes.
+7. enables agility.
+
+##### Architecture Drivers
+
+A good architecture balances these (often conflicting) goals:
+
+![](/assets/software_quality_tree.png)
+
+##### Software Architect Role
+
+* In small teams: architecture is often defined & evolved by senior developers
+* In bigger product development team, the role is given to dedicated people
+  * Architecture Agents
+  * Supporting Architect
+* Often intensive work together with UX and Business
+
+###### Duties
+  * Clarify Requiremens
+  * Design Structures
+  * Design (crosscutting) concepts
+  * Communicate Architecture
+  * Shepard Implementation
+  * Evaluate Architecture
+  
+##### Methodically Designing Software Architectures
+
+  * iteratively design & decide
+  * ARC42: Architecture documentation
+
 
 ### 5. Current trends: DDD and Microservices
 
