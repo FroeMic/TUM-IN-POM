@@ -174,19 +174,78 @@ All methods require **knowledge about the subject.**
 
 ##### Planning Poker
 
+* Packages expert estimations into an enjoyable approach
+* All participants are estimators, not just the M
+* The estimation team should be &lt; 10 people
+* Estimates are arrived by **consensus building** \(Do not average!\)
+
+###### Procedure
+
+1. Read the acceptance criteria and discussion points on the Confluence page
+2. Discuss how you would implement the user story
+3. Individually estimate the user story
+4. Simultaneously reveal the cards
+5. Compare the points on the cards with each other, and discuss the differences
+6. If necessary, play a second and third round Planning Poker
+7. Agree on a final decision
+
 ###### Challenges
+
+* based on expert opinion
+* other teams may come up with completely different estmation
+* estimations change with skill / experience
+* teams estimates, while individual members are owners
+* many people estimating might lead to long discussion
+* lazy developers may overestimate tasks
+* people tend to average out the point, which does not facilitate a discussion
 
 ###### Advantages
 
+* Group Estimation = Wisdom of the Crowd
+* The conversation / discussion following an estimate is a great way to pool important issues
+* Story points can be used to determine the Sprint Velocity
+
 ###### Tips for Planning Poker
+
+* **Keep discussions productive:** Set a limited amount of time for each user story
+  discussion. This helps teams learn to estimate more rapidly within agile planning
+* **Break out into smaller sessions:** Playing Planning Poker with a sub-set of the team
+  is a good option if the number of user stories is too big
+* **Choose the right time to play:** Consider playing it several times; once at the kick off,
+  and once before each Sprint
+* **Write down the reason for the awarded points:** If a user story receives too many
+  points, make sure to note what were the Acceptance Criteria that led to that estimation
+* **Consider the level of uncertainty:** Does the implementation of this user story
+  depend on too many unknown factors? If yes, maybe award more points
+* **Distribution of workload according to skill:** Developers who estimate few points
+  are good candidates to implement the user story
 
 ### 5. Dependency Diagrams
 
 ##### Overview
 
-##### Activity-on-the-Arrow Diagram Notation
+* Dependency Diagrams consist of 3 elements
+  * **Event:** A significant occurrence in the life of a project
+  * **Activity:** Amount of work required to move from on event to the next
+  * **Span Time:** The actual calendar time required to complete an activity
+    * Relevant Parameters: Availability of resources, Parallelizability of Activity
+* Dependency Diagrams are drawn connected graphs of nodes and arrows.
+* Common notations are
+  * 1\) Activity on the arrow notation
+  * 2\) Activity in the node notation
 
-##### Activity-in-the-Node Diagram Notation
+![](/assets/dependecy_diagrams.png)
+
+##### What do we do with these diagrams?
+
+1. Compute project duration
+2. Determine activities that are critical to ensure timely delivery 
+3. Analyse the diagrame
+   1. Find ways to **shorten project duration**
+   2. Find ways to do **activities in parallel**
+4. 2 techniques used
+   1. **Forward pass analysis** \(determine critical path\)
+   2. **Backward pass analysis** \(determine slack time\)
 
 ### 6. Critical Path and Slack Time Calculations
 
