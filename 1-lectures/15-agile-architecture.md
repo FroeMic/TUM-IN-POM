@@ -15,7 +15,7 @@
 * Software architecture can be managed continuously
 * Duties of the _Software Architect_ role
 
-##### The world is changing fast ... 
+##### The world is changing fast ...
 
 * Requirements may only be _hypotheses_ and change quickly
 * Current market trend is that _products_ change to _services_  \(first mover often win\)
@@ -23,6 +23,16 @@
 * Agile software development and good software architecture enable the necessary flexibility
 
 ### 2. Product vs Project
+
+_In reality most IT projects are products. Work accordingly!_
+
+* IT Industry talks about "IT projects"
+* However, in practice we work on systems as long as they are needed / valuable
+  * most effort is long-term
+  * things have to be good, flexible, etc. in the long term
+* This requires **Product Management** not project management
+  * Products are only successful with good Product Management
+  * Focus on **value creation** not time & budget
 
 ### 3. Agile Release Planning
 
@@ -52,6 +62,7 @@
 7. Think in products
 
 8. Agile estimation and planning of products is possible, e.g. with User Story Mapping
+
 9. Software Architecture is important to create and maintain the foundation of products and have options for the future
 
 
