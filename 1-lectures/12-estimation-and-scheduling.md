@@ -87,19 +87,90 @@
 
 ##### Methods for estimating cost and effort
 
+All methods require **knowledge about the subject.**
+
+* **Expert Estimations:** \(Based on experience and domain knowledge\)
+  * T-Shirt Sizes
+  * Planning Poker
+  * Delphi
+  * Assessment meeting
+* **Algorithmic Estimations:** \(Based on KPIs, formulas, metrics\)
+  * LOC \(Lines Of Code\)
+  * COCOMO II
+  * Aron
+  * Function Points
+
 ##### Expert Estimation
+
+= guess from experienced people \(gut feeling\)
+
+* no better than the participants
+* suitable for atypical projects
+* justification of the result
+* important when no detailed estimation can be done
+* works best if the estimates are for short term items
 
 ##### Algorithmic Estimation
 
 ###### Lines of Code
 
+* Traditional way for estimating application size
+* Advantage: easy to do
+* Disadvantages:
+  * Focus on developers poit of view
+  * No standard definition of "Lines of Code"
+  * You get what you measure \(reuse and refactoring is ignored\)
+* **The use of LOC metrics for productivity should be regarded a malpractice.**
+
 ###### COCOMO
 
+* Constructive Cost Model
+* Top-down approach to estimate cost, effort and schedule software projects based on size and complexity
+* **Assumptions**
+  * Derivability of effort by comparing finished project \(database\)
+  * System requirements do not change during development
+  * Exclusion of some efforts \(administration, training, rollout, integration\)
+* **Cocomo II**
+  * Also applicable for iterative lifecycle models \(e.g. Spiral Model\)
+  * Additionally addresses experience, developer skills and distributed development
+* **Problems**
+  * Judgement required to determine the influencing factors and their values
+  * Experience showed deviation form actual effort by up to a factor of 4 \(Cone of Uncertainty\)
+  * Some important factors are NOT considered:
+    * skills of team members, travel, environment, UI quality, overhead cost
+
 ##### Problems with Traditional Estimation Techniques
+
+###### Cone of Uncertainty
+
+* lessons learned from NASA projects
+* at the beginning \(initial concept, before requirements elicitation\) of a project estimates have an uncertainty factor of 4
+
+###### Focus on completion of activities and not delivery of features
+
+* customers get no value from completed activities
+
+###### Wrong focus in schedule reviews
+
+* The reviewers look for overlooked activities not for overlooked features
+
+###### When faced with overrun schedules, teams
+
+* attempt to save time by reducing quality
+* introduce change-control policies that constrain highly valuable changes in the software system
 
 ### 4. Agile Estimation Techniques
 
 ##### T-Shirt Sizes
+
+* Estimations are particularly challenging for inexperienced developers
+* Start with a simple model: e.g. T-Shirt sizes
+* Map T-Shirt sizes to story points
+  * S -&gt; 1
+  * M -&gt; 3
+  * L -&gt; 8
+  * XL -&gt; Too big, split into smaller issues
+* Once developers are familiar, move on to more fine grained methods \(e..g Poker Planning\)
 
 ##### Planning Poker
 
