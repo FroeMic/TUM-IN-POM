@@ -326,9 +326,6 @@ Also known as: Pseudo-Analysis, Blind Development
     * **Follow on Problem:** in innovative projects the end user may not exist
 
 
-
-
-
 ### 5. Summary
 
 ###### Example Antipatterns
