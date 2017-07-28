@@ -8,13 +8,54 @@
 
 ### 1. Risk Management
 
+_Risks must be taken because the greatest hazard in life is to risk nothing._
+
+##### Risk
+
+* ... is the deviation of a result of a future event from expectations
+* ... is uncertain whether it will materialize or 
+* ... is a potential harm that may arise of such an event
+* ... depends on our decisions
+
+**Murphys's Law:** _“Anything that can go wrong, will go wrong”_
+
+##### Risk Differentiation
+
+![](/assets/risk_differentiation.png) 
+
+##### Risk Assessment
+
+**Important:** Accept the uncertain, but identify risks!
+
+###### Identify Risks
+
+* What might affect the project objectives? (internal / external)
+* Performed by project management AND team
+* **Methods:** brainstorming, checklists, expert discussions, SWOT analysis
+* Categorize risks (complexity, technology, communication, ...)
+* Assign risk triggers
+* In agile Projects (Scrum)
+    * Daily Scrum: status, **impediments**, promises
+    * Sprint Review: identify improvements for next sprint
+
+###### Risk Assessment Matrix
+
+* 3 Dimensions: Impact, Probability, Control
+
+![](/assets/risk_assessment_matrix.png)
+
+
+
+
+##### Risk Mitigation
+
 ### 2. Demo Management
 
-### 3. Tornado Model: From Visionary Scenario  to Demo Scenario
+#### 2.1. Tornado Model: From Visionary Scenario  to Demo Scenario
 
-### 4. Mock Object Pattern
+#### 2.2 Mock Object Pattern
 
-### 5. Summary
+### 3. Summary
 
 * Preparing a great demo of your application convinces the customer
     * Play the role of the user of the application in an authentic way, e.g. dress up like the real user
