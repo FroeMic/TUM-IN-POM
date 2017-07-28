@@ -82,6 +82,18 @@ Risk Mitigations can be grouped into 4 possible types.
 
 ### 2. Demo Management
 
+##### Motivation
+
+* Boring demonstrations do not convince your customer for future investments or users to buy your software
+* Decisions are heavily influenced by feelings
+* Combination of technical and marketing skill required
+
+##### How to make a great, convincing and entertaining demo?
+
+* Selection of the right demo: focus on the core value to end users
+* Influenced by the real world usage of the software
+* Described by visionary scenarios in the problem statement
+
 #### 2.1. Tornado Model: From Visionary Scenario  to Demo Scenario
 
 #### 2.2 Mock Object Pattern
