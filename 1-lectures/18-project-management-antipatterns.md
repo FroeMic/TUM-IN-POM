@@ -189,13 +189,52 @@ _Unrealizable models are worth nothing._
 
 #### 4.3 Corncob
 
+Also known as: Corporate shark, loose cannon, TWIT (Third World Information System Troubles)
+
 ##### General Form
+
+* A difficult person (the corncob) causes problems for a software development team due to destructive behavior
+* Corncobs focus much more on politics than technology
+* They are usually experts at manipulating politics
+
+##### 7 Types of difficult people
+
+1. Hostile Aggressives
+    1. Sherman Tanks
+    2. Snipers
+    3. Exploders
+2. Indecisives
+3. Whiners
+4. Negativists
+5. Clams
+6. Bulldozers
+7. Superagreeables
 
 ##### Symptoms and Consequences
 
+* A project is unable to make progress because someone disagrees with key objectives or essential processes and continually tries to change them
+* Political forces create an environment where it's difficult to keep technical discussions on track
+* Political forces result in frequent changes to the scope or requirements of the system
+
 ##### Typical Causes
 
+* Pride, avarice, ignorance, narrow-mindedness
+* The corncob has a **hidden agenda**, which conflicts with the team's goals
+* There is a fundamental disagreement between the corncob and the team members
+* Management has inappropriately allocated roles to staff, who abuse them for theirown ends
+
+##### Known Expections
+
+* Is acceptable when a company or product development manager is willing to live with the actions of the corncob
+* In projects that involve multiple organizations, it's sometimes useful to have a designated corncob, whose role is to defend an existing architecture from inappropriate changes
+
 ##### Refactored Solution
+
+* **Transfer the responsibility:** turn the responsibility for planning and resolution over to the person who raises the concerns
+* **Question the question:** when the corncob uses ambiguous or "loaded" words or phrases, ask him or her to clarify their meaning
+* **Corrective interview:** management meets individually with the person causing the problems, and explains the impact of his or her behavior
+* **Friendly outplacement:** recommend a corncob to employment headhunters to help him or her to exit gracefully
+* **Corncob support group:** if there are several corncobs in an organization, management can transfer them into the same group
 
 #### 4.4 Death by Planning
 
