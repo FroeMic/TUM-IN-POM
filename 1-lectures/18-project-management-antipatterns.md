@@ -163,15 +163,29 @@ _Unrealizable models are worth nothing._
 * Scenario based design
 * Sprint based development
 
-#### 4.2 Functional Decomposition
+#### 4.2 Functional Decomposition (No OO)
 
 ##### General Form
 
+* everything is a function, lots of files called misc, util, util1, aux1, aux2…
+* **Unbalanced Forces:** management of complexity, change management is difficult
+
 ##### Symptoms and Consequences
+
+* The functionality is spread all over the system
+* Maintainer must understand the whole system to make a single change
+* Code is complex, hard to understand, high coupling between code sections in different files, impossible to maintain
+* User interface is often awkward and non-intuitive
 
 ##### Typical Causes
 
+* Programmers have been trained only in an imperative / functional language
+* Designers have been trained with a functional decomposition method 
+
 ##### Refactored Solution
+
+* Object-oriented analysis
+* Object-oriented reengineering (process)
 
 #### 4.3 Corncob
 
