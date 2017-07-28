@@ -109,7 +109,61 @@ The creation and delivery of releases to customers and users.
 
 ### 2. Management Issues and Best Practices
 
+#### Continuous Delivery
+
+* How often do you deliver your application?
+* Which process changes do you have to implement to make customers aware of multiple releases during development
+* How do you handle customers who do not react to releases?
+* How many releases can a customer handle?
+* How do you handle feedback within the sprint?
+* What needs to be done to implement continuous delivery from scratch? (CI -> CD, CI -> CD -> Feedback)
+* How can you tailor the workflow to specific project needs?
+
 ### 3. Continuous Software Engineering
+
+##### Best Practices for Build and Release Management
+
+* The process for releasing/deploying software must be **repeatable** and **reliable**
+* If something is difficult or painful, do it more often
+* Automate **every step** of the build process
+    * Write test cases
+* Integrate your changes early and often
+* Release early and often to obtain feedback
+* Release internally first
+    * Test it thoroughly
+    * Then promote the release to your users
+* **React to crashes and user feedback**
+* Improve continuously
+
+##### Why is Continuous Delivery difficult for large systems?
+
+* Large systems tend to have many dependencies, legacy code, ...
+  * hard to maintain and extend
+  * integration testing takes a lot of time
+  * each change can lead to many errors (due to dependencies)
+* Loose Coupling and High Cohesion are hard to maintain over time
+* The middleware layer become a **monolith** => system too big to maintain
+
+###### Conway's Law
+
+_”Any organization that designs a system (defined broadly) will inevitably produce a design whose structure is a copy of the organization's communication structure.”_
+
+###### Typical Structure for Large Systems
+
+* Monolithic Layered Architecture
+  * Organization in specialized teams: UI, Middleware, DBAs
+  * Many different services in middleware layer
+* Better Approach: Microservices
+  * Organization: cross functional teams
+  * Each microservice only contains 1 service with functionality
+* **Benefits:**
+  * Strong Module Boundaries (modular structure)
+  * Independent Deployment (simple services are easier to deploy)
+  * Technology diversity (possibility to mix languages / development frameworks)
+* **Costs:**
+  * Distribution (harder to program, remote calls have risk for failure)
+  * Eventual Consistency (maintaining strong consistency almost impossible)
+  * Operational Complexity (mature operations team needed)  
 
 ### 4. Summary
 
