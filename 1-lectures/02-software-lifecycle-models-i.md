@@ -216,7 +216,7 @@ identified stakeholders \(often involves acceptance and suitability with **exter
 
     ```
     [1] - - - - [2]  [1] Inception
-     |           |   [2] Inception
+     |           |   [2] Elaboration
      |           |   [3] Transition 
     [3] - - - - [4]  [4] Construction
     ```
