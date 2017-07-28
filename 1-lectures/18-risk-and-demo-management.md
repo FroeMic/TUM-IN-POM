@@ -139,6 +139,17 @@ Good design is crucial when using mock objects: the real object (subsystem) must
 * Prepare backups (videos, pictures) in case something goes wrong (Murphy’s law)
 * If something goes wrong, accept the failure and deal with the situation
 
+#### 2.3 Demo Feedback
+
+![](/assets/demo_feedback.png)
+
+* Developers deliver the demo application to the customer
+* They present the demo application and request feedback from the customer
+* The feedback is then used to refine the initial visionary scenario (or design)
+* Notice: developers should be honest about
+what is implemented and what is mocked
+
+![](/assets/demo_feedback.png)
 ### 3. Summary
 
 * Preparing a great demo of your application convinces the customer
