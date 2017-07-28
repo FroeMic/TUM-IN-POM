@@ -240,7 +240,16 @@ Also known as: Corporate shark, loose cannon, TWIT (Third World Information Syst
 
 ##### General Form
 
+* many projects fail from either over planning or under planning
+* **Glass case plan:** gives the management a ‘comfortable view’ of delivery, often before the project starts. 
+    * Management assumes everything will happen according to plan
+    * Progress is neither checked nor tracked.
+* **Detailitis plan:** over planning in projects, resulting in delays, staff attrition, and project failure
+    * 
+
 ##### Symptoms and Consequences
+
+Also known as: Pseudo-Analysis, Blind Development
 
 ##### Typical Causes
 
@@ -255,6 +264,21 @@ Also known as: Corporate shark, loose cannon, TWIT (Third World Information Syst
 ##### Typical Causes
 
 ##### Refactored Solution
+
+###### Follow on Problem
+
+* Introduce **incremental** and **iterative** development
+    * Incremental and/or iterative development based upon prototyping and user feedback
+    * Every project increment includes extensions to the user interface functionality
+    * Incremental development reduces the risk of the project not being accepted
+* Include a domain expert in the development team
+    * **Follow on Problem:** the domain expert represents only one opinion of the domain community
+* Include a user in the development process
+    * **Follow on Problem:** in innovative projects the end user may not exist
+
+
+
+
 
 ### 5. Summary
 
