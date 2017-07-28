@@ -113,6 +113,23 @@ Most common mistakes in software project management and development include:
 
 ### 3. Taxonomy of Antipatterns
 
+**Roles:** Developer, Architect, Manager
+
+##### Development Antipatterns
+
+* Perspective: Software Developer
+* Issues: Software refactoring, modification of the source code to improve structure with respect to the long term maintainability
+
+##### Architecture Antipatterns
+
+* Perspective: Software Architect
+* Issues: Partitioning of subsystems and components, platform independent definition of interfaces and connectivity of components
+
+##### Management Antipatterns
+
+* Perspective: Software Project Manager
+* Issues: Software Project Organisation, software process model, human communication, rationale management and resolution of issues
+
 ### 4. Examples of Antipatterns
 
 #### 4.1 Analysis paralysis
