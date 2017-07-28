@@ -21,6 +21,7 @@
 * [15 Agile Architecture](1-lectures/15-agile-architecture.md)
 * [16 Release Management](1-lectures/17-release-management.md)
 * [17 Risk and Demo Management](1-lectures/18-risk-and-demo-management.md)
+* [18 Project Management Antipatterns](1-lectures/18-project-management-antipatterns.md)
 
 ## 2. Exercises
 
