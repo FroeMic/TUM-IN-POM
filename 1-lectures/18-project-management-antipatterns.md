@@ -136,13 +136,72 @@ Most common mistakes in software project management and development include:
 
 #### 4.1 Analysis paralysis
 
+_Unrealizable models are worth nothing._
+
+##### General Form
+
+* Goal to achieve perfection and completeness of the analysis phase
+* Generation of very detailed models
+* Detailed analysis can be successfully completed prior to coding
+* Assumption, that everything about a problem can be known a priori
+* Analysis model will not be extended nor revisited during development
+
+##### Symptoms and Consequences
+
+* Cost of analysis exceeds expectation without a predictable end point
+* Analysis documents no longer make sense to the domain experts
+
+##### Typical Causes
+
+* Management assumes a waterfall progression of phases
+
+##### Refactored Solution
+
+* Iterative development
+* Incremental development assumes that details of the problem and its solution will be learned in the course of the development process
+* Vertical prototyping
+* Scenario based design
+* Sprint based development
+
 #### 4.2 Functional Decomposition
+
+##### General Form
+
+##### Symptoms and Consequences
+
+##### Typical Causes
+
+##### Refactored Solution
 
 #### 4.3 Corncob
 
+##### General Form
+
+##### Symptoms and Consequences
+
+##### Typical Causes
+
+##### Refactored Solution
+
 #### 4.4 Death by Planning
 
+##### General Form
+
+##### Symptoms and Consequences
+
+##### Typical Causes
+
+##### Refactored Solution
+
 #### 4.5 Mushroom Management
+
+##### General Form
+
+##### Symptoms and Consequences
+
+##### Typical Causes
+
+##### Refactored Solution
 
 ### 5. Summary
 
