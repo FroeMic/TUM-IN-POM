@@ -6,5 +6,14 @@
 
 ---
 
+### 1. Risk Management
+
+### 2. Demo Management
+
+### 3. Tornado Model: From Visionary Scenario  to Demo Scenario
+
+### 4. Mock Object Pattern
+
+### 5. Summary
 
 
