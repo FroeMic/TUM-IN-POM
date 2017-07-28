@@ -81,6 +81,13 @@ Antipatterns consists of **1 problem** and **2 solutions**
 
 ##### Root Causes for Antipatterns
 
+Most common mistakes in software project management and development include:
+
+* Insufficient communication with the client
+* Unfulfilled requirements
+* Insufficient testing
+* Cost overruns and schedule slips
+
 ##### Seven Deadly Sins of Software Development
 
 ###### 1. Haste
