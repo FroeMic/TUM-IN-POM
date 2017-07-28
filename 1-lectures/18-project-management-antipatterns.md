@@ -130,6 +130,8 @@ Most common mistakes in software project management and development include:
 * Perspective: Software Project Manager
 * Issues: Software Project Organisation, software process model, human communication, rationale management and resolution of issues
 
+![](/assets/antipattern_taxonomy.png)
+
 ### 4. Examples of Antipatterns
 
 #### 4.1 Analysis paralysis
