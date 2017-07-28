@@ -245,19 +245,61 @@ Also known as: Corporate shark, loose cannon, TWIT (Third World Information Syst
     * Management assumes everything will happen according to plan
     * Progress is neither checked nor tracked.
 * **Detailitis plan:** over planning in projects, resulting in delays, staff attrition, and project failure
-    * 
+    * Effective Delivery is assumed to be achieved by a high degree of control via continuous planning
+    * Frequently evolves in a hierarchical sequence of plans with unnecessary level of detail
+    * Updating the plan takes time away from those who should implement it
 
 ##### Symptoms and Consequences
 
-Also known as: Pseudo-Analysis, Blind Development
-
+##### Glass case plan
+* **Primary symptom:** lack of an up-to-date project plan
+* **Secondary symptom:** no up-to-date plan —> increase in differences between management expectations and reality (extension of the primary symptom)
+* **Consequences** grow incrementally, with the options of:
+    * Lack of status quo of the project status
+    * Cost overrun
+    * Attrition
+    * Failure to deliver a critical deliverable (the final consequence)
+    
+##### Detailitis plan
+* **Symptoms**
+    * A lot of time is spent on planning, capturing progress, and replanning
+    * Often more time than on delivering the software
+* **Consequences**
+    * Endless planning and replanning causes further planning and replanning
+    * Objective shifts from delivering software to delivering plans
+    * Delays in software delivery lead to the eventual project failure    
+    
 ##### Typical Causes
+
+* **Root causes:** avarice, ignorance, haste
+* **Causes** for the glass case plan
+    * Overambitious initial planning to attempt to enforce absolute control of project
+    * Ignorance of basic project-management principles
+    * Lack of a pragmatic approach to planning, scheduling, and capture of progress
+* **Causes** for the detailitis plan
+    * Overambitious continuous planning to attempt to enforce absolute control of the project (development)
+    * Planning as the primary project objective
+    * Ignorance of change
 
 ##### Refactored Solution
 
+* **Known exceptions**
+     Software development projects can succeed despite poor planning practices
+    * The existence of a “project champion” within the management level can prove beneficial even in the context of bad planning
+* **Refactored solution**
+    * Create schedule of related development tasks defined by a software development lifecycle model, e.g. use Gantt charts to visualize deliverables, dates and interdependencies
+    * Estimate the tasks in terms of effort and elapsed time
+    * Capture the progress of tasks for an elapsed time period (use burn down chart)
+    * Evaluate captured progress against the project plan
+    * Update the captured progress against the project plan
+
 #### 4.5 Mushroom Management
 
+Also known as: Pseudo-Analysis, Blind Development
+
 ##### General Form
+
+* Requirements change frequently
 
 ##### Symptoms and Consequences
 
