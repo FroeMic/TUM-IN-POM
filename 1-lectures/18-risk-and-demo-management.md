@@ -122,6 +122,20 @@ Formalized scenarios consist of 6 components
     * need to be true at the end of the flow of events
 6. **Quality Requirements**
     * non-functional requirements of the scenario
+    
+    
+##### Write a screenplay from the formalized scenario(s)
+
+
+###### Identify participating Methods / Objects 
+
+* Inspect the flow of events in the screenplay
+* Textual Analysis (Abott's Technique)
+* Create a class diagram from the flow of events
+* Other knowledge sources
+    * Application knowledge (application domain, taxonomies)
+    * Solution knowledge (e.g. design patterns)
+    * General world knowledge
 
 #### 2.2 Mock Object Pattern
 
