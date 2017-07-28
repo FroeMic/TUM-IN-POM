@@ -98,6 +98,47 @@ Risk Mitigations can be grouped into 4 possible types.
 
 #### 2.2 Mock Object Pattern
 
+##### Can we do a demo with a missing subsystem?
+
+Yes! We use **model based demonstration:**
+
+##### Model-Based Demonstration
+
+1. We start with the **System Model**
+2. We identify the **SUD** (System under Demo)
+3. Find other objects that interact with the SUD, but are not implemented yet. These are **Collaborators**.
+4. To interact with Collaborators, create **Mocks**
+5. **Mocks** mimic the behavior of the Collaborators
+
+##### Mock-Object Pattern
+
+Good design is crucial when using mock objects: the real object (subsystem) must be specified with an interface (façade) and a class for the implementation.
+
+* The mock collaborator replaces the behavior of the collaborator (the real object)
+* A mock object can be created at startuptime with a factory pattern
+* Mock objects can be used for testing state of individual objects as well as the interaction between objects
+
+![](/assets/mock_object_pattern.png)
+
+##### Taxonomy of Doubles
+
+* **Dummy object:** often used to fill parameter lists, passed around but never actually used
+* **Fake object:** a working implementation that contains a “shortcut” which makes it not suitable for production code
+* **Stub:** Provides canned answers to calls made during the test. Provides always the same answer
+* **Mock object:** mimic the behavior of the real object. Know how to deal with a specific sequence of calls they are expected to receive
+
+##### Software Demo Tips
+
+* Be enthusiastic and convincing, but don’t lie
+* Have a strong opening
+* Include humor (ideally subtle but funny jokes), but don’t make fun of somebody
+* Focus on user needs and problems that the software solves
+    * Find the right balance between marketing and technical complexity
+    * Explain technical decisions and details in a way that even non IT people can understand it
+* Prefer application domain terminology instead of solution domain terminology
+* Prepare backups (videos, pictures) in case something goes wrong (Murphy’s law)
+* If something goes wrong, accept the failure and deal with the situation
+
 ### 3. Summary
 
 * Preparing a great demo of your application convinces the customer
