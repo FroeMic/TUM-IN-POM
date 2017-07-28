@@ -70,6 +70,40 @@ Antipatterns consists of **1 problem** and **2 solutions**
 
 ### 2. Typical Mistakes in Software Engineering
 
+##### How to kill a project!
+
+* Show the same demo twice to the same audience
+* Focus on technologies, not on problems and scenarios
+* Don’t maintain consistency between releases
+* Isolate team efforts from other teams within an organization
+* Rewrite existing clients, servers and applications
+* Change the purpose of the system so that the models describe the wrong objects
+
+##### Root Causes for Antipatterns
+
+##### Seven Deadly Sins of Software Development
+
+###### 1. Haste
+* Solutions based on hasty decisions (“time is most important”) lead to compromises in software quality
+
+###### 2. Pride (hubris)
+*Not invented here (NIH): Not willing to adopt anything from the outside
+
+######  3. Apathy
+*Not caring about a problem, followed by unwillingness to attempt a solution
+
+###### 4. Sloth
+* Making poor decisions based on “easy” answers
+
+###### 5. Ignorance
+* Failure to seek understanding
+
+######  6. Avarice (excessive complexity)
+* No use of abstractions, excessive modeling of details
+
+###### 7. Narrow-mindedness
+* The refusal to use solutions that are widely known (“Why reuse? I only have to solve one problem”)
+
 ### 3. Taxonomy of Antipatterns
 
 ### 4. Examples of Antipatterns
