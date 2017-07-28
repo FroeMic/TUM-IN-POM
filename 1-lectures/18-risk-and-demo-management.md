@@ -44,10 +44,41 @@ _Risks must be taken because the greatest hazard in life is to risk nothing._
 
 ![](/assets/risk_assessment_matrix.png)
 
-
-
-
 ##### Risk Mitigation
+
+Risk Mitigations can be grouped into 4 possible types.
+
+1. **Avoidance**
+    * Try to avoid risk occurrence
+    * Mostly used at planning phase
+2. **Control**
+    * Identify actions to control risk occurrence and impact
+    * Most common response
+3. **Transfer**
+    * Delegate risk (e.g. to subcontractors)
+4. **Investigation**
+    * Try to analyze risk further
+    * Risk is not reduced
+
+###### Risk Mitigation Plan
+
+* Periodic Risk Assessment
+* Possible Escalation to upper management
+
+##### Risk Management Skills
+
+1. **Rules**
+    * Update risk log
+    * Establish contingency plan
+2. **Knowledge**
+    * Specific IT knowledge
+    * Business / functional know how
+3. **Distance**
+    * Challenge time and cost estimates
+    * Listen to different opinions
+4. **Intuition**
+    * Expert Estimations
+    * Feeling about risks and problems
 
 ### 2. Demo Management
 
