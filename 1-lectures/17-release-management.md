@@ -92,6 +92,21 @@ The creation and delivery of releases to customers and users.
 * Collects crash reports
 * Stores feedback and crash reports in issue tracker (Jira)
 
+##### Feedback Management in Agile Projects
+
+![](/assets/feedback.png)
+
+##### Release Notes
+
+* Describe the most important changes to the product since the last release
+* **Important:** Write them from the viewpoint of the user
+  * no technical terms the user does not understand
+  * no complex details about the system
+  * high level content (short and readable)
+* Delivered and Distributed when an update is released
+* Shared with end users, customers and clients
+
+
 ### 2. Management Issues and Best Practices
 
 ### 3. Continuous Software Engineering
