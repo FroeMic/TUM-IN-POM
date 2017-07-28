@@ -96,6 +96,33 @@ Risk Mitigations can be grouped into 4 possible types.
 
 #### 2.1. Tornado Model: From Visionary Scenario  to Demo Scenario
 
+##### Scenario-Based Design
+
+Start with the problem statement given by the customer.
+
+* Section 2 (Scenarios) describes the visionary scenario formulated by the customer
+* Developers transform the visionary scenario into formalized scenarios
+The formalized scenario is used as a basis for the demo
+
+###### Formalized Scenarios
+
+Formalized scenarios consist of 6 components
+
+1. **Scenario Name:** 
+    * Noun + Verb
+2. **Participating Actors:**
+    * concrete users of the system including a role
+    * e.g. "Bob: Employee"
+3. **Flow of Events**
+    * describes interaction between the actors and the system
+    * indentation helps to distinguish user input from system response
+4. **Entry Conditions**
+    * have to be met before the flow of events can start
+5. **Exit Conditions**
+    * need to be true at the end of the flow of events
+6. **Quality Requirements**
+    * non-functional requirements of the scenario
+
 #### 2.2 Mock Object Pattern
 
 ##### Can we do a demo with a missing subsystem?
