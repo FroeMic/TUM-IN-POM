@@ -1,4 +1,4 @@
-## 18 Risk and Demo Management
+## 17 Risk and Demo Management
 
 ###### 19 July - 25 July
 

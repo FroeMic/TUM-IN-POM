@@ -19,8 +19,8 @@
 * [13 Build Management](1-lectures/13-build-management.md)
 * [14 Global Project Management](1-lectures/14-global-project-management.md)
 * [15 Agile Architecture](1-lectures/15-agile-architecture.md)
-* [17 Release Management](1-lectures/17-release-management.md)
-* [18 Risk and Demo Management](1-lectures/18-risk-and-demo-management.md)
+* [16 Release Management](1-lectures/17-release-management.md)
+* [17 Risk and Demo Management](1-lectures/18-risk-and-demo-management.md)
 
 ## 2. Exercises
 
