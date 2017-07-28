@@ -261,11 +261,18 @@ Also known as: Pseudo-Analysis, Blind Development
 
 ##### Symptoms and Consequences
 
+* **Unbalanced Forces:**
+    * Management policy isolates the developers from the system’s end users
+    * Management assumes that the requirements are stable and well understood by developers
+
 ##### Typical Causes
 
-##### Refactored Solution
+* Bad understanding of the requirements leads to poor design decisions
+    * Developers must make assumptions, which may lead to pseudo-analysis
+    * Pseudo-analysis: takes place without end-user participation
+*  Communication channels do not work properly (between managers and employees)
 
-###### Follow on Problem
+##### Refactored Solution
 
 * Introduce **incremental** and **iterative** development
     * Incremental and/or iterative development based upon prototyping and user feedback
