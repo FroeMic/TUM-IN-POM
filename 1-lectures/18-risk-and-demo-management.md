@@ -149,7 +149,7 @@ Good design is crucial when using mock objects: the real object (subsystem) must
 * Notice: developers should be honest about
 what is implemented and what is mocked
 
-![](/assets/demo_feedback.png)
+
 ### 3. Summary
 
 * Preparing a great demo of your application convinces the customer
