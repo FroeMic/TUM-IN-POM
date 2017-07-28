@@ -10,6 +10,64 @@
 
 ##### Definition: Pattern
 
+To be considered a pattern, a solution must be applicable to more than one specific problem.
+
+1. **Problem:** eloborates
+    1. one **context**
+    2. a set of **forces**
+2. **Solution:** resolves these forces with
+    1. several **benefits**
+    2. several **consequences**
+    3. solutions can generate **follow-on-problems**
+    
+**Important:** Patterns can become antipatterns (problematic solutions), when change occurs.
+
+* Change of requirements
+* Change of project parameters
+* Change of methodology
+    
+##### Definition: Antipattern
+
+Antipatterns identify and categorize common mistakes in software practice. Informal synonyms are
+* Bad Practice
+* Bad Idea or Pitfall
+* Typical PM mistake
+* Typical design error
+* Bade use of an acitivity 
+
+Antipatterns consists of **1 problem** and **2 solutions**
+
+1. **Solution**
+    1. one **context**
+    2. a set of **forces**   
+2. **Problematic Solution** describes a commonly occuring solution that causes
+    1. multiple **negative consequences**
+    2. multiple **negative symptoms**
+3. **Refactored Solution** describes how the problematic solution can be reengineered and lead to
+    1. multiple **benefits**
+    2. multiple **consequences**
+    3. potential **follow-on-problems**
+    
+![](/assets/pattern_vs_antipattern.png)
+
+##### Applicability of Patterns and Antipatterns
+
+* **Patterns** are good for problems, which do not have a solution yet
+* **Patterns** emphasize the use of proven good design principles
+* **Antipatterns** are good for emphasizing the recognition of mistakes
+
+###### Changing bad solutions into better ones
+
+* When a pattern becomes an antipattern, it is useful to have a proven approach how to change the problematic solution into a better one.
+* **Incremental Reengineering** (refactoring)
+    * process of incrementally changing the structure of a bad system / project / organisation into a better one with the use of antipatterns
+
+###### Why antipatterns?
+
+* The presence of good patterns alone in a successful system is not enough
+* You must also show that those patterns are absent in failing systems
+* Likewise it is useful to show the presence of certain patterns in failing systems and their absence in successful systems
+
 ### 2. Typical Mistakes in Software Engineering
 
 ### 3. Taxonomy of Antipatterns
