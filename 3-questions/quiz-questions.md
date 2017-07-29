@@ -472,37 +472,15 @@ Is this proposal acceptable?
     c. An emphasis on development, quality and operation departments to work closely together to release software faster and more reliable ✅  
     d. A new software process model
     
+
 #### Quiz 19: Risk and Demo Management
+
 
 **Question:** What is risk?
     a. A conflict
     b. A potential harm ✅
     c. A problem
     d. A deviation from an expectation ✅ 
-**Question:** What are dimensions of the risk assessment matrix?
-    a. Impact ✅
-    b. Control ✅
-    c. Mitigation
-    d. Probability ✅
-**Question:** What are typical risk mitigation strategies?
-    a. Risk ignorance
-    b. Risk transfer ✅
-    c. Risk control ✅
-    d. Risk avoidance ✅
-**Question:** What is described by Murphy's Law?
-    a. If there's more than one way to do a job and one of those ways will end in disaster, then somebody will do it that way. ✅
-    b. When things are going well, something will go wrong ✅
-    c. Nothing can go wrong
-    d. Anything that can go wrong will go wrong ✅
-**Question:** What are components of a formalized scenario?
-    a. Conditions that have to be met before the scenario starts ✅
-    b. Schedule that describes the time plan for the implementation of the scenario
-    c. Interaction between actors and system ✅
-    d. Top level design of the architecture of the scenario
-**Question:** What are activities during the textual analysis in Abbot's Technique?
-    a. Identify verbs as candidates for classes
-    b. Identify nouns as candidates for methods
-    c. Identify verbs as candidates for methods ✅
-    d. Identify nouns as candidates for classes ✅
+
 
 
