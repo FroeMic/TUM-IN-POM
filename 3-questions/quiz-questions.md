@@ -504,3 +504,5 @@ Is this proposal acceptable?
     b. Identify nouns as candidates for methods
     c. Identify verbs as candidates for methods ✅
     d. Identify nouns as candidates for classes ✅
+
+
