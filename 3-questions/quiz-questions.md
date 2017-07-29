@@ -208,72 +208,150 @@
 #### Quiz 9: Software Configuration Management 1
 
 **Question:** Promotion vs. Release vs. Revision. What is correct?  
+
+
+```
     a. A potentially shippable product increment is a promotion  
     b. A release is a version made available to users or clients ✅  
     c. Revisions change major functionality of the developed system  
     d. Promotions are distributed only team internally ✅  
+```
+
+
 **Question:** What is correct about the object model for configuration management?  
+
+
+```
     a. Controlled items are modeled with the composite pattern ✅  
     b. The master directory contains all the promotions ✅  
     c. A configuration item can have multiple versions ✅  
     d. A configuration item can be a version  
+```
+
+
 **Question:** Which of the following are Software Configuration Management activities?  
+
+
+```
     a. Promotion Management ✅  
     b. Risk Management  
     c. Branch management ✅  
     d. Configuration item identification ✅
 
+```
+
+
 **Question:** What are bad practices in distributed version control?  
+
+
+```
     a. Keep the working copy up to date  
     b. Commit changes for two different bugs at once ✅  
     c. Promote changes often to avoid merge conflicts  
     d. Change promoted versions in the remote repository  ✅  
+```
+
+
 **Question:** What is correct about Git commands?  
+
+
+```
     a. To promote changes you use **git commit**  
     b. **git pull** is a compound command composed of fetch & merge ✅  
     c. **git clone** creates a local working copy of an existing git repository ✅  
     d. **git add** adds file changes in your existing directory to your index \(staging area\) ✅  
+```
+
+
 **Question:** What are bad practices in distributed version control?  
+
+
+```
     a. Administrators have total control over who can do what  
     b. The master directory can be restored from a programmer's directory if the server crashes ✅  
     c. Branches are lightweight ✅  
     d. It has a low learning curve  
+```
+
+
 **Question:** What are characteristics of change requests?  
+
+
+```
     a. Each change request includes a prototypical implementation of the solution to support the assessment of the request  
     b. Change requests are only approved if they are easy to implement  
     c. Each change request triggers a change request process ✅  
+```
+
+
 **Question:** What is NOT a typical activity in a change control process?  
+
+
+```
     a. Create a new baseline  
     b. Evaluate the change request  
     c. Ask a developer for permission ✅  
     d. Implement the change
+```
+
+
 
 #### Quiz 10: Developing Winning Proposals
 
 **Question:** What is true about the content and effort of proposal types?  
+
+
+```
     a. Co-sourcing may include resource options in a controlled manner ✅  
     b. Outsourcing may include resource options in a controlled manner ✅  
     c. Venture has defined deliverables and outcomes  
     d. Consulting has an indefinite duration  
+```
+
+
 **Question:** What is correct about proposals?  
+
+
+```
     a. The proposal is part of the final contract ✅  
     b. In real life, IT proposals are mostly limited to design and implementation projects  
     c. A proposal is about a specific problem, but typically does not include a description of the solution  
     d. A proposal does not include legal statements  
+```
+
+
 **Question:** Which are key attributes of a proposal?  
+
+
+```
     a. Flexible  
     b. Tailored ✅  
     c. Formal ✅  
+```
+
+
 **Question:** What makes a winning proposal?  
+
+
+```
     a. Focus the proposal on the procurement department  
     b. Offer a good price ✅  
     c. Gain the trust of the client ✅  
     d. Promise the client to deliver the best possible solution  
+```
+
+
 **Question:** The following text is a part of an already existing proposal:  
 _"...At the end of the project we are providing the best software running on a new, faster and fully functional server. In addition, all of the existing data, in an optimal way, have been moved from the old server to the new. All of the current functionality still exist. Access to the system...."_  
 Is this proposal acceptable?  
+
+
+```
     a. Yes  
     b. No ✅  
+```
+
+
 **Question:** What are good reasons to decline bidding for a proposal?  
 
 
