@@ -478,8 +478,11 @@ Is this proposal acceptable?
 
 **Question:** What is risk?
     a. A conflict
+    
     b. A potential harm ✅
+    
     c. A problem
+    
     d. A deviation from an expectation ✅ 
 
 
