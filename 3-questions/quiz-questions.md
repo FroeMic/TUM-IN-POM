@@ -407,7 +407,8 @@ Is this proposal acceptable?
 
 **Question:** Estimate how many large IT-projects \(those with initial price tags exceeding $15 million\) go so badly that they can threaten the very existence of the company?
 
-* No correct answer given. I think it was 6%.
+-> No correct answer given. I think it was 6%.
+
 
 **Question:** Communication is crucial. How can it be leveraged to reduce challenges specific for global projects?  
     a. Hold isolated team meetings only  
