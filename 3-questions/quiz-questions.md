@@ -36,100 +36,208 @@
 #### Quiz 3: Project Organization
 
 **Question:** What is the defining characteristic of a project function in comparison to other activities?  
+
+
+```
     a. Project functions contain other low-level activities  
     b. A project function spans the entire duration of the project  ✅  
     c. Project functions are activities that require an experienced developer  
     d. A project function culminates in a milestone  
+```
+
+
 **Question:** What are main responsibilities of the project manager?  
+
+
+```
     a. Maintaining accountability ✅  
     b. Analyze the application domain  
     c. Design and implement tests  
     d. Administering the resources ✅  
+```
+
+
 **Question:** Which of the following is NOT a unit of work?  
+
+```
+
     a. A work package ✅  
     b. A deliverable ✅  
     c. A task  
     d. An activity  
+```
+
+
 **Question:** What are typical challenges in a matrix organization?  
+
+
+```
     a. Conflicting interests between department and project ✅  
     b. Projects cannot be tailored around the problem  
     c. Competing demands for team members in multiple projects ✅  
     d. Teams cannot be assembled rapidly  
+```
+
+
 **Question:** What are typical organization forms?  
+
+```
+
     a. Delegation Organization  
     b. Matrix Organization ✅  
     c. Line Organization ✅  
     d. Project-based Organization ✅  
+```
+
+
 **Question:** What are characteristics of information flow in non-hierarchical project organizations?  
+
+```
+
     a. It is easier to manage because of the simplified communication structure  
     b. It increases bureaucracy due to the complicated decision flow  
     c. It expects decisions to be made at each level ✅  
     d. It reduces development time because the communication is more efficient ✅  
+```
+
+
 **Question:** What are typical roles in meeting management?  
+
+
+```
     a. Primary Facilitator ✅  
     b. Scrum Master  
     c. Minute Taker ✅  
     d. Product ✅  
+```
+
+
 **Question:** What are characteristics of European and Polynesian Navigation?  
+
+
+```
     a. Agile Planning as in the Polynesian Navigation uses context dependent actions  ✅  
     b. Traditional Planning as in European Navigation corrects the course to follow the initial plan when a deviation is observed ✅  
     c. Traditional Planning as in the European Navigation can easily react to changes  
+```
+
+
 **Question:** Which of the following is an example for an asynchronous communication mechanism?  
+
+
+```
     a. Stand-up Meeting  
     b. Slack ✅  
     c. Informal Meeting  
     d. Confluence ✅
+```
+
+
 
 #### Quiz 4: Software Lifecycle Models 1
 
 **Question:** Which managerial challenges come with modeling?  
+
+
+```
     a. Complexity ✅  
     b. Improved communication  
     c. Redundancy ✅  
     d. The Analysis Paralysis Antipattern ✅  
+```
+
+
 **Question:** What are possible changes when tailoring a software lifecycle model to specific needs?  
+
+
+```
     a. Leave out the activity "Maintenance" ✅  
     b. Leave out all activities  
     c. "Test" before "Implementing" the system ✅  
     d. Rename "Detailed Design" to "Object Design" ✅  
+```
+
+
 **Question:** Which of the following statements about modeling are correct?  
+
+
+```
     a. Conceptual models represent a person's perception of an idea ✅  
     b. Specification models communicate the idea to a tool ✅  
     c. A mockup drawn on a napkin is a specification model  
     d. The best way to support communication is formal modeling  
+```
+
+
 **Question:** Which of the following statements about software lifecycle models are correct?  
+
+
+```
     a. XP, Kanban, Scrum and Unified Process are agile models Incorrect  
     b. Extrem Programming is based on feedback loops ✅  
     c. V-Model and V-Model XT are both sequential models  
     d. The Waterfall Model is the current state-of-the-art practice  
+```
+
+
 **Question:** Which of the following software lifecycle models are iterative models?  
+
+
+```
     a. Spiral Model ✅  
     b. V-Model  
     c. Waterfall  
     d. Unified Process ✅  
+```
+
+
 **Question:** Which process steps are part of the Waterfall Model?  
+
+
+```
     a. Design Correct  
     b. System Testing  
     c. Installation ✅  
     d. Unit Testing
+```
+
+
 
 #### Quiz 5: Scrum
 
 **Question:** Which statements about Scrum teams and roles are correct?  
+
+
+```
     a. The development team works on items in the Sprint Backlog ✅  
     b. The Product Owner is responsible for the process  
     c. The Scrum Master prioritizes the backlog items  
     d. The development team is self-organizing ✅  
+```
+
+
 **Question:** Which statements about Scrum teams and roles are correct?  
+
+
+```
     a. As a student I want to access my course schedule so that I am on time in class ✅  
     b. As a kid I want to have a slide so that I can use it.  
     c. As a cook I want a system that is connected to my fridge.  
     d. I want a possibility to determine the scale of discount of a customer.  
+```
+
+
 **Question:** Which of the following are Scrum artifacts?  
+
+
+```
     a. Potentially Shippable Product Increment ✅  
     b. Daily Scrum Meeting  
     c. Product Kickoff Meeting  
     d. Product Backlog ✅
+```
+
+
 
 #### Quiz 6: Software Lifecycle Models 2
 
