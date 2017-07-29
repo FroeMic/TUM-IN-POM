@@ -12,26 +12,50 @@
     c. The problem is not yet solved  
     d. The other people found a solution to the problem  
 **Question:** Which goals of a software project define its success in modern project management?  
+
+
+```
     a. Extend the deadline  
     b. Develop High Quality ✅  
     c. Adapt to changes ✅  
     d. Exceed the budget
+```
+
+
 
 #### Quiz 2: Team Building
 
 **Question:** The roles Scrum Master, Product Owner and Developer describe what kind of project?  
+
+
+```
     a. Agile Project ✅  
     b. Heavyweight Project  
+```
+
+
 **Question:** Which of the following stages are used to describe team development?  
+
+
+```
     a. Hunting  
     b. Storming ✅  
     c. Fighting  
     d. Forming ✅  
+```
+
+
 **Question:** Let's recap the differences between groups and teams.  
+
+
+```
     a. A \[Team\] has a common goal. ✅  
     b. Participants of a \[Group\] are loosely connected. ✅  
     c. Each \[Team\] is a \[Group\], but not each \[Group\] is also a \[Team\]. ✅  
     d. \[Team\] members need to work together. ✅
+```
+
+
 
 #### Quiz 3: Project Organization
 
