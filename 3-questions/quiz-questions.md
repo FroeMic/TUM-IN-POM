@@ -1119,3 +1119,32 @@ Is this proposal acceptable?
     c. The functionality is spread all over the system
     d. User interface is often awkward and non-intuitive
 ```
+
+**Question:** What are follow-on problems for refactored solutions of the mushroom antipattern?
+```
+    a. Incremental development increases the risks that the project is not accepted
+    b. A domain expert provides more insights, but only represents one opinion when included into the development process ✅
+    c. An end user can improve the developer's understand, but there might be no end user available in innovative projects that you could include into the development process ✅
+    d. Requirements change frequently
+```
+
+**Question:** What is correct about difficult people in the corncob antipattern?
+```
+    a. You deal with negativists by staying positive and realistic with them. ✅
+    b. Clams tend to offer little or no reaction ✅
+    c. Whiners complain about everything, but do not offer solutions. ✅
+    d. Snipers are calm, but embarrass you at inopportune moments in a public setting when you are unprepared and defenseless ✅
+```
+
+**Question:** What are refactored solutions for the death by planning antipattern?
+```
+    a. Ignore change so that the plan is still correct and can be followed
+    b. Evaluate and update captured progress against the project plan ✅
+    c. Follow the plan and don't deviate from it
+    d. Use a burn down chart to show the remaining effort at a given point in time ✅
+```
+
+#### Quiz 21: Repititorium
+
+
+
