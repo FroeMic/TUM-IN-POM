@@ -477,6 +477,7 @@ Is this proposal acceptable?
 
 
 **Question:** What is risk?
+    
     a. A conflict
     
     b. A potential harm ✅
