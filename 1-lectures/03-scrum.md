@@ -91,27 +91,7 @@
 
 ### 3. Exercise: Modeling Scrum
 
-// TODO: Model Scrum as activity diagram
-
-```
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-```
+![](/assets/scrum_uml_activity_diagram.png)
 
 ### 4. Requirement Specification
 
