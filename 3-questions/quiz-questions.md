@@ -134,76 +134,160 @@
 #### Quiz 6: Software Lifecycle Models 2
 
 **Question:** What is correct about iterative and incremental development?  
+
+
+```
     a. Incremental development only changes existing functionality  
     b. Refactorings can cause product iterations ✅  
     c. Iterative development aims to improve existing system parts ✅  
+```
+
+
 **Question:** What is correct about prototypes?  
+
+
+```
     a. Prototypes are used in the Waterfall model  
     b. Vertical prototypes only cover one layer of the system  
     c. Rapid prototyping is a misnomer ✅  
     d. Prototypes are used in the Spiral model ✅  
+```
+
+
 **Question:** What is correct about verification and validation?  
+
+
+```
     a. Both techniques are internal processes  
     b. Verification evaluates whether you are building the system in the right way ✅  
     c. Both techniques are used in the V-Model ✅  
     d. Validation assures that you are building the right system ✅  
+```
+
+
 **Question:** Which of the following workflows are supporting workflows in the Unified Process?  
+
+
+```
     a. Configuration and Change Management ✅  
     b. Analysis and Design  
     c. Deployment  
-    d. Project Management ✅  
+    d. Project Management ✅ 
+```
+
+ 
 **Question:** Which of the following statements about agile software lifecycle models are correct?  
+
+
+```
     a. It is difficult to introduce agile methods in a company that is only used to sequential lifecycle models ✅  
     b. Agile methods are not recommended for small projects with frequent changes  
     c. In Test Driven Development \(TDD\), developer first implement a functionality, then refactor it, and finally test it  
     d. The deliverable in Extreme Programming \(XP\) is comparable to a Product Increment in Scrum ✅  
+```
+
+
 **Question:** Which practices are used in Extreme Programming \(XP\)?  
+
+
+```
     a. Write production code with two people ✅  
     b. Improve understandability of source code while leaving its behavior unchanged ✅  
     c. Divide a project into the engineering and production stage  
     d. Write a test before implementing a feature, then refactor ✅
+```
+
+
 
 #### Quiz 7: Usability Management 1
 
 **Question:** Which terms are correlated to Usability Management?  
+
+
+```
     a. Error handling ✅  
     b. Portability  
     c. Memorability ✅  
     d. Learnability ✅  
+```
+
+
 **Question:** Which statements about user interfaces are correct?  
+
+
+```
     a. The effort for the development of good user interfaces is high ✅  
     b. The more controls a user interface includes, the better is its learnability  
     c. User interface development requires interaction with users ✅  
     d. All error messages in the user interface should be intended for the developers  
+```
+
+
 **Question:** Which term does the following sentence describe?  ”A measurement of how easily a user can use an application"  
+
+
+```
     a. Usability ✅  
     b. Accessibility  
     c. Functionality  
+```
+
+
 **Question:** What are characteristics of a good heuristic evaluation?  
+
+
+```
     a. All problems are justified properly ✅  
     b. In general, there is no need to consider any other heuristics other than Nielsen's 10  
     c. The interface is evaluated multiple times ✅  
+```
+
+
 **Question:** Which heuristics need to be considered regarding consistency and standards?  
+
+
+```
     a. Similar buttons should do similar actions ✅  
     b. All options must always be visible to the user  
     c. Actions should be performed in a similar way as the target platform's actions ✅  
+```
+
+
 **Question:**  Which heuristics have to be taken into consideration when reporting errors to users?  
+
+
+```
     a. Show a detailed report with all technical details of what went wrong  
     b. Offer constructive help with the error and explain why it occurred ✅  
     c. Be as precise as possible and include the user input ✅  
     d. Blame the user
+```
+
+
 
 #### Quiz 8: Usability Management 2
 
 **Question:** Which statements about human capabilities in UI development are correct?  
+
+
+```
     a. Long term human memory has a large capacity and little decay ✅  
     b. As a consequence of Fitt's law, it is recommended to use hierarchical menus in UI design  
-    c. Fitts's law describes how fast a user can move his hand to a target of a certain size at a certain distance ✅  
+    c. Fitts's law describes how fast a user can move his hand to a target of a certain size at a certain distance ✅ 
+```
+
+ 
 **Question:** What are challenges in prototyping?  
+
+
+```
     a. Prototyping does not allow iterations  
     b. A prototype with many problems can lead to negative feelings of the software ✅  
     c. Prototyping always increases the costs Incorrect  
     d. Customers might have wrong expectations after they have seen a prototype ✅
+```
+
+
 
 #### Quiz 9: Software Configuration Management 1
 
