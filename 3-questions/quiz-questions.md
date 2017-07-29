@@ -7,10 +7,16 @@
 #### Quiz 1: Introduction
 
 **Question:** How did the Columbus egg problem end?  
+
+
+```
     a. Columbus destroyed the egg ✅  
     b. The egg stood on its end ✅  
     c. The problem is not yet solved  
-    d. The other people found a solution to the problem  
+    d. The other people found a solution to the problem 
+```
+
+ 
 **Question:** Which goals of a software project define its success in modern project management?  
 
 
@@ -1048,8 +1054,68 @@ Is this proposal acceptable?
     d. Identify nouns as candidates for classes ✅
 ```
 
+#### Quiz 20: Project Management
+
+**Question:** What are synonyms for antipatterns: 
+
+
+```
+    a. Dysfunctional customer
+    b. Atypical project management repetition
+    c. Pitfall ✅ 
+    d. Design error ✅
+```
+
+**Question:** Which of the following items are part of the seven deadly sins in software project management?
+
+
+```
+    a. Sloth ✅
+    b. Haste ✅
+    c. Avarice ✅
+    d. Lust
+    e. Envy
+    f. Gluttony
+    g.Apathy ✅
+```
+
+**Question:** What are synonyms for antipatterns: 
+
+
+```
+    a. Dysfunctional customer
+    b. Atypical project management repetition
+    c. Pitfall ✅ 
+    d. Design error ✅
+```
+
+
+**Question:** What are differences between patterns and antipatterns?
+
+
+```
+    a. Patterns consists of 1 solution, while antipatterns consists of 2 solutions ✅
+    b. Antipatterns describe bad practices, while patterns describe good practices ✅
+    c. Patterns include a context, while antipatterns do not include a context
+    d. Patterns have negative consequences, while antipatterns only have benefits
+```
 
 
 
+**Question:** What are refactored solutions for the analysis paralysis antipattern?
 
+```
+    a. Usage of a non-lineare software process model ✅
+    b. Plan driven software development
+    c. Object-oriented analysis
+    d. Generation of very detailed models
+```
 
+**Question:** What is a follow-on problem for the refactored solution object-oriented analysis of the antipattern functional decomposition?
+
+```
+    a. Multiple object decompositions with different results are possible ✅
+    b. Change management is difficult
+    c. The functionality is spread all over the system
+    d. User interface is often awkward and non-intuitive
+```
