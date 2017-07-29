@@ -1,8 +1,8 @@
 # POM - Question Catalogue
 
-# TUM \#POM    \#tbd
+# 1. Quiz Questions
 
-## 1. Quiz Questions
+> _**Note:** The PDF does not show the emojis. If you print the question catalogue. just go through is for practice and mark the correct answers ;-\)_
 
 #### Quiz 1: Introduction
 
@@ -407,8 +407,7 @@ Is this proposal acceptable?
 
 **Question:** Estimate how many large IT-projects \(those with initial price tags exceeding $15 million\) go so badly that they can threaten the very existence of the company?
 
--> No correct answer given. I think it was 6%.
-
+-&gt; No correct answer given. I think it was 6%.
 
 **Question:** Communication is crucial. How can it be leveraged to reduce challenges specific for global projects?  
     a. Hold isolated team meetings only  
@@ -471,20 +470,20 @@ Is this proposal acceptable?
     b. An acronym for Development + Operations ✅  
     c. An emphasis on development, quality and operation departments to work closely together to release software faster and more reliable ✅  
     d. A new software process model
-    
 
 #### Quiz 19: Risk and Demo Management
 
-
 **Question:** What is risk?
-    
-    a. A conflict
-    
-    b. A potential harm ✅
-    
-    c. A problem
-    
-    d. A deviation from an expectation ✅ 
+
+```
+a. A conflict
+
+b. A potential harm ✅
+
+c. A problem
+
+d. A deviation from an expectation ✅ 
+```
 
 
 
