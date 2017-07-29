@@ -1146,5 +1146,42 @@ Is this proposal acceptable?
 
 #### Quiz 21: Repititorium
 
+**Question:** What are differences between vertical integration and horizontal integration?
+```
+    a. Vertical integration focuses on the full implementation of a few features, while horizontal integration focuses on the implementation of all features in one layer ✅
+    b. Vertical integration is typically used in agile processes, while horizontal integration is typically used in linear processes ✅
+    c. Prototypes during vertical integration show a wide range of features, while prototypes during horizontal integration show a small range of features
+    d. Vertical integration can be bottom up and top down, while horizontal integration can be left right or right left 
+```
 
+**Question:** What are differences between communication events and communication mechanisms?
+```
+    a. Communication events can be unscheduled, while communication mechanisms can be asynchronous ✅
+    b. An example of a communication event would be a client review, while an example of a communication mechanism would be Slack ✅
+    c. Communication events are information exchanges, while communication mechanism are procedures ✅
+    d. Communication events can be synchronous, while communication mechanisms can be scheduled
+```
 
+**Question:** What are differences between Scrum and Kanban?
+```
+    a. Scrum focuses more on the creation of product increments, while Kanban focuses more on the development flow of people ✅
+    b. Scrum is evolutionary, while Kanban is revolutionary
+    c. Scrum defines new roles, artifacts and meetings, while Kanban works with existing roles, artifacts and meetings in companies ✅
+    d. Scrum is an agile process model, while Kanabn is a linear model
+```
+
+**Question:** What are differences between fixed price and time and material contracts?
+```
+    a. Projects with time and material contracts usually have underspecified requirements, while fixed price projects require a fully specified system upfront ✅
+    b. Fixed price contracts are based on the actual effort, while time and material contracts have a defined price
+    c. Fixed price contracts transfer the risk to the client, while time and material contracts transfer the risk to the contractor
+    d. Fixed price contracts have a low flexibility towards changes, while time and material contracts are open to change requests ✅
+```
+
+**Question:** What are differences between low-fidelity and high-fidelity prototypes?
+```
+    a. Low-fidelity prototypes are easy to produce, while high-fidelity prototypes take more time to create ✅
+    b. Low-fidelity prototypes do not include detailed design decisions, while high-fidelity prototypes are more realistic ✅
+    c. High-fidelity prototypes typically lead to higher expectations than low-fidelity prototypes ✅
+    d. High-fidelity prototypes typically get less feedback than low-fidelity prototypes ✅
+```
