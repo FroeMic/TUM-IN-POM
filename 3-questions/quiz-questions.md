@@ -275,215 +275,487 @@ Is this proposal acceptable?
     a. Yes  
     b. No ✅  
 **Question:** What are good reasons to decline bidding for a proposal?  
+
+
+```
     a. Previous similar proposals made to this client were all rejected ✅  
     b. You currently do not have the required skills or capacity ✅  
     c. You already have a lot of business with this client  
     d. A lot of interaction with the client is required to create the proposal
+```
+
+
 
 #### Quiz 11: Kanban
 
 **Question:** A Kanban system is an example of a ...  
+
+
+```
     a. Drum-Buffer-Rope system  
     b. Pull system ✅  
     c. Push system  
+```
+
+
 **Question:** Which statements about "Kaizen" and waste are correct?  
+
+
+```
     a. Consistent and need-based capacity utilization is the goal when reducing waste from inconsistency and inhomogeneity. ✅  
     b. Reducing wait time is an example for improvement through reduction of activities that don't add value. ✅  
-    c. Kaizen aims to revolutionize the old process by replacing it with a new one.  
+    c. Kaizen aims to revolutionize the old process by replacing it with a new one. 
+```
+
+ 
 **Question:**  What should the Kanban board reflect?  
+
+
+```
     a. What the team actually does ✅  
     b. The process of the team as it is specified in official project documents  
     c. It depends  
     d. The desirable process of the team  
+```
+
+
 **Question:** What does Kanban focus on when introduced to teams with an existing development process?  
+
+
+```
     a. Changing roles and responsibilities  
     b. Evolutionary change ✅  
     c. Leadership ✅  
     d. None of the mentioned  
+```
+
+
 **Question:**  In a Kanban project, the development team is blocked, because the deployment team has hit the deploy WIP limit. If they would start to work on an additional task, they would break the development WIP limit. What should the development team do according to Kanban?  
+
+
+```
     a. Increase the WIP limit of the development team  
     b. Increase the WIP limit of the deployment team  
     c. Help the deployment team to solve the problem ✅  
     d. Break the development WIP limit and start another task  
+```
+
+
 **Question:** How does a WIP reduction affect the lead time?  
+
+
+```
     a. Lengthens lead time  
     b. Shortens lead time ✅  
     c. Has no effect
+```
+
+
 
 #### Quiz 12: Software Configuration Management 1
 
 **Question:** Which statements about pull requests are correct?  
+
+
+```
     a. When the quality of the changes in a pull request is not ok, the reviewer must implement the requested improvements  
     b. In the code review workflow, the reviewer approves the pull request and then merges the changes of the feature branch to the development branch.  
     c. When a developer creates a pull request, and then commits further changes to the source branch of the pull request, the pull request is automatically updated ✅  
+```
+
+
 **Question:** Which statements about pull requests are correct?  
+
+
+```
     a. Poor code in the development branch instills a sense of abandonment and spreads out to the rest of the source code ✅  
     b. It recommends that developers should use test driven development  
     c. It describes how to avoid the phenomenon of software entropy  
     d. Poor but working code should stay unrepaired, otherwise you loose too much time  
+```
+
+
 **Question:** What are best practices for branch and merge management?  
+
+
+```
     a. A good practice to avoid merge conflicts is to pull often from the development branch into the feature branch. ✅  
     b. Avoid having feature branches that span through a long period of time. ✅  
     c. Make use of a specific branching model. ✅  
     d. All requirements should be mapped to one feature branch, regardless of their size.
+```
+
+
 
 #### Quiz 13: Contracting
 
 **Question:** Select all acceptance-relevant aspects to be considered in contracts.  
+
+
+```
     a. Validation of the project results ✅  
     b. Verification of the project results ✅  
     c. Check for completeness ✅  
+```
+
+
 **Question:** For contracting parties, it is important to know ...  
+
+
+```
     a. Once the contract is concluded, contractors have to implement quality management procedures to meet all project goals defined in the iteration plan  
     b. Once the contract is concluded, clients just receive deliverables and confirm timely shipment.  
-    c. There are always two roles \(client and contractor\) that have individual goals and approaches. ✅  
+    c. There are always two roles \(client and contractor\) that have individual goals and approaches. ✅ 
+```
+
+ 
 **Question:** Contracts, in general, define ...  
+
+
+```
     a. The responsibilities of the respective contracting parties ✅  
     b. The basic project parameters in terms of deliverables, schedule, and budget. ✅  
     c. How quality requirements regarding real-time are implemented.  
+```
+
+
 **Question:** Select an interaction strategy that should guide contracting procedures as well as project operation in general to establish a fair set up.  
+
+
+```
     a. Competitive \(my win is your loss\)  
     b. Indifferent \(I don't care - you lose\)  
     c. Cooperative \(win-win\) ✅  
+```
+
+
 **Question:** For the different contract types, select the statements that apply:  
+
+
+```
     a. Fixed-price contracts do not allow for defining any incentives  
     b. Fixed-price contracts are the option preferred by clients to minimize their project risk ✅  
     c. Using a time & material contract, clients face the risk to never get a working system ✅  
+```
+
+
 **Question:** Regarding the practices to embody contracts, the following statements apply:  
+
+
+```
     a. Money for nothing is an incentive model awarding good performance ✅  
     b. Maximum price is a means to better control the project budget by setting limits ✅  
     c. The agile fixed price combines many proven practices thus fully replacing the classic fixed price
+```
+
+
 
 #### Quiz 14: Estimation and Scheduling
 
 **Question:** What should be considered when estimating?  
+
+
+```
     a. Complexity of the project ✅  
     b. Project duration ✅  
     c. Project budget ✅  
     d. Infrastructure ✅  
+```
+
+
 **Question:** What is correct about methods for estimation?  
+
+
+```
     a. COCOMO is an expert estimation technique with a top-down approach  
     b. Planning poker is a team expert estimation technique ✅  
     c. Expert estimations are based on formulas  
     d. The lines of code estimation is considered as malpractice ✅  
+```
+
+
 **Question:** What are challenges of planning poker?  
+
+
+```
     a. Different teams estimate differently ✅  
     b. It helps to discover important project issues  
     c. Estimates can vary based on the abilities of the people who are estimating ✅  
+```
+
+
 **Question:** Which type of dependency is shown in the following picture?  
 ![](/assets/ImageQuiz14bQ1.png)  
+
+
+```
     a. Finish-to-Finish  
     b. Start-to-Finish  
     c. Start-to-Start  
     d. Finish-to-Start ✅  
+```
+
+
 **Question:** What are good strategies to shorten the project duration?  
+
+
+```
     a. Consider to use existing components ✅  
     b. Find activities that can be parallelized on the critical path ✅  
     c. Add manpower to the project  
+```
+
+
 **Question:** What does a good project manager do?  
+
+
+```
     a. Establish good and clear communication only with the best employees  
     b. Stimulate independent thinking ✅  
     c. Avoid assumptions ✅
+```
+
+
 
 #### Quiz 15: Build Management
 
 **Question:** What is correct about continuous integration?  
+
+
+```
     a. The build process usually includes multiple steps ✅  
     b. High complexity of software systems makes it harder to integrate the software components ✅  
     c. The later integration occurs, the less likely it is that unexpected failures occur  
     d. The continuous integration server notifies developer about the build status ✅  
+```
+
+
 **Question:** What are typical fault handling techniques?  
+
+
+```
     a. Fault detection: testing ✅  
     b. Fault ignorance: ignore all faults  
     c. Fault tolerance: software configuration management  
-    d. Fault avoidence: software configuration management ✅  
+    d. Fault avoidence: software configuration management ✅ 
+```
+
+ 
 **Question:** Choose the correct answers about testing.  
+
+
+```
     a. Integration testing tests the interfaces between subsystems ✅  
     b. System testing confirms that classes and methods are correct  
     c. During a beta test, software is tested as realistic as possible in the target environment ✅  
     d. Acceptance tests are performed by the client, not the developer ✅
+```
+
+
 
 #### Quiz 16: Global Project Management
 
 **Question:** Estimate how many large IT-projects \(those with initial price tags exceeding $15 million\) go so badly that they can threaten the very existence of the company?
 
+```
 -&gt; No correct answer given. I think it was 6%.
+```
 
 **Question:** Communication is crucial. How can it be leveraged to reduce challenges specific for global projects?  
+
+
+```
     a. Hold isolated team meetings only  
     b. Usage of appropriate communication tools ✅  
     c. Plan for both asynchronous and synchronous communication ✅  
     d. Enforce formal and trackable communication ✅  
+```
+
+
 **Question:** Which of the following mitigations solve problems in global setups?  
+
+
+```
     a. Improvement epics in the backlog ✅  
     b. Additional time for innovation between sprints ✅  
     c. The introduction of collaboration forums to improve the autonomy of teams in later phases of the product life cycle ✅  
     d. Teams should present their delivery for other teams to prevent isolated teams  ✅  
+```
+
+
 **Question:** What are key success factors in global projects?  
+
+
+```
     a. Time zone utilization ✅  
     b. Non-negotiable requirements  
     c. Static teams  
     d. Meeting notes and documentation are easy accessible ✅
+```
+
+
 
 #### Quiz 17: Agile Architecture
 
 **Question:** How are estimations done based on story mapping?  
+
+
+```
     a. The first estimate of the potential development team will be tracked against reality and every deviation will be managed individually  
     b. After the first few sprints, the backlog is re-estimated and the assumed velocity is checked against the real velocity ✅  
     c. The potential development team quickly estimates all known epics/tasks relatively, and then has a closer look at 2-5 user stories ✅  
-    d. The most senior developer is doing the first estimate and discusses everything with the project manager  
+    d. The most senior developer is doing the first estimate and discusses everything with the project manager 
+```
+
+ 
 **Question:** What is correct about user story mapping?  
+
+
+```
     a. Tasks on the right side have to be done before tasks on the left side  
     b. Tasks on top are more important than tasks on the bottom ✅  
     c. To define tasks for releases, the tasks are split horizontally into groups ✅  
-    d. We do not focus on users, but only on tasks and activities they perform  
+    d. We do not focus on users, but only on tasks and activities they perform
+```
+
+  
 **Question:** What are typical guidelines about architectural decisions?  
+
+
+```
     a. In an agile project, software architecture should not be documented, because changes occur too often  
     b. Political and organizational constraints influence the software architecture ✅  
     c. Decisions should be delayed until the last responsible moment \(and that might be the start of the project/product development\) ✅  
     d. Software architecture must always be done in detail upfront  
+```
+
+
 **Question:** What can be said in general about software architecture?  
+
+
+```
     a. Arc42 is a standard for architecture documentation that focuses on different views on the system ✅  
     b. A good architecture is something that only software architects and software developers understand  
     c. Technical layering is more important than domain layering in the long run  
     d. Software architecture is something that evolves over time and has to be managed carefully ✅  
+```
+
+
 **Question:** Why are quality attributes so important?  
+
+
+```
     a. Quality attributes are usually distributed over the system, so they have to be taken into account on most changes of the system ✅  
     b. Quality attributes, also known as quality goals or non-functional requirements, often conflict with each other and therefore have to be balanced with knowledge of the domain of the system ✅  
     c. All quality goals are equally important and therefore are the same for all systems  
     d. Quality attributes define the detailed functional aspects of a system and therefore define the business logic
 
+```
+
+
 #### Quiz 18: Release Management
 
 **Question:** What are best practices for release management?  
+
+
+```
     a. The release process needs to be reliable and repeatable ✅  
     b. Release externally first and then promote the release to internal test users  
     c. Automate every step of the build process ✅  
     d. Release early and often to obtain user feedback ✅  
+```
+
+
 **Question:** Select the correct terminology  
+
+
+```
     a. Continuous integration: Technique where members of a team integrate their work frequently. ✅  
     b.  Continuous delivery: Approach in which teams keep producing valuable software in short cycles and ensure that the software can be reliably released at any time. ✅  
     c.  Continuous deployment: Every change that passes automated tests is automatically deployed. ✅  
     d. Continuous  Software Engineering: Organizational capability to develop, release and learn from software in short cycles. ✅  
+```
+
+
 **Question:** What is meant by DevOps?  
+
+
+```
     a. An approach that can only be used by small companies  
     b. An acronym for Development + Operations ✅  
     c. An emphasis on development, quality and operation departments to work closely together to release software faster and more reliable ✅  
     d. A new software process model
+```
+
+
 
 #### Quiz 19: Risk and Demo Management
 
 **Question:** What is risk?
 
 ```
-a. A conflict
-
-b. A potential harm ✅
-
-c. A problem
-
-d. A deviation from an expectation ✅ 
+    a. A conflict
+    b. A potential harm ✅
+    c. A problem
+    d. A deviation from an expectation ✅
 ```
+
+**Question:** What are dimensions of the risk assessment matrix?
+
+
+```
+    a. Impact ✅
+    b. Control ✅
+    c. Mitigation
+    d. Probability ✅
+```
+
+
+**Question:** What are typical risk mitigation strategies?
+
+
+```
+    a. Risk ignorance
+    b. Risk transfer ✅
+    c. Risk control ✅
+    d. Risk avoidance ✅
+```
+
+
+**Question:** What is described by Murphy's Law?
+
+
+```
+    a. If there's more than one way to do a job and one of those ways will end in disaster, then somebody will do it that way. ✅
+    b. When things are going well, something will go wrong ✅
+    c. Nothing can go wrong
+    d. Anything that can go wrong will go wrong ✅
+```
+
+
+**Question:** What are components of a formalized scenario?
+
+
+```
+    a. Conditions that have to be met before the scenario starts ✅
+    b. Schedule that describes the time plan for the implementation of the scenario
+    c. Interaction between actors and system ✅
+    d. Top level design of the architecture of the scenario
+```
+
+
+**Question:** What are activities during the textual analysis in Abbot's Technique?
+
+
+```
+    a. Identify verbs as candidates for classes
+    b. Identify nouns as candidates for methods
+    c. Identify verbs as candidates for methods ✅
+    d. Identify nouns as candidates for classes ✅
+```
+
+
+
 
 
 
