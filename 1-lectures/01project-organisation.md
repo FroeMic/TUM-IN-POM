@@ -10,6 +10,30 @@
 
 ---
 
+### Team vs Group
+
+##### Stages of Team Development
+
+1. Forming
+2. Storming 
+3. Norming
+4. Performing
+
+##### Group
+
+* number of persons with some relationship to each other
+* participants are loosely connected
+* do not focus on a specific outcome 
+* do not have a common purpose
+* every individual works on his / her own.
+
+##### Team
+
+* any group of people involved in the same activity **with a common goal**, especially referring to sports and work
+* particpiants are strongly connected
+* focus on specific outcome (requires coordination of tasks and activities)
+* members need to work together
+
 ### Project:
 
 * is an undertaking, limited in time, with a clear goal and a specific budget, requiring a concerted effort
