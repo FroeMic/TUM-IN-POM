@@ -1,0 +1,50 @@
+1. Terminology
+    * Communication Event - An event that facilitates communication between the members of a team. Communication Mechanism -  A tool or a procedure that enables communication between different team members.
+    * It is meeting, in which the team discusses about a past project. The goal is to evaluate what can be done better in the future and what should stay the same. It is a meetings that aims to improve the quality of future projects.
+    * Scrum is a revolutionary, agile Software Lifecycle model. It replaces a hole new process containing defined artifacts and meetings. Knaban on the other hand builds on top of existing structures, roles and responsibilities. The goal of Kansan is to gradually improve the existing process. It is an evolutionary process.
+    * Vertical integrations describes a process, in which there is a whole feature implemented, including all layers of the software architecture. Horizontal integration on the other hand describes a process that focuses on implementing the Project Layer by layer (Very often practiced in linear software models).
+2. Risk Management in Global Projects
+    1. _
+        1. There is a big time difference between the three countries. This makes communication in the team harder. 
+        2. There are cultural differences between the three countries. This can influence the quality of collaboration during the project.
+        3. There is a big distance between the different departments. Face-to-Face meetings might be not possible. This makes it harder to solve conflicts.
+        4. (People might be hesitant to collaborate with people they do not know well - Stick to own local team - which leads to decoupled sub-teams
+    2. _
+        1. Its is most likely that there are communication problems - due ti the time difference -> High probability. In the extreme this would hinder a successful project -> High Impact, Can be controled if management reacts accordingly -> Medium Control.
+        2. Depending on the professionally of the team, cultural constrains might hinder collaboration -> Medium Probability. As I assume a basic level of professionally within my team I expect the influence to be small -> low/medium impact. Risk can be controlled if management acts accordingly. -> High Control
+        3. Distance: Distance makes it hard for the team to solve conflicts - as the distance is a fact the probability is hight. The impact of the this would be a decrease of collaborations - which would have a high impact on the projects success. However it can be controlled if the management knows about the problem and addresses it -> High control.
+    3. _
+        1. Time Difference: I would provide a detailed plan in the beginning that provides scheduled meetings.  Thereby it is important to find a meeting time that is acceptable for all participants.
+        2. Cultural Difference: Besides the kickoff, we will have educational workshops explaining the cultural specialities of the participating countries. Moreover visualizing the team helps to raise awareness of cultural backgrounds.
+        3. Distance: The Kickoff meeting in the beginning is held at a location where the whole team meets. So called Staelites - people delegated to other locations help to solve conflicts and problems.
+3. Agile Methodologies:
+		1. 	Agile methodologies focus on leadership at each level of the team: This means that decisions and solutions are made/developed by every team member. Additionally agile methods perceive change as an opportunity to improve the product. Moreover, agile methods aim to				continuously improve the process itself. They do so by introducing artifacts like retroperspectives which help to incorporate feedback into the process. Lastly they foster communication within the team - Meetings like dailies, which are common in agile methods ensure that the project 		team is aligned.
+		2. _	
+4. SCM
+    1. For this project I choose project based organization. This allows to leverage the expertise we have in both companies. Additionally we merely have any lean time for project members during the process. We have three management roles in the team. The Product manager ensures that the product functionalities are developed and prioritized in the right manner. The Release Manager makes decisions about, when, how often and which changes of the product are released to our users. The Project Manager ensures that the project itself is on track: his task are to maintain accountable, to manage resources and to ensure the project goals are met.
+    2. We use 5 Branches for the Development:
+        1. Master Branch: Contains released version of our Product
+        2. Developer Branch: Contains internal promotions
+        3. Feature Branch: Contains Features and Explorations
+        4. Release Branch: Contains release candidates 
+    3. _
+
+
+5. SLC
+    1. A proposal is a suggestion for a tailored project, that solves the clients request/problem. It is an offer for a solution to the problem. A contract on the other hand defines guidelines and rules for the execution of the project.
+    2. _
+        1. Team is not used to Waterfall model anymore: Solution - Have a workshop that refreshed the knowledge
+        2. Team feels like they are left out on decisions: Solution - Communicate very openly to the team and explain the situation
+        3. Communication in the team saturates: Solution - Introduce agile like meetings that strengthen communication in the team.
+    3. _
+        1. Fixed Cost: The Client pays a fixed price for a well defined Software project. In this contract it is not possible to react change. However the extension with „Change for free option“ allows to react to change. It describes a procedure in which the client exchanges one feature for another one. This change than has to be included into the contract. +: Change is very well documented in the contract / +: Keeps costs low by keeping implementation amount at a constant level / - : Features that are important might get lost because they are replaces /-: No  focus on value but on keeping the financial risk low.
+        2.  Time & Material: The client is charges base on the time and material provided by the contractor. Change is easy to incorporate as the only limitation is that the client pays for it. +: Focus on creating a valuable product / +: New technology can easily be included / -:Contractor might be interested to charge more than necessary / -: cost can exceed project budget
+6. AP
+    1. _
+        1.  A qualified employee is promoted until he no longer works in the field that matches his abilities best.
+        2. Promoting your least able employee to mid management to reduct that harm he can cause
+        3. The Work that your employees to will exceed to the time that you provided for the task.
+        4. Whatever can go wrong will go wrong. Every risk materializes sooner or later.
+    2. _
+        1. Peters principle - Problem: Some employees in mid management positions are not performing or unhappy. Cause: They are constantly promoted until they no longer work according to their competencies. Solution: Put them to work in their core competencies. Follow on Problem: As they are high performers they might seek promotions (but just not know yet that they do not like to perform management tasks)
+        2. Parkinsons Law - Problem: The time taken for a task exceeds to the amount scheduled for it. Cause: People work on the task as long as they have time -> There is always room for improvement or they might just be lazy and wait until the last minute. Consequences: Project time takes longer than scheduled / expected. Solution: Reestimate time frames with experts or within the team. Follow on Problems: Team might feel pressured by the changing time constrains.
