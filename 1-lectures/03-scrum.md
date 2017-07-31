@@ -20,7 +20,7 @@
 * Software development is empirical by nature
 * It cannot be modeled with a defined process
 
-##### Define vs Empirical Process Models
+##### Defined vs Empirical Process Models
 
 **Defined Process:** Planned, Follows strict rules, Avoids deviations  
 **Empirical Process**: Not entirely planned; rather inspect and adapt

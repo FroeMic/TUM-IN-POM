@@ -29,7 +29,7 @@
 
 ##### Definition Proposal
 
-* Legally binding, formal and comprehensive offer to a clients to solve a business problem by defining an appropriately tailored project
+* Legally binding, formal and comprehensive offer to a client to solve a business problem by defining an appropriately tailored project
 * \(not an "offer of marriage"\)
 
 ##### Content and Effort to develop a proposal highly depends on the work proposed![](/assets/proposal_effort.png)

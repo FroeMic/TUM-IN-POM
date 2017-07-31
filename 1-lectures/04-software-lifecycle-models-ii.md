@@ -296,7 +296,7 @@ The **2 phases **of the Unified Process are decomposed into 4 distinct phases
 
 * \[4\] Continuous Integration
 * **\[5\] Refactoring**
-* Short releases
+* \[6\] Short releases
 
 ###### 3. Shared Understanding
 
@@ -321,7 +321,7 @@ The **2 phases **of the Unified Process are decomposed into 4 distinct phases
 
 ##### Refactoring
 
-* = a change that ;eaves the system behavior unchanged, but enhances simplicity, flexibility, understandability and/or performance
+* = a change that leaves the system behavior unchanged, but enhances simplicity, flexibility, understandability and/or performance
 * refactor only when the system requires you to do so
 * run all tests after refactoring
 
